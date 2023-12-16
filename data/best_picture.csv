@@ -1,0 +1,592 @@
+,year_film,year_ceremony,ceremony,name,film,winner
+19,1927,1928,1,The Caddo Company,The Racket,False
+20,1927,1928,1,Fox,7th Heaven,False
+21,1927,1928,1,Paramount Famous Lasky,Wings,True
+62,1928,1929,2,Feature Productions,Alibi,False
+63,1928,1929,2,Fox,In Old Arizona,False
+64,1928,1929,2,Metro-Goldwyn-Mayer,The Broadway Melody,True
+65,1928,1929,2,Metro-Goldwyn-Mayer,Hollywood Revue,False
+66,1928,1929,2,Paramount Famous Lasky,The Patriot,False
+100,1929,1930,3,Universal,All Quiet on the Western Front,True
+101,1929,1930,3,Cosmopolitan,The Big House,False
+102,1929,1930,3,Warner Bros.,Disraeli,False
+103,1929,1930,3,Metro-Goldwyn-Mayer,The Divorcee,False
+104,1929,1930,3,Paramount Famous Lasky,The Love Parade,False
+140,1930,1931,4,RKO Radio,Cimarron,True
+141,1930,1931,4,Fox,East Lynne,False
+142,1930,1931,4,The Caddo Company,The Front Page,False
+143,1930,1931,4,Paramount Publix,Skippy,False
+144,1930,1931,4,Metro-Goldwyn-Mayer,Trader Horn,False
+174,1931,1932,5,Samuel Goldwyn Productions,Arrowsmith,False
+175,1931,1932,5,Fox,Bad Girl,False
+176,1931,1932,5,Metro-Goldwyn-Mayer,The Champ,False
+177,1931,1932,5,First National,Five Star Final,False
+178,1931,1932,5,Metro-Goldwyn-Mayer,Grand Hotel,True
+179,1931,1932,5,Paramount Publix,One Hour with You,False
+180,1931,1932,5,Paramount Publix,Shanghai Express,False
+181,1931,1932,5,Paramount Publix,The Smiling Lieutenant,False
+237,1932,1933,6,Fox,Cavalcade,True
+238,1932,1933,6,Paramount,A Farewell to Arms,False
+239,1932,1933,6,Warner Bros.,42nd Street,False
+240,1932,1933,6,Warner Bros.,I Am a Fugitive from a Chain Gang,False
+241,1932,1933,6,Columbia,Lady for a Day,False
+242,1932,1933,6,RKO Radio,Little Women,False
+243,1932,1933,6,London Films,The Private Life of Henry VIII,False
+244,1932,1933,6,Paramount,She Done Him Wrong,False
+245,1932,1933,6,Metro-Goldwyn-Mayer,Smilin' Through,False
+246,1932,1933,6,Fox,State Fair,False
+294,1934,1935,7,Metro-Goldwyn-Mayer,The Barretts of Wimpole Street,False
+295,1934,1935,7,Paramount,Cleopatra,False
+296,1934,1935,7,First National,Flirtation Walk,False
+297,1934,1935,7,RKO Radio,The Gay Divorcee,False
+298,1934,1935,7,Warner Bros.,Here Comes the Navy,False
+299,1934,1935,7,20th Century,The House of Rothschild,False
+300,1934,1935,7,Universal,Imitation of Life,False
+301,1934,1935,7,Columbia,It Happened One Night,True
+302,1934,1935,7,Columbia,One Night of Love,False
+303,1934,1935,7,Metro-Goldwyn-Mayer,The Thin Man,False
+304,1934,1935,7,Metro-Goldwyn-Mayer,Viva Villa!,False
+305,1934,1935,7,Jesse L. Lasky (production company),The White Parade,False
+376,1935,1936,8,RKO Radio,Alice Adams,False
+377,1935,1936,8,Metro-Goldwyn-Mayer,Broadway Melody of 1936,False
+378,1935,1936,8,Cosmopolitan,Captain Blood,False
+379,1935,1936,8,Metro-Goldwyn-Mayer,David Copperfield,False
+380,1935,1936,8,RKO Radio,The Informer,False
+381,1935,1936,8,20th Century,Les Miserables,False
+382,1935,1936,8,Paramount,The Lives of a Bengal Lancer,False
+383,1935,1936,8,Warner Bros.,A Midsummer Night's Dream,False
+384,1935,1936,8,Metro-Goldwyn-Mayer,Mutiny on the Bounty,True
+385,1935,1936,8,Metro-Goldwyn-Mayer,Naughty Marietta,False
+386,1935,1936,8,Paramount,Ruggles of Red Gap,False
+387,1935,1936,8,RKO Radio,Top Hat,False
+479,1936,1937,9,Warner Bros.,Anthony Adverse,False
+480,1936,1937,9,Samuel Goldwyn Productions,Dodsworth,False
+481,1936,1937,9,Metro-Goldwyn-Mayer,The Great Ziegfeld,True
+482,1936,1937,9,Metro-Goldwyn-Mayer,Libeled Lady,False
+483,1936,1937,9,Columbia,Mr. Deeds Goes to Town,False
+484,1936,1937,9,Metro-Goldwyn-Mayer,Romeo and Juliet,False
+485,1936,1937,9,Metro-Goldwyn-Mayer,San Francisco,False
+486,1936,1937,9,Cosmopolitan,The Story of Louis Pasteur,False
+487,1936,1937,9,Metro-Goldwyn-Mayer,A Tale of Two Cities,False
+488,1936,1937,9,Universal,Three Smart Girls,False
+598,1937,1938,10,Columbia,The Awful Truth,False
+599,1937,1938,10,Metro-Goldwyn-Mayer,Captains Courageous,False
+600,1937,1938,10,Samuel Goldwyn Productions,Dead End,False
+601,1937,1938,10,Metro-Goldwyn-Mayer,The Good Earth,False
+602,1937,1938,10,20th Century-Fox,In Old Chicago,False
+603,1937,1938,10,Warner Bros.,The Life of Emile Zola,True
+604,1937,1938,10,Columbia,Lost Horizon,False
+605,1937,1938,10,Universal,One Hundred Men and a Girl,False
+606,1937,1938,10,RKO Radio,Stage Door,False
+607,1937,1938,10,Selznick International Pictures,A Star Is Born,False
+729,1938,1939,11,Warner Bros.-First National,The Adventures of Robin Hood,False
+730,1938,1939,11,20th Century-Fox,Alexander's Ragtime Band,False
+731,1938,1939,11,Metro-Goldwyn-Mayer,Boys Town,False
+732,1938,1939,11,Metro-Goldwyn-Mayer,The Citadel,False
+733,1938,1939,11,Warner Bros.-First National,Four Daughters,False
+734,1938,1939,11,Realization D'Art Cinematographique,Grand Illusion,False
+735,1938,1939,11,Warner Bros.,Jezebel,False
+736,1938,1939,11,Metro-Goldwyn-Mayer,Pygmalion,False
+737,1938,1939,11,Metro-Goldwyn-Mayer,Test Pilot,False
+738,1938,1939,11,Columbia,You Can't Take It with You,True
+872,1939,1940,12,Warner Bros.-First National,Dark Victory,False
+873,1939,1940,12,Selznick International Pictures,Gone with the Wind,True
+874,1939,1940,12,Metro-Goldwyn-Mayer,"Goodbye, Mr. Chips",False
+875,1939,1940,12,RKO Radio,Love Affair,False
+876,1939,1940,12,Columbia,Mr. Smith Goes to Washington,False
+877,1939,1940,12,Metro-Goldwyn-Mayer,Ninotchka,False
+878,1939,1940,12,Hal Roach (production company),Of Mice and Men,False
+879,1939,1940,12,Walter Wanger (production company),Stagecoach,False
+880,1939,1940,12,Metro-Goldwyn-Mayer,The Wizard of Oz,False
+881,1939,1940,12,Samuel Goldwyn Productions,Wuthering Heights,False
+1025,1940,1941,13,Warner Bros.,"All This, and Heaven Too",False
+1026,1940,1941,13,Walter Wanger (production company),Foreign Correspondent,False
+1027,1940,1941,13,20th Century-Fox,The Grapes of Wrath,False
+1028,1940,1941,13,Charles Chaplin Productions,The Great Dictator,False
+1029,1940,1941,13,RKO Radio,Kitty Foyle,False
+1030,1940,1941,13,Warner Bros.,The Letter,False
+1031,1940,1941,13,Argosy-Wanger,The Long Voyage Home,False
+1032,1940,1941,13,Sol Lesser (production company),Our Town,False
+1033,1940,1941,13,Metro-Goldwyn-Mayer,The Philadelphia Story,False
+1034,1940,1941,13,Selznick International Pictures,Rebecca,True
+1198,1941,1942,14,Metro-Goldwyn-Mayer,Blossoms in the Dust,False
+1199,1941,1942,14,Mercury,Citizen Kane,False
+1200,1941,1942,14,Columbia,Here Comes Mr. Jordan,False
+1201,1941,1942,14,Paramount,Hold Back the Dawn,False
+1202,1941,1942,14,20th Century-Fox,How Green Was My Valley,True
+1203,1941,1942,14,Samuel Goldwyn Productions,The Little Foxes,False
+1204,1941,1942,14,Warner Bros.,The Maltese Falcon,False
+1205,1941,1942,14,Warner Bros.,One Foot in Heaven,False
+1206,1941,1942,14,Warner Bros.,Sergeant York,False
+1207,1941,1942,14,RKO Radio,Suspicion,False
+1392,1942,1943,15,Ortus,The Invaders,False
+1393,1942,1943,15,Warner Bros.,Kings Row,False
+1394,1942,1943,15,Mercury,The Magnificent Ambersons,False
+1395,1942,1943,15,Metro-Goldwyn-Mayer,Mrs. Miniver,True
+1396,1942,1943,15,20th Century-Fox,The Pied Piper,False
+1397,1942,1943,15,Samuel Goldwyn Productions,The Pride of the Yankees,False
+1398,1942,1943,15,Metro-Goldwyn-Mayer,Random Harvest,False
+1399,1942,1943,15,Columbia,The Talk of the Town,False
+1400,1942,1943,15,Paramount,Wake Island,False
+1401,1942,1943,15,Warner Bros.,Yankee Doodle Dandy,False
+1578,1943,1944,16,Warner Bros.,Casablanca,True
+1579,1943,1944,16,Paramount,For Whom the Bell Tolls,False
+1580,1943,1944,16,20th Century-Fox,Heaven Can Wait,False
+1581,1943,1944,16,Metro-Goldwyn-Mayer,The Human Comedy,False
+1582,1943,1944,16,Two Cities,In Which We Serve,False
+1583,1943,1944,16,Metro-Goldwyn-Mayer,Madame Curie,False
+1584,1943,1944,16,Columbia,The More the Merrier,False
+1585,1943,1944,16,20th Century-Fox,The Ox-Bow Incident,False
+1586,1943,1944,16,20th Century-Fox,The Song of Bernadette,False
+1587,1943,1944,16,Warner Bros.,Watch on the Rhine,False
+1751,1944,1945,17,Paramount,Double Indemnity,False
+1752,1944,1945,17,Metro-Goldwyn-Mayer,Gaslight,False
+1753,1944,1945,17,Paramount,Going My Way,True
+1754,1944,1945,17,Selznick International Pictures,Since You Went Away,False
+1755,1944,1945,17,20th Century-Fox,Wilson,False
+1909,1945,1946,18,Metro-Goldwyn-Mayer,Anchors Aweigh,False
+1910,1945,1946,18,Rainbow Productions,The Bells of St. Mary's,False
+1911,1945,1946,18,Paramount,The Lost Weekend,True
+1912,1945,1946,18,Warner Bros.,Mildred Pierce,False
+1913,1945,1946,18,Selznick International Pictures,Spellbound,False
+2027,1946,1947,19,Samuel Goldwyn Productions,The Best Years of Our Lives,True
+2028,1946,1947,19,J. Arthur Rank-Two Cities Films,Henry V,False
+2029,1946,1947,19,Liberty Films,It's a Wonderful Life,False
+2030,1946,1947,19,20th Century-Fox,The Razor's Edge,False
+2031,1946,1947,19,Metro-Goldwyn-Mayer,The Yearling,False
+2132,1947,1948,20,Samuel Goldwyn Productions,The Bishop's Wife,False
+2133,1947,1948,20,RKO Radio,Crossfire,False
+2134,1947,1948,20,20th Century-Fox,Gentleman's Agreement,True
+2135,1947,1948,20,J. Arthur Rank-Cineguild,Great Expectations,False
+2136,1947,1948,20,20th Century-Fox,Miracle on 34th Street,False
+2243,1948,1949,21,J. Arthur Rank-Two Cities Films,Hamlet,True
+2244,1948,1949,21,Warner Bros.,Johnny Belinda,False
+2245,1948,1949,21,J. Arthur Rank-Archers,The Red Shoes,False
+2246,1948,1949,21,20th Century-Fox,The Snake Pit,False
+2247,1948,1949,21,Warner Bros.,The Treasure of the Sierra Madre,False
+2352,1949,1950,22,Robert Rossen Productions,All the King's Men,True
+2353,1949,1950,22,Metro-Goldwyn-Mayer,Battleground,False
+2354,1949,1950,22,Paramount,The Heiress,False
+2355,1949,1950,22,20th Century-Fox,A Letter to Three Wives,False
+2356,1949,1950,22,20th Century-Fox,Twelve O'Clock High,False
+2469,1950,1951,23,20th Century-Fox,All about Eve,True
+2470,1950,1951,23,Columbia,Born Yesterday,False
+2471,1950,1951,23,Metro-Goldwyn-Mayer,Father of the Bride,False
+2472,1950,1951,23,Metro-Goldwyn-Mayer,King Solomon's Mines,False
+2473,1950,1951,23,Paramount,Sunset Blvd.,False
+2589,1951,1952,24,"Arthur Freed, Producer",An American in Paris,True
+2590,1951,1952,24,"Anatole Litvak and Frank McCarthy, Producers",Decision before Dawn,False
+2591,1951,1952,24,"George Stevens, Producer",A Place in the Sun,False
+2592,1951,1952,24,"Sam Zimbalist, Producer",Quo Vadis,False
+2593,1951,1952,24,"Charles K. Feldman, Producer",A Streetcar Named Desire,False
+2709,1952,1953,25,"Cecil B. DeMille, Producer",The Greatest Show on Earth,True
+2710,1952,1953,25,"Stanley Kramer, Producer",High Noon,False
+2711,1952,1953,25,"Pandro S. Berman, Producer",Ivanhoe,False
+2712,1952,1953,25,Romulus Films,Moulin Rouge,False
+2713,1952,1953,25,"John Ford and Merian C. Cooper, Producers",The Quiet Man,False
+2839,1953,1954,26,"Buddy Adler, Producer",From Here to Eternity,True
+2840,1953,1954,26,"John Houseman, Producer",Julius Caesar,False
+2841,1953,1954,26,"Frank Ross, Producer",The Robe,False
+2842,1953,1954,26,"William Wyler, Producer",Roman Holiday,False
+2843,1953,1954,26,"George Stevens, Producer",Shane,False
+2965,1954,1955,27,"Stanley Kramer, Producer",The Caine Mutiny,False
+2966,1954,1955,27,"William Perlberg, Producer",The Country Girl,False
+2967,1954,1955,27,"Sam Spiegel, Producer",On the Waterfront,True
+2968,1954,1955,27,"Jack Cummings, Producer",Seven Brides for Seven Brothers,False
+2969,1954,1955,27,"Sol C. Siegel, Producer",Three Coins in the Fountain,False
+3092,1955,1956,28,"Buddy Adler, Producer",Love Is a Many-Splendored Thing,False
+3093,1955,1956,28,"Harold Hecht, Producer",Marty,True
+3094,1955,1956,28,"Leland Hayward, Producer",Mister Roberts,False
+3095,1955,1956,28,"Fred Kohlmar, Producer",Picnic,False
+3096,1955,1956,28,"Hal B. Wallis, Producer",The Rose Tattoo,False
+3222,1956,1957,29,"Michael Todd, Producer",Around the World in 80 Days,True
+3223,1956,1957,29,"William Wyler, Producer",Friendly Persuasion,False
+3224,1956,1957,29,"George Stevens and Henry Ginsberg, Producers",Giant,False
+3225,1956,1957,29,"Charles Brackett, Producer",The King and I,False
+3226,1956,1957,29,"Cecil B. DeMille, Producer",The Ten Commandments,False
+3325,1957,1958,30,"Sam Spiegel, Producer",The Bridge on the River Kwai,True
+3326,1957,1958,30,"Jerry Wald, Producer",Peyton Place,False
+3327,1957,1958,30,"William Goetz, Producer",Sayonara,False
+3328,1957,1958,30,"Henry Fonda and Reginald Rose, Producers",12 Angry Men,False
+3329,1957,1958,30,"Arthur Hornblow, Jr., Producer",Witness for the Prosecution,False
+3441,1958,1959,31,Warner Bros.,Auntie Mame,False
+3442,1958,1959,31,"Lawrence Weingarten, Producer",Cat on a Hot Tin Roof,False
+3443,1958,1959,31,"Stanley Kramer, Producer",The Defiant Ones,False
+3444,1958,1959,31,"Arthur Freed, Producer",Gigi,True
+3445,1958,1959,31,"Harold Hecht, Producer",Separate Tables,False
+3558,1959,1960,32,"Otto Preminger, Producer",Anatomy of a Murder,False
+3559,1959,1960,32,"Sam Zimbalist, Producer",Ben-Hur,True
+3560,1959,1960,32,"George Stevens, Producer",The Diary of Anne Frank,False
+3561,1959,1960,32,"Henry Blanke, Producer",The Nun's Story,False
+3562,1959,1960,32,"John Woolf and James Woolf, Producers",Room at the Top,False
+3679,1960,1961,33,"John Wayne, Producer",The Alamo,False
+3680,1960,1961,33,"Billy Wilder, Producer",The Apartment,True
+3681,1960,1961,33,"Bernard Smith, Producer",Elmer Gantry,False
+3682,1960,1961,33,"Jerry Wald, Producer",Sons and Lovers,False
+3683,1960,1961,33,"Fred Zinnemann, Producer",The Sundowners,False
+3801,1961,1962,34,"Joshua Logan, Producer",Fanny,False
+3802,1961,1962,34,"Carl Foreman, Producer",The Guns of Navarone,False
+3803,1961,1962,34,"Robert Rossen, Producer",The Hustler,False
+3804,1961,1962,34,"Stanley Kramer, Producer",Judgment at Nuremberg,False
+3805,1961,1962,34,"Robert Wise, Producer",West Side Story,True
+3923,1962,1963,35,"Sam Spiegel, Producer",Lawrence of Arabia,True
+3924,1962,1963,35,"Darryl F. Zanuck, Producer",The Longest Day,False
+3925,1962,1963,35,"Morton Da Costa, Producer",Meredith Willson's The Music Man,False
+3926,1962,1963,35,"Aaron Rosenberg, Producer",Mutiny on the Bounty,False
+3927,1962,1963,35,"Alan J. Pakula, Producer",To Kill a Mockingbird,False
+4045,1963,1964,36,"Elia Kazan, Producer",America America,False
+4046,1963,1964,36,"Walter Wanger, Producer",Cleopatra,False
+4047,1963,1964,36,"Bernard Smith, Producer",How the West Was Won,False
+4048,1963,1964,36,"Ralph Nelson, Producer",Lilies of the Field,False
+4049,1963,1964,36,"Tony Richardson, Producer",Tom Jones,True
+4170,1964,1965,37,"Hal B. Wallis, Producer",Becket,False
+4171,1964,1965,37,"Stanley Kubrick, Producer",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+4172,1964,1965,37,"Walt Disney and Bill Walsh, Producers",Mary Poppins,False
+4173,1964,1965,37,"Jack L. Warner, Producer",My Fair Lady,True
+4174,1964,1965,37,"Michael Cacoyannis, Producer",Zorba the Greek,False
+4292,1965,1966,38,"Joseph Janni, Producer",Darling,False
+4293,1965,1966,38,"Carlo Ponti, Producer",Doctor Zhivago,False
+4294,1965,1966,38,"Stanley Kramer, Producer",Ship of Fools,False
+4295,1965,1966,38,"Robert Wise, Producer",The Sound of Music,True
+4296,1965,1966,38,"Fred Coe, Producer",A Thousand Clowns,False
+4417,1966,1967,39,"Lewis Gilbert, Producer",Alfie,False
+4418,1966,1967,39,"Fred Zinnemann, Producer",A Man for All Seasons,True
+4419,1966,1967,39,"Norman Jewison, Producer",The Russians Are Coming The Russians Are Coming,False
+4420,1966,1967,39,"Robert Wise, Producer",The Sand Pebbles,False
+4421,1966,1967,39,"Ernest Lehman, Producer",Who's Afraid of Virginia Woolf?,False
+4526,1967,1968,40,"Warren Beatty, Producer",Bonnie and Clyde,False
+4527,1967,1968,40,"Arthur P. Jacobs, Producer",Doctor Dolittle,False
+4528,1967,1968,40,"Lawrence Turman, Producer",The Graduate,False
+4529,1967,1968,40,"Stanley Kramer, Producer",Guess Who's Coming to Dinner,False
+4530,1967,1968,40,"Walter Mirisch, Producer",In the Heat of the Night,True
+4635,1968,1969,41,"Ray Stark, Producer",Funny Girl,False
+4636,1968,1969,41,"Martin Poll, Producer",The Lion in Winter,False
+4637,1968,1969,41,"John Woolf, Producer",Oliver!,True
+4638,1968,1969,41,"Paul Newman, Producer","Rachel, Rachel",False
+4639,1968,1969,41,"Anthony Havelock-Allan and John Brabourne, Producers",Romeo and Juliet,False
+4743,1969,1970,42,"Hal B. Wallis, Producer",Anne of the Thousand Days,False
+4744,1969,1970,42,"John Foreman, Producer",Butch Cassidy and the Sundance Kid,False
+4745,1969,1970,42,"Ernest Lehman, Producer","Hello, Dolly!",False
+4746,1969,1970,42,"Jerome Hellman, Producer",Midnight Cowboy,True
+4747,1969,1970,42,"Jacques Perrin and Hamed Rachedi, Producers",Z,False
+4848,1970,1971,43,"Ross Hunter, Producer",Airport,False
+4849,1970,1971,43,"Bob Rafelson and Richard Wechsler, Producers",Five Easy Pieces,False
+4850,1970,1971,43,"Howard G. Minsky, Producer",Love Story,False
+4851,1970,1971,43,"Ingo Preminger, Producer",M*A*S*H,False
+4852,1970,1971,43,"Frank McCarthy, Producer",Patton,True
+4955,1971,1972,44,"Stanley Kubrick, Producer",A Clockwork Orange,False
+4956,1971,1972,44,"Norman Jewison, Producer",Fiddler on the Roof,False
+4957,1971,1972,44,"Philip D'Antoni, Producer",The French Connection,True
+4958,1971,1972,44,"Stephen J. Friedman, Producer",The Last Picture Show,False
+4959,1971,1972,44,"Sam Spiegel, Producer",Nicholas and Alexandra,False
+5058,1972,1973,45,"Cy Feuer, Producer",Cabaret,False
+5059,1972,1973,45,"John Boorman, Producer",Deliverance,False
+5060,1972,1973,45,"Bengt Forslund, Producer",The Emigrants,False
+5061,1972,1973,45,"Albert S. Ruddy, Producer",The Godfather,True
+5062,1972,1973,45,"Robert B. Radnitz, Producer",Sounder,False
+5161,1973,1974,46,"Francis Ford Coppola, Producer;  Gary Kurtz, Co-Producer",American Graffiti,False
+5162,1973,1974,46,"Ingmar Bergman, Producer",Cries and Whispers,False
+5163,1973,1974,46,"William Peter Blatty, Producer",The Exorcist,False
+5164,1973,1974,46,"Tony Bill, Michael Phillips and Julia Phillips, Producers",The Sting,True
+5165,1973,1974,46,"Melvin Frank, Producer",A Touch of Class,False
+5264,1974,1975,47,"Robert Evans, Producer",Chinatown,False
+5265,1974,1975,47,"Francis Ford Coppola, Producer;  Fred Roos, Co-Producer",The Conversation,False
+5266,1974,1975,47,"Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers",The Godfather Part II,True
+5267,1974,1975,47,"Marvin Worth, Producer",Lenny,False
+5268,1974,1975,47,"Irwin Allen, Producer",The Towering Inferno,False
+5371,1975,1976,48,"Stanley Kubrick, Producer",Barry Lyndon,False
+5372,1975,1976,48,"Martin Bregman and Martin Elfand, Producers",Dog Day Afternoon,False
+5373,1975,1976,48,"Richard D. Zanuck and David Brown, Producers",Jaws,False
+5374,1975,1976,48,"Robert Altman, Producer",Nashville,False
+5375,1975,1976,48,"Saul Zaentz and Michael Douglas, Producers",One Flew over the Cuckoo's Nest,True
+5478,1976,1977,49,"Walter Coblenz, Producer",All the President's Men,False
+5479,1976,1977,49,"Robert F. Blumofe and Harold Leventhal, Producers",Bound for Glory,False
+5480,1976,1977,49,"Howard Gottfried, Producer",Network,False
+5481,1976,1977,49,"Irwin Winkler and Robert Chartoff, Producers",Rocky,True
+5482,1976,1977,49,"Michael Phillips and Julia Phillips, Producers",Taxi Driver,False
+5582,1977,1978,50,"Charles H. Joffe, Producer",Annie Hall,True
+5583,1977,1978,50,"Ray Stark, Producer",The Goodbye Girl,False
+5584,1977,1978,50,"Richard Roth, Producer",Julia,False
+5585,1977,1978,50,"Gary Kurtz, Producer",Star Wars,False
+5586,1977,1978,50,"Herbert Ross and Arthur Laurents, Producers",The Turning Point,False
+5691,1978,1979,51,"Jerome Hellman, Producer",Coming Home,False
+5692,1978,1979,51,"Barry Spikings, Michael Deeley, Michael Cimino and John Peverall, Producers",The Deer Hunter,True
+5693,1978,1979,51,"Warren Beatty, Producer",Heaven Can Wait,False
+5694,1978,1979,51,"Alan Marshall and David Puttnam, Producers",Midnight Express,False
+5695,1978,1979,51,"Paul Mazursky and Tony Ray, Producers",An Unmarried Woman,False
+5797,1979,1980,52,"Robert Alan Aurthur, Producer",All That Jazz,False
+5798,1979,1980,52,"Francis Coppola, Producer;  Fred Roos, Gray Frederickson and Tom Sternberg, Co-Producers",Apocalypse Now,False
+5799,1979,1980,52,"Peter Yates, Producer",Breaking Away,False
+5800,1979,1980,52,"Stanley R. Jaffe, Producer",Kramer vs. Kramer,True
+5801,1979,1980,52,"Tamara Asseyev and Alex Rose, Producers",Norma Rae,False
+5905,1980,1981,53,"Bernard Schwartz, Producer",Coal Miner's Daughter,False
+5906,1980,1981,53,"Jonathan Sanger, Producer",The Elephant Man,False
+5907,1980,1981,53,"Ronald L. Schwary, Producer",Ordinary People,True
+5908,1980,1981,53,"Irwin Winkler and Robert Chartoff, Producers",Raging Bull,False
+5909,1980,1981,53,"Claude Berri, Producer;  Timothy Burrill, Co-Producer",Tess,False
+6005,1981,1982,54,"Denis Heroux and John Kemeny, Producers",Atlantic City,False
+6006,1981,1982,54,"David Puttnam, Producer",Chariots of Fire,True
+6007,1981,1982,54,"Bruce Gilbert, Producer",On Golden Pond,False
+6008,1981,1982,54,"Frank Marshall, Producer",Raiders of the Lost Ark,False
+6009,1981,1982,54,"Warren Beatty, Producer",Reds,False
+6112,1982,1983,55,"Steven Spielberg and Kathleen Kennedy, Producers",E.T. The Extra-Terrestrial,False
+6113,1982,1983,55,"Richard Attenborough, Producer",Gandhi,True
+6114,1982,1983,55,"Edward Lewis and Mildred Lewis, Producers",Missing,False
+6115,1982,1983,55,"Sydney Pollack and Dick Richards, Producers",Tootsie,False
+6116,1982,1983,55,"Richard D. Zanuck and David Brown, Producers",The Verdict,False
+6221,1983,1984,56,"Michael Shamberg, Producer",The Big Chill,False
+6222,1983,1984,56,"Peter Yates, Producer",The Dresser,False
+6223,1983,1984,56,"Irwin Winkler and Robert Chartoff, Producers",The Right Stuff,False
+6224,1983,1984,56,"Philip S. Hobel, Producer",Tender Mercies,False
+6225,1983,1984,56,"James L. Brooks, Producer",Terms of Endearment,True
+6328,1984,1985,57,"Saul Zaentz, Producer",Amadeus,True
+6329,1984,1985,57,"David Puttnam, Producer",The Killing Fields,False
+6330,1984,1985,57,"John Brabourne and Richard Goodwin, Producers",A Passage to India,False
+6331,1984,1985,57,"Arlene Donovan, Producer",Places in the Heart,False
+6332,1984,1985,57,"Norman Jewison, Ronald L. Schwary and Patrick Palmer, Producers",A Soldier's Story,False
+6434,1985,1986,58,"Steven Spielberg, Kathleen Kennedy, Frank Marshall and Quincy Jones, Producers",The Color Purple,False
+6435,1985,1986,58,"David Weisman, Producer",Kiss of the Spider Woman,False
+6436,1985,1986,58,"Sydney Pollack, Producer",Out of Africa,True
+6437,1985,1986,58,"John Foreman, Producer",Prizzi's Honor,False
+6438,1985,1986,58,"Edward S. Feldman, Producer",Witness,False
+6542,1986,1987,59,"Burt Sugarman and Patrick Palmer, Producers",Children of a Lesser God,False
+6543,1986,1987,59,"Robert Greenhut, Producer",Hannah and Her Sisters,False
+6544,1986,1987,59,"Fernando Ghia and David Puttnam, Producers",The Mission,False
+6545,1986,1987,59,"Arnold Kopelson, Producer",Platoon,True
+6546,1986,1987,59,"Ismail Merchant, Producer",A Room with a View,False
+6648,1987,1988,60,"James L. Brooks, Producer",Broadcast News,False
+6649,1987,1988,60,"Stanley R. Jaffe and Sherry Lansing, Producers",Fatal Attraction,False
+6650,1987,1988,60,"John Boorman, Producer",Hope and Glory,False
+6651,1987,1988,60,"Jeremy Thomas, Producer",The Last Emperor,True
+6652,1987,1988,60,"Patrick Palmer and Norman Jewison, Producers",Moonstruck,False
+6749,1988,1989,61,"Lawrence Kasdan, Charles Okun and Michael Grillo, Producers",The Accidental Tourist,False
+6750,1988,1989,61,"Norma Heyman and Hank Moonjean, Producers",Dangerous Liaisons,False
+6751,1988,1989,61,"Frederick Zollo and Robert F. Colesberry, Producers",Mississippi Burning,False
+6752,1988,1989,61,"Mark Johnson, Producer",Rain Man,True
+6753,1988,1989,61,"Douglas Wick, Producer",Working Girl,False
+6855,1989,1990,62,"A. Kitman Ho and Oliver Stone, Producers",Born on the Fourth of July,False
+6856,1989,1990,62,"Steven Haft, Paul Junger Witt and Tony Thomas, Producers",Dead Poets Society,False
+6857,1989,1990,62,"Richard D. Zanuck and Lili Fini Zanuck, Producers",Driving Miss Daisy,True
+6858,1989,1990,62,"Lawrence Gordon and Charles Gordon, Producers",Field of Dreams,False
+6859,1989,1990,62,"Noel Pearson, Producer",My Left Foot,False
+6962,1990,1991,63,"Walter F. Parkes and Lawrence Lasker, Producers",Awakenings,False
+6963,1990,1991,63,"Jim Wilson and Kevin Costner, Producers",Dances With Wolves,True
+6964,1990,1991,63,"Lisa Weinstein, Producer",Ghost,False
+6965,1990,1991,63,"Francis Ford Coppola, Producer","The Godfather, Part III",False
+6966,1990,1991,63,"Irwin Winkler, Producer",Good Fellas,False
+7070,1991,1992,64,"Don Hahn, Producer",Beauty and the Beast,False
+7071,1991,1992,64,"Mark Johnson, Barry Levinson and Warren Beatty, Producers",Bugsy,False
+7072,1991,1992,64,"A. Kitman Ho and Oliver Stone, Producers",JFK,False
+7073,1991,1992,64,"Barbra Streisand and Andrew Karsch, Producers",The Prince of Tides,False
+7074,1991,1992,64,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers",The Silence of the Lambs,True
+7177,1992,1993,65,"Stephen Woolley, Producer",The Crying Game,False
+7178,1992,1993,65,"David Brown, Rob Reiner and Andrew Scheinman, Producers",A Few Good Men,False
+7179,1992,1993,65,"Ismail Merchant, Producer",Howards End,False
+7180,1992,1993,65,"Martin Brest, Producer",Scent of a Woman,False
+7181,1992,1993,65,"Clint Eastwood, Producer",Unforgiven,True
+7287,1993,1994,66,"Arnold Kopelson, Producer",The Fugitive,False
+7288,1993,1994,66,"Jim Sheridan, Producer",In the Name of the Father,False
+7289,1993,1994,66,"Jan Chapman, Producer",The Piano,False
+7290,1993,1994,66,"Mike Nichols, John Calley and Ismail Merchant, Producers",The Remains of the Day,False
+7291,1993,1994,66,"Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers",Schindler's List,True
+7398,1994,1995,67,"Wendy Finerman, Steve Tisch and Steve Starkey, Producers",Forrest Gump,True
+7399,1994,1995,67,"Duncan Kenworthy, Producer",Four Weddings and a Funeral,False
+7400,1994,1995,67,"Lawrence Bender, Producer",Pulp Fiction,False
+7401,1994,1995,67,"Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik, Producers",Quiz Show,False
+7402,1994,1995,67,"Niki Marvin, Producer",The Shawshank Redemption,False
+7515,1995,1996,68,"Brian Grazer, Producer",Apollo 13,False
+7516,1995,1996,68,"George Miller, Doug Mitchell and Bill Miller, Producers",Babe,False
+7517,1995,1996,68,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",Braveheart,True
+7518,1995,1996,68,"Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",The Postman (Il Postino),False
+7519,1995,1996,68,"Lindsay Doran, Producer",Sense and Sensibility,False
+7631,1996,1997,69,"Saul Zaentz, Producer",The English Patient,True
+7632,1996,1997,69,"Ethan Coen, Producer",Fargo,False
+7633,1996,1997,69,"James L. Brooks, Laurence Mark, Richard Sakai and Cameron Crowe, Producers",Jerry Maguire,False
+7634,1996,1997,69,"Simon Channing-Williams, Producer",Secrets & Lies,False
+7635,1996,1997,69,"Jane Scott, Producer",Shine,False
+7746,1997,1998,70,"James L. Brooks, Bridget Johnson and Kristi Zea, Producers",As Good as It Gets,False
+7747,1997,1998,70,"Uberto Pasolini, Producer",The Full Monty,False
+7748,1997,1998,70,"Lawrence Bender, Producer",Good Will Hunting,False
+7749,1997,1998,70,"Arnon Milchan, Curtis Hanson and Michael Nathanson, Producers",L.A. Confidential,False
+7750,1997,1998,70,"James Cameron and Jon Landau, Producers",Titanic,True
+7859,1998,1999,71,"Alison Owen, Eric Fellner and Tim Bevan, Producers",Elizabeth,False
+7860,1998,1999,71,"Elda Ferri and Gianluigi Braschi, Producers",Life Is Beautiful,False
+7861,1998,1999,71,"Steven Spielberg, Ian Bryce, Mark Gordon and Gary Levinsohn, Producers",Saving Private Ryan,False
+7862,1998,1999,71,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers",Shakespeare in Love,True
+7863,1998,1999,71,"Robert Michael Geisler, John Roberdeau and Grant Hill, Producers",The Thin Red Line,False
+7969,1999,2000,72,"Bruce Cohen and Dan Jinks, Producers",American Beauty,True
+7970,1999,2000,72,"Richard N. Gladstein, Producer",The Cider House Rules,False
+7971,1999,2000,72,"David Valdes and Frank Darabont, Producers",The Green Mile,False
+7972,1999,2000,72,"Michael Mann and Pieter Jan Brugge, Producers",The Insider,False
+7973,1999,2000,72,"Frank Marshall, Kathleen Kennedy and Barry Mendel, Producers",The Sixth Sense,False
+8080,2000,2001,73,"David Brown, Kit Golden and Leslie Holleran, Producers",Chocolat,False
+8081,2000,2001,73,"Bill Kong, Hsu Li Kong and Ang Lee, Producers","Crouching Tiger, Hidden Dragon",False
+8082,2000,2001,73,"Danny DeVito, Michael Shamberg and Stacey Sher, Producers",Erin Brockovich,False
+8083,2000,2001,73,"Douglas Wick, David Franzoni and Branko Lustig, Producers",Gladiator,True
+8084,2000,2001,73,"Edward Zwick, Marshall Herskovitz and Laura Bickford, Producers",Traffic,False
+8190,2001,2002,74,"Brian Grazer and Ron Howard, Producers",A Beautiful Mind,True
+8191,2001,2002,74,"Robert Altman, Bob Balaban and David Levy, Producers",Gosford Park,False
+8192,2001,2002,74,"Graham Leader, Ross Katz and Todd Field, Producers",In the Bedroom,False
+8193,2001,2002,74,"Peter Jackson, Fran Walsh and Barrie M. Osborne, Producers",The Lord of the Rings: The Fellowship of the Ring,False
+8194,2001,2002,74,"Martin Brown, Baz Luhrmann and Fred Baron, Producers",Moulin Rouge,False
+8304,2002,2003,75,"Martin Richards, Producer",Chicago,True
+8305,2002,2003,75,"Alberto Grimaldi and Harvey Weinstein, Producers",Gangs of New York,False
+8306,2002,2003,75,"Scott Rudin and Robert Fox, Producers",The Hours,False
+8307,2002,2003,75,"Barrie M. Osborne, Fran Walsh and Peter Jackson, Producers",The Lord of the Rings: The Two Towers,False
+8308,2002,2003,75,"Roman Polanski, Robert Benmussa and Alain Sarde, Producers",The Pianist,False
+8415,2003,2004,76,"Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers",The Lord of the Rings: The Return of the King,True
+8416,2003,2004,76,"Ross Katz and Sofia Coppola, Producers",Lost in Translation,False
+8417,2003,2004,76,"Samuel Goldwyn, Jr., Peter Weir and Duncan Henderson, Producers",Master and Commander: The Far Side of the World,False
+8418,2003,2004,76,"Robert Lorenz, Judie G. Hoyt and Clint Eastwood, Producers",Mystic River,False
+8419,2003,2004,76,"Kathleen Kennedy, Frank Marshall and Gary Ross, Producers",Seabiscuit,False
+8528,2004,2005,77,"Michael Mann and Graham King, Producers",The Aviator,False
+8529,2004,2005,77,"Richard N. Gladstein and Nellie Bellflower, Producers",Finding Neverland,False
+8530,2004,2005,77,"Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers",Million Dollar Baby,True
+8531,2004,2005,77,"Taylor Hackford, Stuart Benjamin and Howard Baldwin, Producers",Ray,False
+8532,2004,2005,77,"Michael London, Producer",Sideways,False
+8639,2005,2006,78,"Diana Ossana and James Schamus, Producers",Brokeback Mountain,False
+8640,2005,2006,78,"Caroline Baron, William Vince and Michael Ohoven, Producers",Capote,False
+8641,2005,2006,78,"Paul Haggis and Cathy Schulman, Producers",Crash,True
+8642,2005,2006,78,"Grant Heslov, Producer","Good Night, and Good Luck.",False
+8643,2005,2006,78,"Kathleen Kennedy, Steven Spielberg and Barry Mendel, Producers",Munich,False
+8751,2006,2007,79,"Alejandro González Iñárritu, Jon Kilik and Steve Golin, Producers",Babel,False
+8752,2006,2007,79,"Graham King, Producer",The Departed,True
+8753,2006,2007,79,"Clint Eastwood, Steven Spielberg and Robert Lorenz, Producers",Letters from Iwo Jima,False
+8754,2006,2007,79,"David T. Friendly, Peter Saraf and Marc Turtletaub, Producers",Little Miss Sunshine,False
+8755,2006,2007,79,"Andy Harries, Christine Langan and Tracey Seaward, Producers",The Queen,False
+8866,2007,2008,80,"Tim Bevan, Eric Fellner and Paul Webster, Producers",Atonement,False
+8867,2007,2008,80,"Lianne Halfon, Mason Novick and Russell Smith, Producers",Juno,False
+8868,2007,2008,80,"Sydney Pollack, Jennifer Fox and Kerry Orent, Producers",Michael Clayton,False
+8869,2007,2008,80,"Scott Rudin, Ethan Coen and Joel Coen, Producers",No Country for Old Men,True
+8870,2007,2008,80,"JoAnne Sellar, Paul Thomas Anderson and Daniel Lupi, Producers",There Will Be Blood,False
+8978,2008,2009,81,"Kathleen Kennedy, Frank Marshall and Ceán Chaffin, Producers",The Curious Case of Benjamin Button,False
+8979,2008,2009,81,"Brian Grazer, Ron Howard and Eric Fellner, Producers",Frost/Nixon,False
+8980,2008,2009,81,"Dan Jinks and Bruce Cohen, Producers",Milk,False
+8981,2008,2009,81,"Anthony Minghella, Sydney Pollack, Donna Gigliotti and Redmond Morris, Producers",The Reader,False
+8982,2008,2009,81,"Christian Colson, Producer",Slumdog Millionaire,True
+9095,2009,2010,82,"James Cameron and Jon Landau, Producers",Avatar,False
+9096,2009,2010,82,"Gil Netter, Andrew A. Kosove and Broderick Johnson, Producers",The Blind Side,False
+9097,2009,2010,82,"Peter Jackson and Carolynne Cunningham, Producers",District 9,False
+9098,2009,2010,82,"Finola Dwyer and Amanda Posey, Producers",An Education,False
+9099,2009,2010,82,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",The Hurt Locker,True
+9100,2009,2010,82,"Lawrence Bender, Producer",Inglourious Basterds,False
+9101,2009,2010,82,"Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",Precious: Based on the Novel 'Push' by Sapphire,False
+9102,2009,2010,82,"Joel Coen and Ethan Coen, Producers",A Serious Man,False
+9103,2009,2010,82,"Jonas Rivera, Producer",Up,False
+9104,2009,2010,82,"Daniel Dubiecki, Ivan Reitman and Jason Reitman, Producers",Up in the Air,False
+9217,2010,2011,83,"Mike Medavoy, Brian Oliver and Scott Franklin, Producers",Black Swan,False
+9218,2010,2011,83,"David Hoberman, Todd Lieberman and Mark Wahlberg, Producers",The Fighter,False
+9219,2010,2011,83,"Emma Thomas and Christopher Nolan, Producers",Inception,False
+9220,2010,2011,83,"Gary Gilbert, Jeffrey Levy-Hinte and Celine Rattray, Producers",The Kids Are All Right,False
+9221,2010,2011,83,"Iain Canning, Emile Sherman and Gareth Unwin, Producers",The King's Speech,True
+9222,2010,2011,83,"Christian Colson, Danny Boyle and John Smithson, Producers",127 Hours,False
+9223,2010,2011,83,"Scott Rudin, Dana Brunetti, Michael De Luca and Ceán Chaffin, Producers",The Social Network,False
+9224,2010,2011,83,"Darla K. Anderson, Producer",Toy Story 3,False
+9225,2010,2011,83,"Scott Rudin, Ethan Coen and Joel Coen, Producers",True Grit,False
+9226,2010,2011,83,"Anne Rosellini and Alix Madigan-Yorkin, Producers",Winter's Bone,False
+9341,2011,2012,84,"Thomas Langmann, Producer",The Artist,True
+9342,2011,2012,84,"Jim Burke, Alexander Payne and Jim Taylor, Producers",The Descendants,False
+9343,2011,2012,84,"Scott Rudin, Producer",Extremely Loud & Incredibly Close,False
+9344,2011,2012,84,"Brunson Green, Chris Columbus and Michael Barnathan, Producers",The Help,False
+9345,2011,2012,84,"Graham King and Martin Scorsese, Producers",Hugo,False
+9346,2011,2012,84,"Letty Aronson and Stephen Tenenbaum, Producers",Midnight in Paris,False
+9347,2011,2012,84,"Michael De Luca, Rachael Horovitz and Brad Pitt, Producers",Moneyball,False
+9348,2011,2012,84,"Sarah Green, Bill Pohlad, Dede Gardner and Grant Hill, Producers",The Tree of Life,False
+9349,2011,2012,84,"Steven Spielberg and Kathleen Kennedy, Producers",War Horse,False
+9461,2012,2013,85,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka and Michael Katz, Producers",Amour,False
+9462,2012,2013,85,"Grant Heslov, Ben Affleck and George Clooney, Producers",Argo,True
+9463,2012,2013,85,"Dan Janvey, Josh Penn and Michael Gottwald, Producers",Beasts of the Southern Wild,False
+9464,2012,2013,85,"Stacey Sher, Reginald Hudlin and Pilar Savone, Producers",Django Unchained,False
+9465,2012,2013,85,"Tim Bevan, Eric Fellner, Debra Hayward and Cameron Mackintosh, Producers",Les Misérables,False
+9466,2012,2013,85,"Gil Netter, Ang Lee and David Womark, Producers",Life of Pi,False
+9467,2012,2013,85,"Steven Spielberg and Kathleen Kennedy, Producers",Lincoln,False
+9468,2012,2013,85,"Donna Gigliotti, Bruce Cohen and Jonathan Gordon, Producers",Silver Linings Playbook,False
+9469,2012,2013,85,"Mark Boal, Kathryn Bigelow and Megan Ellison, Producers",Zero Dark Thirty,False
+9587,2013,2014,86,"Charles Roven, Richard Suckle, Megan Ellison and Jonathan Gordon, Producers",American Hustle,False
+9588,2013,2014,86,"Scott Rudin, Dana Brunetti and Michael De Luca, Producers",Captain Phillips,False
+9589,2013,2014,86,"Robbie Brenner and Rachel Winter, Producers",Dallas Buyers Club,False
+9590,2013,2014,86,"Alfonso Cuarón and David Heyman, Producers",Gravity,False
+9591,2013,2014,86,"Megan Ellison, Spike Jonze and Vincent Landay, Producers",Her,False
+9592,2013,2014,86,"Albert Berger and Ron Yerxa, Producers",Nebraska,False
+9593,2013,2014,86,"Gabrielle Tana, Steve Coogan and Tracey Seaward, Producers",Philomena,False
+9594,2013,2014,86,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers",12 Years a Slave,True
+9595,2013,2014,86,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland and Emma Tillinger Koskoff, Producers",The Wolf of Wall Street,False
+9713,2014,2015,87,"Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",American Sniper,False
+9714,2014,2015,87,"Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",Birdman or (The Unexpected Virtue of Ignorance),True
+9715,2014,2015,87,"Richard Linklater and Cathleen Sutherland, Producers",Boyhood,False
+9716,2014,2015,87,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers",The Grand Budapest Hotel,False
+9717,2014,2015,87,"Nora Grossman, Ido Ostrowsky and Teddy Schwarzman, Producers",The Imitation Game,False
+9718,2014,2015,87,"Christian Colson, Oprah Winfrey, Dede Gardner and Jeremy Kleiner, Producers",Selma,False
+9719,2014,2015,87,"Tim Bevan, Eric Fellner, Lisa Bruce and Anthony McCarten, Producers",The Theory of Everything,False
+9720,2014,2015,87,"Jason Blum, Helen Estabrook and David Lancaster, Producers",Whiplash,False
+9838,2015,2016,88,"Brad Pitt, Dede Gardner and Jeremy Kleiner, Producers",The Big Short,False
+9839,2015,2016,88,"Steven Spielberg, Marc Platt and Kristie Macosko Krieger, Producers",Bridge of Spies,False
+9840,2015,2016,88,"Finola Dwyer and Amanda Posey, Producers",Brooklyn,False
+9841,2015,2016,88,"Doug Mitchell and George Miller, Producers",Mad Max: Fury Road,False
+9842,2015,2016,88,"Simon Kinberg, Ridley Scott, Michael Schaefer and Mark Huffam, Producers",The Martian,False
+9843,2015,2016,88,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent and Keith Redmon, Producers",The Revenant,False
+9844,2015,2016,88,"Ed Guiney, Producer",Room,False
+9845,2015,2016,88,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight,True
+9962,2016,2017,89,"Shawn Levy, Dan Levine, Aaron Ryder and David Linde, Producers",Arrival,False
+9963,2016,2017,89,"Scott Rudin, Denzel Washington and Todd Black, Producers",Fences,False
+9964,2016,2017,89,"Bill Mechanic and David Permut, Producers",Hacksaw Ridge,False
+9965,2016,2017,89,"Carla Hacken and Julie Yorn, Producers",Hell or High Water,False
+9966,2016,2017,89,"Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams and Theodore Melfi, Producers",Hidden Figures,False
+9967,2016,2017,89,"Fred Berger, Jordan Horowitz and Marc Platt, Producers",La La Land,False
+9968,2016,2017,89,"Emile Sherman, Iain Canning and Angie Fielder, Producers",Lion,False
+9969,2016,2017,89,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck and Kevin J. Walsh, Producers",Manchester by the Sea,False
+9970,2016,2017,89,"Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers",Moonlight,True
+10088,2017,2018,90,"Peter Spears, Luca Guadagnino, Emilie Georges and Marco Morabito, Producers",Call Me by Your Name,False
+10089,2017,2018,90,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten and Douglas Urbanski, Producers",Darkest Hour,False
+10090,2017,2018,90,"Emma Thomas and Christopher Nolan, Producers",Dunkirk,False
+10091,2017,2018,90,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr. and Jordan Peele, Producers",Get Out,False
+10092,2017,2018,90,"Scott Rudin, Eli Bush and Evelyn O'Neill, Producers",Lady Bird,False
+10093,2017,2018,90,"JoAnne Sellar, Paul Thomas Anderson, Megan Ellison and Daniel Lupi, Producers",Phantom Thread,False
+10094,2017,2018,90,"Amy Pascal, Steven Spielberg and Kristie Macosko Krieger, Producers",The Post,False
+10095,2017,2018,90,"Guillermo del Toro and J. Miles Dale, Producers",The Shape of Water,True
+10096,2017,2018,90,"Graham Broadbent, Pete Czernin and Martin McDonagh, Producers","Three Billboards outside Ebbing, Missouri",False
+10215,2018,2019,91,"Kevin Feige, Producer",Black Panther,False
+10216,2018,2019,91,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele and Spike Lee, Producers",BlacKkKlansman,False
+10217,2018,2019,91,"Graham King, Producer",Bohemian Rhapsody,False
+10218,2018,2019,91,"Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",The Favourite,False
+10219,2018,2019,91,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,True
+10220,2018,2019,91,"Gabriela Rodríguez and Alfonso Cuarón, Producers",Roma,False
+10221,2018,2019,91,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",A Star Is Born,False
+10222,2018,2019,91,"Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",Vice,False
+10342,2019,2020,92,"Peter Chernin, Jenno Topping and James Mangold, Producers",Ford v Ferrari,False
+10343,2019,2020,92,"Martin Scorsese, Robert De Niro, Jane Rosenthal and Emma Tillinger Koskoff, Producers",The Irishman,False
+10344,2019,2020,92,"Carthew Neal, Taika Waititi and Chelsea Winstanley, Producers",Jojo Rabbit,False
+10345,2019,2020,92,"Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",Joker,False
+10346,2019,2020,92,"Amy Pascal, Producer",Little Women,False
+10347,2019,2020,92,"Noah Baumbach and David Heyman, Producers",Marriage Story,False
+10348,2019,2020,92,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",1917,False
+10349,2019,2020,92,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once upon a Time...in Hollywood,False
+10350,2019,2020,92,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,True
+10470,2020,2021,93,"David Parfitt, Jean-Louis Livi and Philippe Carcassonne, Producers",The Father,False
+10471,2020,2021,93,"Shaka King, Charles D. King and Ryan Coogler, Producers",Judas and the Black Messiah,False
+10472,2020,2021,93,"Ceán Chaffin, Eric Roth and Douglas Urbanski, Producers",Mank,False
+10473,2020,2021,93,"Christina Oh, Producer",Minari,False
+10474,2020,2021,93,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers",Nomadland,True
+10475,2020,2021,93,"Ben Browning, Ashley Fox, Emerald Fennell and Josey McNamara, Producers",Promising Young Woman,False
+10476,2020,2021,93,"Bert Hamelinck and Sacha Ben Harroche, Producers",Sound of Metal,False
+10477,2020,2021,93,"Marc Platt and Stuart Besser, Producers",The Trial of the Chicago 7,False
+10590,2021,2022,94,"Laura Berwick, Kenneth Branagh, Becca Kovacik and Tamar Thomas, Producers",Belfast,False
+10591,2021,2022,94,"Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers",CODA,True
+10592,2021,2022,94,"Adam McKay and Kevin Messick, Producers",Don't Look Up,False
+10593,2021,2022,94,"Teruhisa Yamamoto, Producer",Drive My Car,False
+10594,2021,2022,94,"Mary Parent, Denis Villeneuve and Cale Boyter, Producers",Dune,False
+10595,2021,2022,94,"Tim White, Trevor White and Will Smith, Producers",King Richard,False
+10596,2021,2022,94,"Sara Murphy, Adam Somner and Paul Thomas Anderson, Producers",Licorice Pizza,False
+10597,2021,2022,94,"Guillermo del Toro, J. Miles Dale and Bradley Cooper, Producers",Nightmare Alley,False
+10598,2021,2022,94,"Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning and Roger Frappier, Producers",The Power of the Dog,False
+10599,2021,2022,94,"Steven Spielberg and Kristie Macosko Krieger, Producers",West Side Story,False
+10714,2022,2023,95,"Malte Grunert, Producer",All Quiet on the Western Front,False
+10715,2022,2023,95,"James Cameron and Jon Landau, Producers",Avatar: The Way of Water,False
+10716,2022,2023,95,"Graham Broadbent, Pete Czernin and Martin McDonagh, Producers",The Banshees of Inisherin,False
+10717,2022,2023,95,"Baz Luhrmann, Catherine Martin, Gail Berman, Patrick McCormick and Schuyler Weiss, Producers",Elvis,False
+10718,2022,2023,95,"Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers",Everything Everywhere All at Once,True
+10719,2022,2023,95,"Kristie Macosko Krieger, Steven Spielberg and Tony Kushner, Producers",The Fabelmans,False
+10720,2022,2023,95,"Todd Field, Alexandra Milchan and Scott Lambert, Producers",Tár,False
+10721,2022,2023,95,"Tom Cruise, Christopher McQuarrie, David Ellison and Jerry Bruckheimer, Producers",Top Gun: Maverick,False
+10722,2022,2023,95,"Erik Hemmendorff and Philippe Bober, Producers",Triangle of Sadness,False
+10723,2022,2023,95,"Dede Gardner, Jeremy Kleiner and Frances McDormand, Producers",Women Talking,False
