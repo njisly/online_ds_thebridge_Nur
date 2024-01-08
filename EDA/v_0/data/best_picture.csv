@@ -5,7 +5,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1928,1929,2,Feature Productions,Alibi,False
 1928,1929,2,Fox,In Old Arizona,False
 1928,1929,2,Metro-Goldwyn-Mayer,The Broadway Melody,True
-1928,1929,2,Metro-Goldwyn-Mayer,The Hollywood Revue of 1929,False
+1928,1929,2,Metro-Goldwyn-Mayer,Hollywood Revue,False
 1928,1929,2,Paramount Famous Lasky,The Patriot,False
 1929,1930,3,Universal,All Quiet on the Western Front,True
 1929,1930,3,Cosmopolitan,The Big House,False
@@ -52,7 +52,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1935,1936,8,Cosmopolitan,Captain Blood,False
 1935,1936,8,Metro-Goldwyn-Mayer,David Copperfield,False
 1935,1936,8,RKO Radio,The Informer,False
-1935,1936,8,20th Century,Les Misérables,False
+1935,1936,8,20th Century,Les Miserables,False
 1935,1936,8,Paramount,The Lives of a Bengal Lancer,False
 1935,1936,8,Warner Bros.,A Midsummer Night's Dream,False
 1935,1936,8,Metro-Goldwyn-Mayer,Mutiny on the Bounty,True
@@ -119,7 +119,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1941,1942,14,Warner Bros.,One Foot in Heaven,False
 1941,1942,14,Warner Bros.,Sergeant York,False
 1941,1942,14,RKO Radio,Suspicion,False
-1942,1943,15,Ortus,49th Parallel,False
+1942,1943,15,Ortus,The Invaders,False
 1942,1943,15,Warner Bros.,Kings Row,False
 1942,1943,15,Mercury,The Magnificent Ambersons,False
 1942,1943,15,Metro-Goldwyn-Mayer,Mrs. Miniver,True
@@ -173,7 +173,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1950,1951,23,Columbia,Born Yesterday,False
 1950,1951,23,Metro-Goldwyn-Mayer,Father of the Bride,False
 1950,1951,23,Metro-Goldwyn-Mayer,King Solomon's Mines,False
-1950,1951,23,Paramount,Sunset Boulevard,False
+1950,1951,23,Paramount,Sunset Blvd.,False
 1951,1952,24,"Arthur Freed, Producer",An American in Paris,True
 1951,1952,24,"Anatole Litvak and Frank McCarthy, Producers",Decision before Dawn,False
 1951,1952,24,"George Stevens, Producer",A Place in the Sun,False
@@ -199,7 +199,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1955,1956,28,"Leland Hayward, Producer",Mister Roberts,False
 1955,1956,28,"Fred Kohlmar, Producer",Picnic,False
 1955,1956,28,"Hal B. Wallis, Producer",The Rose Tattoo,False
-1956,1957,29,"Michael Todd, Producer",Around the World in Eighty Days,True
+1956,1957,29,"Michael Todd, Producer",Around the World in 80 Days,True
 1956,1957,29,"William Wyler, Producer",Friendly Persuasion,False
 1956,1957,29,"George Stevens and Henry Ginsberg, Producers",Giant,False
 1956,1957,29,"Charles Brackett, Producer",The King and I,False
@@ -231,7 +231,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1961,1962,34,"Robert Wise, Producer",West Side Story,True
 1962,1963,35,"Sam Spiegel, Producer",Lawrence of Arabia,True
 1962,1963,35,"Darryl F. Zanuck, Producer",The Longest Day,False
-1962,1963,35,"Morton Da Costa, Producer",The Music Man,False
+1962,1963,35,"Morton Da Costa, Producer",Meredith Willson's The Music Man,False
 1962,1963,35,"Aaron Rosenberg, Producer",Mutiny on the Bounty,False
 1962,1963,35,"Alan J. Pakula, Producer",To Kill a Mockingbird,False
 1963,1964,36,"Elia Kazan, Producer",America America,False
@@ -251,7 +251,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1965,1966,38,"Fred Coe, Producer",A Thousand Clowns,False
 1966,1967,39,"Lewis Gilbert, Producer",Alfie,False
 1966,1967,39,"Fred Zinnemann, Producer",A Man for All Seasons,True
-1966,1967,39,"Norman Jewison, Producer",The Russians Are Coming! The Russians Are Coming!,False
+1966,1967,39,"Norman Jewison, Producer",The Russians Are Coming The Russians Are Coming,False
 1966,1967,39,"Robert Wise, Producer",The Sand Pebbles,False
 1966,1967,39,"Ernest Lehman, Producer",Who's Afraid of Virginia Woolf?,False
 1967,1968,40,"Warren Beatty, Producer",Bonnie and Clyde,False
@@ -368,12 +368,12 @@ year_film,year_ceremony,ceremony,name,film,winner
 1989,1990,62,"Steven Haft, Paul Junger Witt and Tony Thomas, Producers",Dead Poets Society,False
 1989,1990,62,"Richard D. Zanuck and Lili Fini Zanuck, Producers",Driving Miss Daisy,True
 1989,1990,62,"Lawrence Gordon and Charles Gordon, Producers",Field of Dreams,False
-1989,1990,62,"Noel Pearson, Producer",My Left Foot: The Story of Christy Brown,False
+1989,1990,62,"Noel Pearson, Producer",My Left Foot,False
 1990,1991,63,"Walter F. Parkes and Lawrence Lasker, Producers",Awakenings,False
 1990,1991,63,"Jim Wilson and Kevin Costner, Producers",Dances With Wolves,True
 1990,1991,63,"Lisa Weinstein, Producer",Ghost,False
-1990,1991,63,"Francis Ford Coppola, Producer",The Godfather Part III,False
-1990,1991,63,"Irwin Winkler, Producer",GoodFellas,False
+1990,1991,63,"Francis Ford Coppola, Producer","The Godfather, Part III",False
+1990,1991,63,"Irwin Winkler, Producer",Good Fellas,False
 1991,1992,64,"Don Hahn, Producer",Beauty and the Beast,False
 1991,1992,64,"Mark Johnson, Barry Levinson and Warren Beatty, Producers",Bugsy,False
 1991,1992,64,"A. Kitman Ho and Oliver Stone, Producers",JFK,False
@@ -397,7 +397,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 1995,1996,68,"Brian Grazer, Producer",Apollo 13,False
 1995,1996,68,"George Miller, Doug Mitchell and Bill Miller, Producers",Babe,False
 1995,1996,68,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",Braveheart,True
-1995,1996,68,"Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",The Postman,False
+1995,1996,68,"Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",The Postman (Il Postino),False
 1995,1996,68,"Lindsay Doran, Producer",Sense and Sensibility,False
 1996,1997,69,"Saul Zaentz, Producer",The English Patient,True
 1996,1997,69,"Ethan Coen, Producer",Fargo,False
@@ -428,7 +428,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 2001,2002,74,"Robert Altman, Bob Balaban and David Levy, Producers",Gosford Park,False
 2001,2002,74,"Graham Leader, Ross Katz and Todd Field, Producers",In the Bedroom,False
 2001,2002,74,"Peter Jackson, Fran Walsh and Barrie M. Osborne, Producers",The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,"Martin Brown, Baz Luhrmann and Fred Baron, Producers",Moulin Rouge!,False
+2001,2002,74,"Martin Brown, Baz Luhrmann and Fred Baron, Producers",Moulin Rouge,False
 2002,2003,75,"Martin Richards, Producer",Chicago,True
 2002,2003,75,"Alberto Grimaldi and Harvey Weinstein, Producers",Gangs of New York,False
 2002,2003,75,"Scott Rudin and Robert Fox, Producers",The Hours,False
@@ -470,7 +470,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 2009,2010,82,"Finola Dwyer and Amanda Posey, Producers",An Education,False
 2009,2010,82,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",The Hurt Locker,True
 2009,2010,82,"Lawrence Bender, Producer",Inglourious Basterds,False
-2009,2010,82,"Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",Precious,False
+2009,2010,82,"Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",Precious: Based on the Novel 'Push' by Sapphire,False
 2009,2010,82,"Joel Coen and Ethan Coen, Producers",A Serious Man,False
 2009,2010,82,"Jonas Rivera, Producer",Up,False
 2009,2010,82,"Daniel Dubiecki, Ivan Reitman and Jason Reitman, Producers",Up in the Air,False
@@ -560,7 +560,7 @@ year_film,year_ceremony,ceremony,name,film,winner
 2019,2020,92,"Amy Pascal, Producer",Little Women,False
 2019,2020,92,"Noah Baumbach and David Heyman, Producers",Marriage Story,False
 2019,2020,92,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",1917,False
-2019,2020,92,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once Upon a Time… in Hollywood,False
+2019,2020,92,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once upon a Time...in Hollywood,False
 2019,2020,92,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,True
 2020,2021,93,"David Parfitt, Jean-Louis Livi and Philippe Carcassonne, Producers",The Father,False
 2020,2021,93,"Shaka King, Charles D. King and Ryan Coogler, Producers",Judas and the Black Messiah,False

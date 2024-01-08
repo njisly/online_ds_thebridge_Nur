@@ -64,7 +64,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1928,1929,2,OUTSTANDING PICTURE,Feature Productions,Alibi,False
 1928,1929,2,OUTSTANDING PICTURE,Fox,In Old Arizona,False
 1928,1929,2,OUTSTANDING PICTURE,Metro-Goldwyn-Mayer,The Broadway Melody,True
-1928,1929,2,OUTSTANDING PICTURE,Metro-Goldwyn-Mayer,The Hollywood Revue of 1929,False
+1928,1929,2,OUTSTANDING PICTURE,Metro-Goldwyn-Mayer,Hollywood Revue,False
 1928,1929,2,OUTSTANDING PICTURE,Paramount Famous Lasky,The Patriot,False
 1928,1929,2,WRITING,Tom Barry,In Old Arizona;,False
 1928,1929,2,WRITING,Elliott Clawson,The Cop;,False
@@ -344,12 +344,12 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1935,1936,8,ART DIRECTION,"Hans Dreier, Roland Anderson",The Lives of a Bengal Lancer,False
 1935,1936,8,ART DIRECTION,"Van Nest Polglase, Carroll Clark",Top Hat,False
 1935,1936,8,ASSISTANT DIRECTOR,Joseph Newman,David Copperfield,False
-1935,1936,8,ASSISTANT DIRECTOR,Eric Stacey,Les Misérables,False
+1935,1936,8,ASSISTANT DIRECTOR,Eric Stacey,Les Miserables,False
 1935,1936,8,ASSISTANT DIRECTOR,"Clem Beauchamp, Paul Wing",The Lives of a Bengal Lancer,True
 1935,1936,8,ASSISTANT DIRECTOR,Sherry Shourds,A Midsummer Night's Dream,False
 1935,1936,8,CINEMATOGRAPHY,Ray June,Barbary Coast,False
 1935,1936,8,CINEMATOGRAPHY,Victor Milner,The Crusades,False
-1935,1936,8,CINEMATOGRAPHY,Gregg Toland,Les Misérables,False
+1935,1936,8,CINEMATOGRAPHY,Gregg Toland,Les Miserables,False
 1935,1936,8,CINEMATOGRAPHY,Hal Mohr,A Midsummer Night's Dream,True
 1935,1936,8,DANCE DIRECTION,Busby Berkeley,Gold Diggers of 1935,False
 1935,1936,8,DANCE DIRECTION,Bobby Connolly,Go into Your Dance;,False
@@ -364,7 +364,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1935,1936,8,DIRECTING,Frank Lloyd,Mutiny on the Bounty,False
 1935,1936,8,FILM EDITING,Robert J. Kern,David Copperfield,False
 1935,1936,8,FILM EDITING,George Hively,The Informer,False
-1935,1936,8,FILM EDITING,Barbara McLean,Les Misérables,False
+1935,1936,8,FILM EDITING,Barbara McLean,Les Miserables,False
 1935,1936,8,FILM EDITING,Ellsworth Hoagland,The Lives of a Bengal Lancer,False
 1935,1936,8,FILM EDITING,Ralph Dawson,A Midsummer Night's Dream,True
 1935,1936,8,FILM EDITING,Margaret Booth,Mutiny on the Bounty,False
@@ -380,7 +380,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1935,1936,8,OUTSTANDING PRODUCTION,Cosmopolitan,Captain Blood,False
 1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,David Copperfield,False
 1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,The Informer,False
-1935,1936,8,OUTSTANDING PRODUCTION,20th Century,Les Misérables,False
+1935,1936,8,OUTSTANDING PRODUCTION,20th Century,Les Miserables,False
 1935,1936,8,OUTSTANDING PRODUCTION,Paramount,The Lives of a Bengal Lancer,False
 1935,1936,8,OUTSTANDING PRODUCTION,Warner Bros.,A Midsummer Night's Dream,False
 1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Mutiny on the Bounty,True
@@ -1391,7 +1391,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1942,1943,15,MUSIC (Song),Music by Gene de Paul; Lyrics by Don Raye,Hellzapoppin',False
 1942,1943,15,MUSIC (Song),Music by Harry Revel; Lyrics by Mort Greene,The Mayor of 44th Street,False
 1942,1943,15,MUSIC (Song),Music and Lyrics by Irving Berlin,Holiday Inn,True
-1942,1943,15,OUTSTANDING MOTION PICTURE,Ortus,49th Parallel,False
+1942,1943,15,OUTSTANDING MOTION PICTURE,Ortus,The Invaders,False
 1942,1943,15,OUTSTANDING MOTION PICTURE,Warner Bros.,Kings Row,False
 1942,1943,15,OUTSTANDING MOTION PICTURE,Mercury,The Magnificent Ambersons,False
 1942,1943,15,OUTSTANDING MOTION PICTURE,Metro-Goldwyn-Mayer,Mrs. Miniver,True
@@ -1437,7 +1437,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1942,1943,15,SPECIAL EFFECTS,"Photographic Effects by Jack Cosgrove, Ray Binger; Sound Effects by Thomas T. Moulton",The Pride of the Yankees,False
 1942,1943,15,SPECIAL EFFECTS,"Photographic Effects by Gordon Jennings, Farciot Edouart, William L. Pereira; Sound Effects by Louis Mesenkop",Reap the Wild Wind,True
 1942,1943,15,WRITING (Original Motion Picture Story),Irving Berlin,Holiday Inn,False
-1942,1943,15,WRITING (Original Motion Picture Story),Emeric Pressburger,49th Parallel,True
+1942,1943,15,WRITING (Original Motion Picture Story),Emeric Pressburger,The Invaders,True
 1942,1943,15,WRITING (Original Motion Picture Story),Paul Gallico,The Pride of the Yankees,False
 1942,1943,15,WRITING (Original Motion Picture Story),Sidney Harmon,The Talk of the Town,False
 1942,1943,15,WRITING (Original Motion Picture Story),Robert Buckner,Yankee Doodle Dandy,False
@@ -1446,7 +1446,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1942,1943,15,WRITING (Original Screenplay),"W. R. Burnett, Frank Butler",Wake Island,False
 1942,1943,15,WRITING (Original Screenplay),George Oppenheimer,The War against Mrs. Hadley,False
 1942,1943,15,WRITING (Original Screenplay),"Ring Lardner, Jr., Michael Kanin",Woman of the Year,True
-1942,1943,15,WRITING (Screenplay),"Rodney Ackland, Emeric Pressburger",49th Parallel,False
+1942,1943,15,WRITING (Screenplay),"Rodney Ackland, Emeric Pressburger",The Invaders,False
 1942,1943,15,WRITING (Screenplay),"Arthur Wimperis, George Froeschel, James Hilton, Claudine West",Mrs. Miniver,True
 1942,1943,15,WRITING (Screenplay),"Jo Swerling, Herman J. Mankiewicz",The Pride of the Yankees,False
 1942,1943,15,WRITING (Screenplay),"Claudine West, George Froeschel, Arthur Wimperis",Random Harvest,False
@@ -2398,34 +2398,34 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1949,1950,22,SPECIAL AWARD, Jean Hersholt,,True
 1950,1951,23,ACTOR,Louis Calhern,The Magnificent Yankee,False
 1950,1951,23,ACTOR,José Ferrer,Cyrano de Bergerac,True
-1950,1951,23,ACTOR,William Holden,Sunset Boulevard,False
+1950,1951,23,ACTOR,William Holden,Sunset Blvd.,False
 1950,1951,23,ACTOR,James Stewart,Harvey,False
 1950,1951,23,ACTOR,Spencer Tracy,Father of the Bride,False
 1950,1951,23,ACTOR IN A SUPPORTING ROLE,Jeff Chandler,Broken Arrow,False
 1950,1951,23,ACTOR IN A SUPPORTING ROLE,Edmund Gwenn,Mister 880,False
 1950,1951,23,ACTOR IN A SUPPORTING ROLE,Sam Jaffe,The Asphalt Jungle,False
 1950,1951,23,ACTOR IN A SUPPORTING ROLE,George Sanders,All about Eve,True
-1950,1951,23,ACTOR IN A SUPPORTING ROLE,Erich von Stroheim,Sunset Boulevard,False
+1950,1951,23,ACTOR IN A SUPPORTING ROLE,Erich von Stroheim,Sunset Blvd.,False
 1950,1951,23,ACTRESS,Anne Baxter,All about Eve,False
 1950,1951,23,ACTRESS,Bette Davis,All about Eve,False
 1950,1951,23,ACTRESS,Judy Holliday,Born Yesterday,True
 1950,1951,23,ACTRESS,Eleanor Parker,Caged,False
-1950,1951,23,ACTRESS,Gloria Swanson,Sunset Boulevard,False
+1950,1951,23,ACTRESS,Gloria Swanson,Sunset Blvd.,False
 1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Hope Emerson,Caged,False
 1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,All about Eve,False
 1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Josephine Hull,Harvey,True
-1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Nancy Olson,Sunset Boulevard,False
+1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Nancy Olson,Sunset Blvd.,False
 1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,All about Eve,False
 1950,1951,23,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, George W. Davis;  Set Decoration:  Thomas Little, Walter M. Scott",All about Eve,False
 1950,1951,23,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Hans Peters;  Set Decoration:  Edwin B. Willis, Hugh Hunt",The Red Danube,False
-1950,1951,23,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, John Meehan;  Set Decoration:  Sam Comer, Ray Moyer",Sunset Boulevard,True
+1950,1951,23,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, John Meehan;  Set Decoration:  Sam Comer, Ray Moyer",Sunset Blvd.,True
 1950,1951,23,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Richard A. Pefferle",Annie Get Your Gun,False
 1950,1951,23,ART DIRECTION (Color),Art Direction:  Ernst Fegte;  Set Decoration:  George Sawley,Destination Moon,False
 1950,1951,23,ART DIRECTION (Color),"Art Direction:  Hans Dreier, Walter Tyler;  Set Decoration:  Sam Comer, Ray Moyer",Samson and Delilah,True
 1950,1951,23,CINEMATOGRAPHY (Black-and-White),Milton Krasner,All about Eve,False
 1950,1951,23,CINEMATOGRAPHY (Black-and-White),Harold Rosson,The Asphalt Jungle,False
 1950,1951,23,CINEMATOGRAPHY (Black-and-White),Victor Milner,The Furies,False
-1950,1951,23,CINEMATOGRAPHY (Black-and-White),John F. Seitz,Sunset Boulevard,False
+1950,1951,23,CINEMATOGRAPHY (Black-and-White),John F. Seitz,Sunset Blvd.,False
 1950,1951,23,CINEMATOGRAPHY (Black-and-White),Robert Krasker,The Third Man,True
 1950,1951,23,CINEMATOGRAPHY (Color),Charles Rosher,Annie Get Your Gun,False
 1950,1951,23,CINEMATOGRAPHY (Color),Ernest Palmer,Broken Arrow,False
@@ -2441,7 +2441,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1950,1951,23,DIRECTING,Joseph L. Mankiewicz,All about Eve,True
 1950,1951,23,DIRECTING,John Huston,The Asphalt Jungle,False
 1950,1951,23,DIRECTING,George Cukor,Born Yesterday,False
-1950,1951,23,DIRECTING,Billy Wilder,Sunset Boulevard,False
+1950,1951,23,DIRECTING,Billy Wilder,Sunset Blvd.,False
 1950,1951,23,DIRECTING,Carol Reed,The Third Man,False
 1950,1951,23,DOCUMENTARY (Feature),"Robert Snyder, Producer",The Titan: Story of Michelangelo,True
 1950,1951,23,DOCUMENTARY (Feature),"Jack Arnold and Lee Goodman, Producers",With These Hands,False
@@ -2451,13 +2451,13 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1950,1951,23,FILM EDITING,Barbara McLean,All about Eve,False
 1950,1951,23,FILM EDITING,James E. Newcom,Annie Get Your Gun,False
 1950,1951,23,FILM EDITING,"Ralph E. Winters, Conrad A. Nervig",King Solomon's Mines,True
-1950,1951,23,FILM EDITING,"Arthur Schmidt, Doane Harrison",Sunset Boulevard,False
+1950,1951,23,FILM EDITING,"Arthur Schmidt, Doane Harrison",Sunset Blvd.,False
 1950,1951,23,FILM EDITING,Oswald Hafenrichter,The Third Man,False
 1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,All about Eve,False
 1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,The Flame and the Arrow,False
 1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),George Duning,No Sad Songs for Me,False
 1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,Samson and Delilah,False
-1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,Sunset Boulevard,True
+1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,Sunset Blvd.,True
 1950,1951,23,MUSIC (Scoring of a Musical Picture),"Adolph Deutsch, Roger Edens",Annie Get Your Gun,True
 1950,1951,23,MUSIC (Scoring of a Musical Picture),"Oliver Wallace, Paul J. Smith",Cinderella,False
 1950,1951,23,MUSIC (Scoring of a Musical Picture),Lionel Newman,I'll Get By,False
@@ -2472,7 +2472,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1950,1951,23,BEST MOTION PICTURE,Columbia,Born Yesterday,False
 1950,1951,23,BEST MOTION PICTURE,Metro-Goldwyn-Mayer,Father of the Bride,False
 1950,1951,23,BEST MOTION PICTURE,Metro-Goldwyn-Mayer,King Solomon's Mines,False
-1950,1951,23,BEST MOTION PICTURE,Paramount,Sunset Boulevard,False
+1950,1951,23,BEST MOTION PICTURE,Paramount,Sunset Blvd.,False
 1950,1951,23,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Gerald McBoing-Boing,True
 1950,1951,23,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",Jerry's Cousin,False
 1950,1951,23,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Trouble Indemnity,False
@@ -2503,7 +2503,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1950,1951,23,WRITING (Story and Screenplay),"Virginia Kellogg, Bernard C. Schoenfeld",Caged,False
 1950,1951,23,WRITING (Story and Screenplay),Carl Foreman,The Men,False
 1950,1951,23,WRITING (Story and Screenplay),"Joseph L. Mankiewicz, Lesser Samuels",No Way Out,False
-1950,1951,23,WRITING (Story and Screenplay),"Charles Brackett, Billy Wilder, D. M. Marshman, Jr.",Sunset Boulevard,True
+1950,1951,23,WRITING (Story and Screenplay),"Charles Brackett, Billy Wilder, D. M. Marshman, Jr.",Sunset Blvd.,True
 1950,1951,23,HONORARY FOREIGN LANGUAGE FILM AWARD, The Walls of Malapaga - voted by the Board of Governors as the most outstanding foreign language film released in the United States in 1950.,,True
 1950,1951,23,HONORARY AWARD, George Murphy for his services in interpreting the film industry to the country at large.,,True
 1950,1951,23,HONORARY AWARD, Louis B. Mayer for distinguished service to the motion picture industry.,,True
@@ -3158,7 +3158,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1956,1957,29,ART DIRECTION (Black-and-White),"Art Direction:  Ross Bellah;  Set Decoration:  William R. Kiernan, Louis Diage",The Solid Gold Cadillac,False
 1956,1957,29,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Malcolm F. Brown;  Set Decoration:  Edwin B. Willis, F. Keogh Gleason",Somebody Up There Likes Me,True
 1956,1957,29,ART DIRECTION (Black-and-White),"Art Direction:  Lyle R. Wheeler, Jack Martin Smith;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",Teenage Rebel,False
-1956,1957,29,ART DIRECTION (Color),"Art Direction:  James W. Sullivan, Ken Adam;  Set Decoration:  Ross J. Dowd",Around the World in Eighty Days,False
+1956,1957,29,ART DIRECTION (Color),"Art Direction:  James W. Sullivan, Ken Adam;  Set Decoration:  Ross J. Dowd",Around the World in 80 Days,False
 1956,1957,29,ART DIRECTION (Color),Art Direction:  Boris Leven;  Set Decoration:  Ralph S. Hurst,Giant,False
 1956,1957,29,ART DIRECTION (Color),"Art Direction:  Lyle R. Wheeler, John DeCuir;  Set Decoration:  Walter M. Scott, Paul S. Fox",The King and I,True
 1956,1957,29,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Hans Peters, Preston Ames;  Set Decoration:  Edwin B. Willis, F. Keogh Gleason",Lust for Life,False
@@ -3168,7 +3168,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1956,1957,29,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,The Harder They Fall,False
 1956,1957,29,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Somebody Up There Likes Me,True
 1956,1957,29,CINEMATOGRAPHY (Black-and-White),Walter Strenge,Stagecoach to Fury,False
-1956,1957,29,CINEMATOGRAPHY (Color),Lionel Lindon,Around the World in Eighty Days,True
+1956,1957,29,CINEMATOGRAPHY (Color),Lionel Lindon,Around the World in 80 Days,True
 1956,1957,29,CINEMATOGRAPHY (Color),Harry Stradling,The Eddy Duchin Story,False
 1956,1957,29,CINEMATOGRAPHY (Color),Leon Shamroy,The King and I,False
 1956,1957,29,CINEMATOGRAPHY (Color),Loyal Griggs,The Ten Commandments,False
@@ -3178,12 +3178,12 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1956,1957,29,COSTUME DESIGN (Black-and-White),Edith Head,The Proud and Profane,False
 1956,1957,29,COSTUME DESIGN (Black-and-White),Jean Louis,The Solid Gold Cadillac,True
 1956,1957,29,COSTUME DESIGN (Black-and-White),"Charles LeMaire, Mary Wills",Teenage Rebel,False
-1956,1957,29,COSTUME DESIGN (Color),Miles White,Around the World in Eighty Days,False
+1956,1957,29,COSTUME DESIGN (Color),Miles White,Around the World in 80 Days,False
 1956,1957,29,COSTUME DESIGN (Color),"Moss Mabry, Marjorie Best",Giant,False
 1956,1957,29,COSTUME DESIGN (Color),Irene Sharaff,The King and I,True
 1956,1957,29,COSTUME DESIGN (Color),"Edith Head, Ralph Jester, John Jensen, Dorothy Jeakins, Arnold Friberg",The Ten Commandments,False
 1956,1957,29,COSTUME DESIGN (Color),Marie De Matteis,War and Peace,False
-1956,1957,29,DIRECTING,Michael Anderson,Around the World in Eighty Days,False
+1956,1957,29,DIRECTING,Michael Anderson,Around the World in 80 Days,False
 1956,1957,29,DIRECTING,William Wyler,Friendly Persuasion,False
 1956,1957,29,DIRECTING,George Stevens,Giant,True
 1956,1957,29,DIRECTING,Walter Lang,The King and I,False
@@ -3196,7 +3196,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1956,1957,29,DOCUMENTARY (Short Subject),"Valentine Davies, Producer",The House without a Name,False
 1956,1957,29,DOCUMENTARY (Short Subject),"Ward Kimball, Producer",Man in Space,False
 1956,1957,29,DOCUMENTARY (Short Subject),"Louis Clyde Stoumen, Producer",The True Story of the Civil War,True
-1956,1957,29,FILM EDITING,"Gene Ruggiero, Paul Weatherwax",Around the World in Eighty Days,True
+1956,1957,29,FILM EDITING,"Gene Ruggiero, Paul Weatherwax",Around the World in 80 Days,True
 1956,1957,29,FILM EDITING,Merrill G. White,The Brave One,False
 1956,1957,29,FILM EDITING,"William Hornbeck, Philip W. Anderson, Fred Bohanan",Giant,False
 1956,1957,29,FILM EDITING,Albert Akst,Somebody Up There Likes Me,False
@@ -3207,7 +3207,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1956,1957,29,FOREIGN LANGUAGE FILM,"Italy; Dino De Laurentiis and Carlo Ponti, Producers",La Strada,True
 1956,1957,29,FOREIGN LANGUAGE FILM,"Denmark; O. Dalsgaard-Olsen, Producer",Qivitoq,False
 1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,Anastasia,False
-1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,Around the World in Eighty Days,True
+1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,Around the World in 80 Days,True
 1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,Between Heaven and Hell,False
 1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,Giant,False
 1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,The Rainmaker,False
@@ -3221,7 +3221,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1956,1957,29,MUSIC (Song),Music and Lyrics by Cole Porter,High Society,False
 1956,1957,29,MUSIC (Song),Music and Lyrics by Jay Livingston and Ray Evans,The Man Who Knew Too Much,True
 1956,1957,29,MUSIC (Song),Music by Victor Young; Lyrics by Sammy Cahn,Written on the Wind,False
-1956,1957,29,BEST MOTION PICTURE,"Michael Todd, Producer",Around the World in Eighty Days,True
+1956,1957,29,BEST MOTION PICTURE,"Michael Todd, Producer",Around the World in 80 Days,True
 1956,1957,29,BEST MOTION PICTURE,"William Wyler, Producer",Friendly Persuasion,False
 1956,1957,29,BEST MOTION PICTURE,"George Stevens and Henry Ginsberg, Producers",Giant,False
 1956,1957,29,BEST MOTION PICTURE,"Charles Brackett, Producer",The King and I,False
@@ -3248,7 +3248,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1956,1957,29,WRITING (Motion Picture Story),"Edward Bernds, Elwood Ullman",High Society,False
 1956,1957,29,WRITING (Motion Picture Story),Jean Paul Sartre,The Proud and the Beautiful,False
 1956,1957,29,WRITING (Motion Picture Story),Cesare Zavattini,Umberto D.,False
-1956,1957,29,WRITING (Screenplay--Adapted),"James Poe, John Farrow, S.J. Perelman",Around the World in Eighty Days,True
+1956,1957,29,WRITING (Screenplay--Adapted),"James Poe, John Farrow, S.J. Perelman",Around the World in 80 Days,True
 1956,1957,29,WRITING (Screenplay--Adapted),Tennessee Williams,Baby Doll,False
 1956,1957,29,WRITING (Screenplay--Adapted),Michael Wilson,Friendly Persuasion,False
 1956,1957,29,WRITING (Screenplay--Adapted),"Fred Guiol, Ivan Moffat",Giant,False
@@ -3863,7 +3863,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Frank R. McKelvy",The Pigeon That Took Rome,False
 1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Alexander Golitzen, Henry Bumstead;  Set Decoration:  Oliver Emert",To Kill a Mockingbird,True
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  John Box, John Stoll;  Set Decoration:  Dario Simoni",Lawrence of Arabia,True
-1962,1963,35,ART DIRECTION (Color),Art Direction:  Paul Groesse;  Set Decoration:  George James Hopkins,The Music Man,False
+1962,1963,35,ART DIRECTION (Color),Art Direction:  Paul Groesse;  Set Decoration:  George James Hopkins,Meredith Willson's The Music Man,False
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, J. McMillan Johnson;  Set Decoration:  Henry Grace, Hugh Hunt",Mutiny on the Bounty,False
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Robert Clatworthy;  Set Decoration:  George Milo",That Touch of Mink,False
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, Edward Carfagno;  Set Decoration:  Henry Grace, Dick Pefferle",The Wonderful World of the Brothers Grimm,False
@@ -3884,7 +3884,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,COSTUME DESIGN (Black-and-White),Norma Koch,What Ever Happened to Baby Jane?,True
 1962,1963,35,COSTUME DESIGN (Color),Bill Thomas,Bon Voyage!,False
 1962,1963,35,COSTUME DESIGN (Color),Orry-Kelly,Gypsy,False
-1962,1963,35,COSTUME DESIGN (Color),Dorothy Jeakins,The Music Man,False
+1962,1963,35,COSTUME DESIGN (Color),Dorothy Jeakins,Meredith Willson's The Music Man,False
 1962,1963,35,COSTUME DESIGN (Color),Edith Head,My Geisha,False
 1962,1963,35,COSTUME DESIGN (Color),Mary Wills,The Wonderful World of the Brothers Grimm,True
 1962,1963,35,DIRECTING,Frank Perry,David and Lisa,False
@@ -3900,7 +3900,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,FILM EDITING,Anne Coates,Lawrence of Arabia,True
 1962,1963,35,FILM EDITING,Samuel E. Beetley,The Longest Day,False
 1962,1963,35,FILM EDITING,Ferris Webster,The Manchurian Candidate,False
-1962,1963,35,FILM EDITING,William Ziegler,The Music Man,False
+1962,1963,35,FILM EDITING,William Ziegler,Meredith Willson's The Music Man,False
 1962,1963,35,FILM EDITING,"John McSweeney, Jr.",Mutiny on the Bounty,False
 1962,1963,35,FOREIGN LANGUAGE FILM,Greece,Electra,False
 1962,1963,35,FOREIGN LANGUAGE FILM,Italy,The Four Days of Naples,False
@@ -3915,7 +3915,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),George Stoll,Billy Rose's Jumbo,False
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Michel Magne,Gigot,False
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Frank Perkins,Gypsy,False
-1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Ray Heindorf,The Music Man,True
+1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Ray Heindorf,Meredith Willson's The Music Man,True
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Leigh Harline,The Wonderful World of the Brothers Grimm,False
 1962,1963,35,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Days of Wine and Roses,True
 1962,1963,35,MUSIC (Song),Music by Bronislau Kaper; Lyrics by Paul Francis Webster,Mutiny on the Bounty,False
@@ -3924,7 +3924,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Mack David,Walk on the Wild Side,False
 1962,1963,35,BEST PICTURE,"Sam Spiegel, Producer",Lawrence of Arabia,True
 1962,1963,35,BEST PICTURE,"Darryl F. Zanuck, Producer",The Longest Day,False
-1962,1963,35,BEST PICTURE,"Morton Da Costa, Producer",The Music Man,False
+1962,1963,35,BEST PICTURE,"Morton Da Costa, Producer",Meredith Willson's The Music Man,False
 1962,1963,35,BEST PICTURE,"Aaron Rosenberg, Producer",Mutiny on the Bounty,False
 1962,1963,35,BEST PICTURE,"Alan J. Pakula, Producer",To Kill a Mockingbird,False
 1962,1963,35,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",The Hole,True
@@ -3939,7 +3939,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,SHORT SUBJECT (Live Action),"Herman van der Horst, Producer",Pan,False
 1962,1963,35,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",Bon Voyage!,False
 1962,1963,35,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",Lawrence of Arabia,True
-1962,1963,35,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",The Music Man,False
+1962,1963,35,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Meredith Willson's The Music Man,False
 1962,1963,35,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",That Touch of Mink,False
 1962,1963,35,SOUND,"Glen Glenn Sound Department, Joseph Kelly, Sound Director",What Ever Happened to Baby Jane?,False
 1962,1963,35,SPECIAL EFFECTS,Visual Effects by Robert MacDonald; Audible Effects by Jacques Maumont,The Longest Day,True
@@ -4326,7 +4326,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1965,1966,38,JEAN HERSHOLT HUMANITARIAN AWARD,Edmond L. DePatie,,True
 1965,1966,38,HONORARY AWARD, Bob Hope for unique and distinguished service to our industry and the Academy.,,True
 1965,1966,38,IRVING G. THALBERG MEMORIAL AWARD,William Wyler,,True
-1966,1967,39,ACTOR,Alan Arkin,The Russians Are Coming! The Russians Are Coming!,False
+1966,1967,39,ACTOR,Alan Arkin,The Russians Are Coming The Russians Are Coming,False
 1966,1967,39,ACTOR,Richard Burton,Who's Afraid of Virginia Woolf?,False
 1966,1967,39,ACTOR,Michael Caine,Alfie,False
 1966,1967,39,ACTOR,Steve McQueen,The Sand Pebbles,False
@@ -4393,7 +4393,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1966,1967,39,DOCUMENTARY (Short Subject),"Edmond A. Levy, Producer",A Year toward Tomorrow,True
 1966,1967,39,FILM EDITING,William B. Murphy,Fantastic Voyage,False
 1966,1967,39,FILM EDITING,"Fredric Steinkamp, Henry Berman, Stewart Linder, Frank Santillo",Grand Prix,True
-1966,1967,39,FILM EDITING,"Hal Ashby, J. Terry Williams",The Russians Are Coming! The Russians Are Coming!,False
+1966,1967,39,FILM EDITING,"Hal Ashby, J. Terry Williams",The Russians Are Coming The Russians Are Coming,False
 1966,1967,39,FILM EDITING,William Reynolds,The Sand Pebbles,False
 1966,1967,39,FILM EDITING,Sam O'Steen,Who's Afraid of Virginia Woolf?,False
 1966,1967,39,FOREIGN LANGUAGE FILM,Italy,The Battle of Algiers,False
@@ -4418,7 +4418,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1966,1967,39,MUSIC (Song),Music by Johnny Mandel; Lyrics by Paul Francis Webster,An American Dream,False
 1966,1967,39,BEST PICTURE,"Lewis Gilbert, Producer",Alfie,False
 1966,1967,39,BEST PICTURE,"Fred Zinnemann, Producer",A Man for All Seasons,True
-1966,1967,39,BEST PICTURE,"Norman Jewison, Producer",The Russians Are Coming! The Russians Are Coming!,False
+1966,1967,39,BEST PICTURE,"Norman Jewison, Producer",The Russians Are Coming The Russians Are Coming,False
 1966,1967,39,BEST PICTURE,"Robert Wise, Producer",The Sand Pebbles,False
 1966,1967,39,BEST PICTURE,"Ernest Lehman, Producer",Who's Afraid of Virginia Woolf?,False
 1966,1967,39,SHORT SUBJECT (Cartoon),"Wolf Koenig and Robert Verrall, Producers",The Drag,False
@@ -4439,7 +4439,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1966,1967,39,WRITING (Screenplay--based on material from another medium),Bill Naughton,Alfie,False
 1966,1967,39,WRITING (Screenplay--based on material from another medium),Robert Bolt,A Man for All Seasons,True
 1966,1967,39,WRITING (Screenplay--based on material from another medium),Richard Brooks,The Professionals,False
-1966,1967,39,WRITING (Screenplay--based on material from another medium),William Rose,The Russians Are Coming! The Russians Are Coming!,False
+1966,1967,39,WRITING (Screenplay--based on material from another medium),William Rose,The Russians Are Coming The Russians Are Coming,False
 1966,1967,39,WRITING (Screenplay--based on material from another medium),Ernest Lehman,Who's Afraid of Virginia Woolf?,False
 1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Story by Michelangelo Antonioni;  Screenplay by Michelangelo Antonioni, Tonino Guerra, Edward Bond",Blow-Up,False
 1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Billy Wilder, I. A. L. Diamond",The Fortune Cookie,False
@@ -6785,7 +6785,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1988,1989,61,HONORARY AWARD, Eastman Kodak Company in recognition of the company's fundamental contributions to the art of motion pictures during the first century of film history.,,True
 1989,1990,62,ACTOR IN A LEADING ROLE,Kenneth Branagh,Henry V,False
 1989,1990,62,ACTOR IN A LEADING ROLE,Tom Cruise,Born on the Fourth of July,False
-1989,1990,62,ACTOR IN A LEADING ROLE,Daniel Day Lewis,My Left Foot: The Story of Christy Brown,True
+1989,1990,62,ACTOR IN A LEADING ROLE,Daniel Day Lewis,My Left Foot,True
 1989,1990,62,ACTOR IN A LEADING ROLE,Morgan Freeman,Driving Miss Daisy,False
 1989,1990,62,ACTOR IN A LEADING ROLE,Robin Williams,Dead Poets Society,False
 1989,1990,62,ACTOR IN A SUPPORTING ROLE,Danny Aiello,Do the Right Thing,False
@@ -6798,7 +6798,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1989,1990,62,ACTRESS IN A LEADING ROLE,Jessica Lange,Music Box,False
 1989,1990,62,ACTRESS IN A LEADING ROLE,Michelle Pfeiffer,The Fabulous Baker Boys,False
 1989,1990,62,ACTRESS IN A LEADING ROLE,Jessica Tandy,Driving Miss Daisy,True
-1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Brenda Fricker,My Left Foot: The Story of Christy Brown,True
+1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Brenda Fricker,My Left Foot,True
 1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Anjelica Huston,"Enemies, A Love Story",False
 1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Lena Olin,"Enemies, A Love Story",False
 1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Julia Roberts,Steel Magnolias,False
@@ -6822,7 +6822,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1989,1990,62,DIRECTING,Woody Allen,Crimes and Misdemeanors,False
 1989,1990,62,DIRECTING,Peter Weir,Dead Poets Society,False
 1989,1990,62,DIRECTING,Kenneth Branagh,Henry V,False
-1989,1990,62,DIRECTING,Jim Sheridan,My Left Foot: The Story of Christy Brown,False
+1989,1990,62,DIRECTING,Jim Sheridan,My Left Foot,False
 1989,1990,62,DOCUMENTARY (Feature),"Richard Kilberg and Yvonne Smith, Producers",Adam Clayton Powell,False
 1989,1990,62,DOCUMENTARY (Feature),"Robert Epstein and Bill Couturié, Producers",Common Threads: Stories from the Quilt,True
 1989,1990,62,DOCUMENTARY (Feature),"Vince DiPersio and William Guttentag, Producers",Crack USA: County under Siege,False
@@ -6858,7 +6858,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1989,1990,62,BEST PICTURE,"Steven Haft, Paul Junger Witt and Tony Thomas, Producers",Dead Poets Society,False
 1989,1990,62,BEST PICTURE,"Richard D. Zanuck and Lili Fini Zanuck, Producers",Driving Miss Daisy,True
 1989,1990,62,BEST PICTURE,"Lawrence Gordon and Charles Gordon, Producers",Field of Dreams,False
-1989,1990,62,BEST PICTURE,"Noel Pearson, Producer",My Left Foot: The Story of Christy Brown,False
+1989,1990,62,BEST PICTURE,"Noel Pearson, Producer",My Left Foot,False
 1989,1990,62,SHORT FILM (Animated),"Christoph Lauenstein, Wolfgang Lauenstein",Balance,True
 1989,1990,62,SHORT FILM (Animated),Alexander Petrov,The Cow,False
 1989,1990,62,SHORT FILM (Animated),Mark Baker,The Hill Farm,False
@@ -6880,7 +6880,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),Alfred Uhry,Driving Miss Daisy,True
 1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),"Roger L. Simon, Paul Mazursky","Enemies, A Love Story",False
 1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),Phil Alden Robinson,Field of Dreams,False
-1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),"Jim Sheridan, Shane Connaughton",My Left Foot: The Story of Christy Brown,False
+1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),"Jim Sheridan, Shane Connaughton",My Left Foot,False
 1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Crimes and Misdemeanors,False
 1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Tom Schulman,Dead Poets Society,True
 1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Spike Lee,Do the Right Thing,False
@@ -6894,29 +6894,29 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1990,1991,63,ACTOR IN A LEADING ROLE,Richard Harris,The Field,False
 1990,1991,63,ACTOR IN A LEADING ROLE,Jeremy Irons,Reversal of Fortune,True
 1990,1991,63,ACTOR IN A SUPPORTING ROLE,Bruce Davison,Longtime Companion,False
-1990,1991,63,ACTOR IN A SUPPORTING ROLE,Andy Garcia,The Godfather Part III,False
+1990,1991,63,ACTOR IN A SUPPORTING ROLE,Andy Garcia,"The Godfather, Part III",False
 1990,1991,63,ACTOR IN A SUPPORTING ROLE,Graham Greene,Dances With Wolves,False
 1990,1991,63,ACTOR IN A SUPPORTING ROLE,Al Pacino,Dick Tracy,False
-1990,1991,63,ACTOR IN A SUPPORTING ROLE,Joe Pesci,GoodFellas,True
+1990,1991,63,ACTOR IN A SUPPORTING ROLE,Joe Pesci,Good Fellas,True
 1990,1991,63,ACTRESS IN A LEADING ROLE,Kathy Bates,Misery,True
 1990,1991,63,ACTRESS IN A LEADING ROLE,Anjelica Huston,The Grifters,False
 1990,1991,63,ACTRESS IN A LEADING ROLE,Julia Roberts,Pretty Woman,False
 1990,1991,63,ACTRESS IN A LEADING ROLE,Meryl Streep,Postcards from the Edge,False
 1990,1991,63,ACTRESS IN A LEADING ROLE,Joanne Woodward,Mr. & Mrs. Bridge,False
 1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Annette Bening,The Grifters,False
-1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Lorraine Bracco,GoodFellas,False
+1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Lorraine Bracco,Good Fellas,False
 1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Whoopi Goldberg,Ghost,True
 1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Diane Ladd,Wild at Heart,False
 1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Mary McDonnell,Dances With Wolves,False
 1990,1991,63,ART DIRECTION,Art Direction:  Ezio Frigerio;  Set Decoration:  Jacques Rouxel,Cyrano de Bergerac,False
 1990,1991,63,ART DIRECTION,Art Direction:  Jeffrey Beecroft;  Set Decoration:  Lisa Dean,Dances With Wolves,False
 1990,1991,63,ART DIRECTION,Art Direction:  Richard Sylbert;  Set Decoration:  Rick Simpson,Dick Tracy,True
-1990,1991,63,ART DIRECTION,Art Direction:  Dean Tavoularis;  Set Decoration:  Gary Fettis,The Godfather Part III,False
+1990,1991,63,ART DIRECTION,Art Direction:  Dean Tavoularis;  Set Decoration:  Gary Fettis,"The Godfather, Part III",False
 1990,1991,63,ART DIRECTION,Art Direction:  Dante Ferretti;  Set Decoration:  Francesca Lo Schiavo,Hamlet,False
 1990,1991,63,CINEMATOGRAPHY,Allen Daviau,Avalon,False
 1990,1991,63,CINEMATOGRAPHY,Dean Semler,Dances With Wolves,True
 1990,1991,63,CINEMATOGRAPHY,Vittorio Storaro,Dick Tracy,False
-1990,1991,63,CINEMATOGRAPHY,Gordon Willis,The Godfather Part III,False
+1990,1991,63,CINEMATOGRAPHY,Gordon Willis,"The Godfather, Part III",False
 1990,1991,63,CINEMATOGRAPHY,Philippe Rousselot,Henry & June,False
 1990,1991,63,COSTUME DESIGN,Gloria Gresham,Avalon,False
 1990,1991,63,COSTUME DESIGN,Franca Squarciapino,Cyrano de Bergerac,True
@@ -6924,8 +6924,8 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1990,1991,63,COSTUME DESIGN,Milena Canonero,Dick Tracy,False
 1990,1991,63,COSTUME DESIGN,Maurizio Millenotti,Hamlet,False
 1990,1991,63,DIRECTING,Kevin Costner,Dances With Wolves,True
-1990,1991,63,DIRECTING,Francis Ford Coppola,The Godfather Part III,False
-1990,1991,63,DIRECTING,Martin Scorsese,GoodFellas,False
+1990,1991,63,DIRECTING,Francis Ford Coppola,"The Godfather, Part III",False
+1990,1991,63,DIRECTING,Martin Scorsese,Good Fellas,False
 1990,1991,63,DIRECTING,Stephen Frears,The Grifters,False
 1990,1991,63,DIRECTING,Barbet Schroeder,Reversal of Fortune,False
 1990,1991,63,DOCUMENTARY (Feature),"Barbara Kopple and Arthur Cohn, Producers",American Dream,True
@@ -6940,8 +6940,8 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1990,1991,63,DOCUMENTARY (Short Subject),"Freida Lee Mock and Terry Sanders, Producers",Rose Kennedy: A Life to Remember,False
 1990,1991,63,FILM EDITING,Neil Travis,Dances With Wolves,True
 1990,1991,63,FILM EDITING,Walter Murch,Ghost,False
-1990,1991,63,FILM EDITING,"Barry Malkin, Lisa Fruchtman, Walter Murch",The Godfather Part III,False
-1990,1991,63,FILM EDITING,Thelma Schoonmaker,GoodFellas,False
+1990,1991,63,FILM EDITING,"Barry Malkin, Lisa Fruchtman, Walter Murch","The Godfather, Part III",False
+1990,1991,63,FILM EDITING,Thelma Schoonmaker,Good Fellas,False
 1990,1991,63,FILM EDITING,"Dennis Virkler, John Wright",The Hunt for Red October,False
 1990,1991,63,FOREIGN LANGUAGE FILM,France,Cyrano de Bergerac,False
 1990,1991,63,FOREIGN LANGUAGE FILM,Switzerland,Journey of Hope,True
@@ -6958,14 +6958,14 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1990,1991,63,MUSIC (Original Score),John Williams,Home Alone,False
 1990,1991,63,MUSIC (Original Song),Music and Lyric by Jon Bon Jovi,Young Guns II,False
 1990,1991,63,MUSIC (Original Song),Music and Lyric by Shel Silverstein,Postcards from the Edge,False
-1990,1991,63,MUSIC (Original Song),Music by Carmine Coppola; Lyric by John Bettis,The Godfather Part III,False
+1990,1991,63,MUSIC (Original Song),Music by Carmine Coppola; Lyric by John Bettis,"The Godfather, Part III",False
 1990,1991,63,MUSIC (Original Song),Music by John Williams; Lyric by Leslie Bricusse,Home Alone,False
 1990,1991,63,MUSIC (Original Song),Music and Lyric by Stephen Sondheim,Dick Tracy,True
 1990,1991,63,BEST PICTURE,"Walter F. Parkes and Lawrence Lasker, Producers",Awakenings,False
 1990,1991,63,BEST PICTURE,"Jim Wilson and Kevin Costner, Producers",Dances With Wolves,True
 1990,1991,63,BEST PICTURE,"Lisa Weinstein, Producer",Ghost,False
-1990,1991,63,BEST PICTURE,"Francis Ford Coppola, Producer",The Godfather Part III,False
-1990,1991,63,BEST PICTURE,"Irwin Winkler, Producer",GoodFellas,False
+1990,1991,63,BEST PICTURE,"Francis Ford Coppola, Producer","The Godfather, Part III",False
+1990,1991,63,BEST PICTURE,"Irwin Winkler, Producer",Good Fellas,False
 1990,1991,63,SHORT FILM (Animated),Nick Park,Creature Comforts,True
 1990,1991,63,SHORT FILM (Animated),Nick Park,A Grand Day Out,False
 1990,1991,63,SHORT FILM (Animated),Bruno Bozzetto,Grasshoppers (Cavallette),False
@@ -6984,7 +6984,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1990,1991,63,SOUND EFFECTS EDITING,Stephen H. Flick,Total Recall,False
 1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Steven Zaillian,Awakenings,False
 1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Michael Blake,Dances With Wolves,True
-1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),"Nicholas Pileggi, Martin Scorsese",GoodFellas,False
+1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),"Nicholas Pileggi, Martin Scorsese",Good Fellas,False
 1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Donald E. Westlake,The Grifters,False
 1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Nicholas Kazan,Reversal of Fortune,False
 1990,1991,63,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Alice,False
@@ -7440,7 +7440,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1995,1996,68,ACTOR IN A LEADING ROLE,Richard Dreyfuss,Mr. Holland's Opus,False
 1995,1996,68,ACTOR IN A LEADING ROLE,Anthony Hopkins,Nixon,False
 1995,1996,68,ACTOR IN A LEADING ROLE,Sean Penn,Dead Man Walking,False
-1995,1996,68,ACTOR IN A LEADING ROLE,Massimo Troisi,The Postman,False
+1995,1996,68,ACTOR IN A LEADING ROLE,Massimo Troisi,The Postman (Il Postino),False
 1995,1996,68,ACTOR IN A SUPPORTING ROLE,James Cromwell,Babe,False
 1995,1996,68,ACTOR IN A SUPPORTING ROLE,Ed Harris,Apollo 13,False
 1995,1996,68,ACTOR IN A SUPPORTING ROLE,Brad Pitt,12 Monkeys,False
@@ -7475,7 +7475,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1995,1996,68,DIRECTING,Mel Gibson,Braveheart,True
 1995,1996,68,DIRECTING,Tim Robbins,Dead Man Walking,False
 1995,1996,68,DIRECTING,Mike Figgis,Leaving Las Vegas,False
-1995,1996,68,DIRECTING,Michael Radford,The Postman,False
+1995,1996,68,DIRECTING,Michael Radford,The Postman (Il Postino),False
 1995,1996,68,DOCUMENTARY (Feature),Jon Blair,Anne Frank Remembered,True
 1995,1996,68,DOCUMENTARY (Feature),"Thomas Lennon, Michael Epstein",The Battle over Citizen Kane,False
 1995,1996,68,DOCUMENTARY (Feature),"Allan Miller, Walter Scheuer",Fiddlefest--Roberta Tzavaras and Her East Harlem Violin Program,False
@@ -7502,7 +7502,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1995,1996,68,MUSIC (Original Dramatic Score),James Horner,Apollo 13,False
 1995,1996,68,MUSIC (Original Dramatic Score),James Horner,Braveheart,False
 1995,1996,68,MUSIC (Original Dramatic Score),John Williams,Nixon,False
-1995,1996,68,MUSIC (Original Dramatic Score),Luis Enrique Bacalov,The Postman,True
+1995,1996,68,MUSIC (Original Dramatic Score),Luis Enrique Bacalov,The Postman (Il Postino),True
 1995,1996,68,MUSIC (Original Dramatic Score),Patrick Doyle,Sense and Sensibility,False
 1995,1996,68,MUSIC (Original Musical or Comedy Score),Marc Shaiman,The American President,False
 1995,1996,68,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,Pocahontas,True
@@ -7517,7 +7517,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1995,1996,68,BEST PICTURE,"Brian Grazer, Producer",Apollo 13,False
 1995,1996,68,BEST PICTURE,"George Miller, Doug Mitchell and Bill Miller, Producers",Babe,False
 1995,1996,68,BEST PICTURE,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",Braveheart,True
-1995,1996,68,BEST PICTURE,"Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",The Postman,False
+1995,1996,68,BEST PICTURE,"Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",The Postman (Il Postino),False
 1995,1996,68,BEST PICTURE,"Lindsay Doran, Producer",Sense and Sensibility,False
 1995,1996,68,SHORT FILM (Animated),John R. Dilworth,The Chicken from Outer Space,False
 1995,1996,68,SHORT FILM (Animated),Nick Park,A Close Shave,True
@@ -7542,7 +7542,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),"William Broyles, Jr., Al Reinert",Apollo 13,False
 1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),"George Miller, Chris Noonan",Babe,False
 1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),Mike Figgis,Leaving Las Vegas,False
-1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),"Anna Pavignano, Michael Radford, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi",The Postman,False
+1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),"Anna Pavignano, Michael Radford, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi",The Postman (Il Postino),False
 1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),Emma Thompson,Sense and Sensibility,True
 1995,1996,68,WRITING (Screenplay Written Directly for the Screen),Randall Wallace,Braveheart,False
 1995,1996,68,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Mighty Aphrodite,False
@@ -8127,7 +8127,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,ACTOR IN A SUPPORTING ROLE,Jon Voight,Ali,False
 2001,2002,74,ACTRESS IN A LEADING ROLE,Halle Berry,Monster's Ball,True
 2001,2002,74,ACTRESS IN A LEADING ROLE,Judi Dench,Iris,False
-2001,2002,74,ACTRESS IN A LEADING ROLE,Nicole Kidman,Moulin Rouge!,False
+2001,2002,74,ACTRESS IN A LEADING ROLE,Nicole Kidman,Moulin Rouge,False
 2001,2002,74,ACTRESS IN A LEADING ROLE,Sissy Spacek,In the Bedroom,False
 2001,2002,74,ACTRESS IN A LEADING ROLE,Renée Zellweger,Bridget Jones's Diary,False
 2001,2002,74,ACTRESS IN A SUPPORTING ROLE,Jennifer Connelly,A Beautiful Mind,True
@@ -8142,17 +8142,17 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,ART DIRECTION,Art Direction:  Stephen Altman; Set Decoration:  Anna Pinnock,Gosford Park,False
 2001,2002,74,ART DIRECTION,Art Direction:  Stuart Craig; Set Decoration:  Stephenie McMillan,Harry Potter and the Sorcerer's Stone,False
 2001,2002,74,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah,The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,ART DIRECTION,Art Direction:  Catherine Martin; Set Decoration:  Brigitte Broch,Moulin Rouge!,True
+2001,2002,74,ART DIRECTION,Art Direction:  Catherine Martin; Set Decoration:  Brigitte Broch,Moulin Rouge,True
 2001,2002,74,CINEMATOGRAPHY,Bruno Delbonnel,Amélie,False
 2001,2002,74,CINEMATOGRAPHY,Slawomir Idziak,Black Hawk Down,False
 2001,2002,74,CINEMATOGRAPHY,Andrew Lesnie,The Lord of the Rings: The Fellowship of the Ring,True
 2001,2002,74,CINEMATOGRAPHY,Roger Deakins,The Man Who Wasn't There,False
-2001,2002,74,CINEMATOGRAPHY,Donald M. McAlpine,Moulin Rouge!,False
+2001,2002,74,CINEMATOGRAPHY,Donald M. McAlpine,Moulin Rouge,False
 2001,2002,74,COSTUME DESIGN,Milena Canonero,The Affair of the Necklace,False
 2001,2002,74,COSTUME DESIGN,Jenny Beavan,Gosford Park,False
 2001,2002,74,COSTUME DESIGN,Judianna Makovsky,Harry Potter and the Sorcerer's Stone,False
 2001,2002,74,COSTUME DESIGN,"Ngila Dickson, Richard Taylor",The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,COSTUME DESIGN,"Catherine Martin, Angus Strathie",Moulin Rouge!,True
+2001,2002,74,COSTUME DESIGN,"Catherine Martin, Angus Strathie",Moulin Rouge,True
 2001,2002,74,DIRECTING,Ron Howard,A Beautiful Mind,True
 2001,2002,74,DIRECTING,Ridley Scott,Black Hawk Down,False
 2001,2002,74,DIRECTING,Robert Altman,Gosford Park,False
@@ -8170,7 +8170,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,FILM EDITING,Pietro Scalia,Black Hawk Down,True
 2001,2002,74,FILM EDITING,John Gilbert,The Lord of the Rings: The Fellowship of the Ring,False
 2001,2002,74,FILM EDITING,Dody Dorn,Memento,False
-2001,2002,74,FILM EDITING,Jill Bilcock,Moulin Rouge!,False
+2001,2002,74,FILM EDITING,Jill Bilcock,Moulin Rouge,False
 2001,2002,74,FOREIGN LANGUAGE FILM,France,Amélie,False
 2001,2002,74,FOREIGN LANGUAGE FILM,Norway,Elling,False
 2001,2002,74,FOREIGN LANGUAGE FILM,India,Lagaan,False
@@ -8178,7 +8178,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,FOREIGN LANGUAGE FILM,Argentina,Son of the Bride,False
 2001,2002,74,MAKEUP,"Greg Cannom, Colleen Callaghan",A Beautiful Mind,False
 2001,2002,74,MAKEUP,"Peter Owen, Richard Taylor",The Lord of the Rings: The Fellowship of the Ring,True
-2001,2002,74,MAKEUP,"Maurizio Silvi, Aldo Signoretti",Moulin Rouge!,False
+2001,2002,74,MAKEUP,"Maurizio Silvi, Aldo Signoretti",Moulin Rouge,False
 2001,2002,74,MUSIC (Original Score),John Williams,A.I. Artificial Intelligence,False
 2001,2002,74,MUSIC (Original Score),James Horner,A Beautiful Mind,False
 2001,2002,74,MUSIC (Original Score),John Williams,Harry Potter and the Sorcerer's Stone,False
@@ -8193,7 +8193,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,BEST PICTURE,"Robert Altman, Bob Balaban and David Levy, Producers",Gosford Park,False
 2001,2002,74,BEST PICTURE,"Graham Leader, Ross Katz and Todd Field, Producers",In the Bedroom,False
 2001,2002,74,BEST PICTURE,"Peter Jackson, Fran Walsh and Barrie M. Osborne, Producers",The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,BEST PICTURE,"Martin Brown, Baz Luhrmann and Fred Baron, Producers",Moulin Rouge!,False
+2001,2002,74,BEST PICTURE,"Martin Brown, Baz Luhrmann and Fred Baron, Producers",Moulin Rouge,False
 2001,2002,74,SHORT FILM (Animated),"Ruairi Robinson, Seamus Byrne",Fifty Percent Grey,False
 2001,2002,74,SHORT FILM (Animated),Ralph Eggleston,For the Birds,True
 2001,2002,74,SHORT FILM (Animated),"Cathal Gaffney, Darragh O'Connell",Give Up Yer Aul Sins,False
@@ -8207,7 +8207,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2001,2002,74,SOUND,"Vincent Arnardi, Guillaume Leriche, Jean Umansky",Amélie,False
 2001,2002,74,SOUND,"Michael Minkler, Myron Nettinga, Chris Munro",Black Hawk Down,True
 2001,2002,74,SOUND,"Christopher Boyes, Michael Semanick, Gethin Creagh, Hammond Peek",The Lord of the Rings: The Fellowship of the Ring,False
-2001,2002,74,SOUND,"Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics",Moulin Rouge!,False
+2001,2002,74,SOUND,"Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics",Moulin Rouge,False
 2001,2002,74,SOUND,"Kevin O'Connell, Greg P. Russell, Peter J. Devlin",Pearl Harbor,False
 2001,2002,74,SOUND EDITING,"Gary Rydstrom, Michael Silvers","Monsters, Inc.",False
 2001,2002,74,SOUND EDITING,"George Watters II, Christopher Boyes",Pearl Harbor,True
@@ -9029,13 +9029,13 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2009,2010,82,ACTRESS IN A LEADING ROLE,Sandra Bullock,The Blind Side,True
 2009,2010,82,ACTRESS IN A LEADING ROLE,Helen Mirren,The Last Station,False
 2009,2010,82,ACTRESS IN A LEADING ROLE,Carey Mulligan,An Education,False
-2009,2010,82,ACTRESS IN A LEADING ROLE,Gabourey Sidibe,Precious,False
+2009,2010,82,ACTRESS IN A LEADING ROLE,Gabourey Sidibe,Precious: Based on the Novel 'Push' by Sapphire,False
 2009,2010,82,ACTRESS IN A LEADING ROLE,Meryl Streep,Julie & Julia,False
 2009,2010,82,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Nine,False
 2009,2010,82,ACTRESS IN A SUPPORTING ROLE,Vera Farmiga,Up in the Air,False
 2009,2010,82,ACTRESS IN A SUPPORTING ROLE,Maggie Gyllenhaal,Crazy Heart,False
 2009,2010,82,ACTRESS IN A SUPPORTING ROLE,Anna Kendrick,Up in the Air,False
-2009,2010,82,ACTRESS IN A SUPPORTING ROLE,Mo'Nique,Precious,True
+2009,2010,82,ACTRESS IN A SUPPORTING ROLE,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire,True
 2009,2010,82,ANIMATED FEATURE FILM,Henry Selick,Coraline,False
 2009,2010,82,ANIMATED FEATURE FILM,Wes Anderson,Fantastic Mr. Fox,False
 2009,2010,82,ANIMATED FEATURE FILM,John Musker and Ron Clements,The Princess and the Frog,False
@@ -9059,7 +9059,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2009,2010,82,DIRECTING,James Cameron,Avatar,False
 2009,2010,82,DIRECTING,Kathryn Bigelow,The Hurt Locker,True
 2009,2010,82,DIRECTING,Quentin Tarantino,Inglourious Basterds,False
-2009,2010,82,DIRECTING,Lee Daniels,Precious,False
+2009,2010,82,DIRECTING,Lee Daniels,Precious: Based on the Novel 'Push' by Sapphire,False
 2009,2010,82,DIRECTING,Jason Reitman,Up in the Air,False
 2009,2010,82,DOCUMENTARY (Feature),Anders Østergaard and Lise Lense-Møller,Burma VJ,False
 2009,2010,82,DOCUMENTARY (Feature),Louie Psihoyos and Fisher Stevens,The Cove,True
@@ -9075,7 +9075,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2009,2010,82,FILM EDITING,Julian Clarke,District 9,False
 2009,2010,82,FILM EDITING,Bob Murawski and Chris Innis,The Hurt Locker,True
 2009,2010,82,FILM EDITING,Sally Menke,Inglourious Basterds,False
-2009,2010,82,FILM EDITING,Joe Klotz,Precious,False
+2009,2010,82,FILM EDITING,Joe Klotz,Precious: Based on the Novel 'Push' by Sapphire,False
 2009,2010,82,FOREIGN LANGUAGE FILM,Israel,Ajami,False
 2009,2010,82,FOREIGN LANGUAGE FILM,Peru,The Milk of Sorrow,False
 2009,2010,82,FOREIGN LANGUAGE FILM,France,A Prophet,False
@@ -9100,7 +9100,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2009,2010,82,BEST PICTURE,"Finola Dwyer and Amanda Posey, Producers",An Education,False
 2009,2010,82,BEST PICTURE,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",The Hurt Locker,True
 2009,2010,82,BEST PICTURE,"Lawrence Bender, Producer",Inglourious Basterds,False
-2009,2010,82,BEST PICTURE,"Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",Precious,False
+2009,2010,82,BEST PICTURE,"Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",Precious: Based on the Novel 'Push' by Sapphire,False
 2009,2010,82,BEST PICTURE,"Joel Coen and Ethan Coen, Producers",A Serious Man,False
 2009,2010,82,BEST PICTURE,"Jonas Rivera, Producer",Up,False
 2009,2010,82,BEST PICTURE,"Daniel Dubiecki, Ivan Reitman and Jason Reitman, Producers",Up in the Air,False
@@ -9130,7 +9130,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2009,2010,82,WRITING (Adapted Screenplay),Written by Neill Blomkamp and Terri Tatchell,District 9,False
 2009,2010,82,WRITING (Adapted Screenplay),Screenplay by Nick Hornby,An Education,False
 2009,2010,82,WRITING (Adapted Screenplay),"Screenplay by Jesse Armstrong, Simon Blackwell, Armando Iannucci, Tony Roche",In the Loop,False
-2009,2010,82,WRITING (Adapted Screenplay),Screenplay by Geoffrey Fletcher,Precious,True
+2009,2010,82,WRITING (Adapted Screenplay),Screenplay by Geoffrey Fletcher,Precious: Based on the Novel 'Push' by Sapphire,True
 2009,2010,82,WRITING (Adapted Screenplay),Screenplay by Jason Reitman and Sheldon Turner,Up in the Air,False
 2009,2010,82,WRITING (Original Screenplay),Written by Mark Boal,The Hurt Locker,True
 2009,2010,82,WRITING (Original Screenplay),Written by Quentin Tarantino,Inglourious Basterds,False
@@ -10267,7 +10267,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2018,2019,91,HONORARY AWARD, Cicely Tyson,,True
 2018,2019,91,IRVING G. THALBERG MEMORIAL AWARD,Kathleen Kennedy and Frank Marshall,,True
 2019,2020,92,ACTOR IN A LEADING ROLE,Antonio Banderas,Pain and Glory,False
-2019,2020,92,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Once Upon a Time… in Hollywood,False
+2019,2020,92,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Once upon a Time...in Hollywood,False
 2019,2020,92,ACTOR IN A LEADING ROLE,Adam Driver,Marriage Story,False
 2019,2020,92,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,True
 2019,2020,92,ACTOR IN A LEADING ROLE,Jonathan Pryce,The Two Popes,False
@@ -10275,7 +10275,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2019,2020,92,ACTOR IN A SUPPORTING ROLE,Anthony Hopkins,The Two Popes,False
 2019,2020,92,ACTOR IN A SUPPORTING ROLE,Al Pacino,The Irishman,False
 2019,2020,92,ACTOR IN A SUPPORTING ROLE,Joe Pesci,The Irishman,False
-2019,2020,92,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once Upon a Time… in Hollywood,True
+2019,2020,92,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once upon a Time...in Hollywood,True
 2019,2020,92,ACTRESS IN A LEADING ROLE,Cynthia Erivo,Harriet,False
 2019,2020,92,ACTRESS IN A LEADING ROLE,Scarlett Johansson,Marriage Story,False
 2019,2020,92,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Little Women,False
@@ -10295,16 +10295,16 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2019,2020,92,CINEMATOGRAPHY,Lawrence Sher,Joker,False
 2019,2020,92,CINEMATOGRAPHY,Jarin Blaschke,The Lighthouse,False
 2019,2020,92,CINEMATOGRAPHY,Roger Deakins,1917,True
-2019,2020,92,CINEMATOGRAPHY,Robert Richardson,Once Upon a Time… in Hollywood,False
+2019,2020,92,CINEMATOGRAPHY,Robert Richardson,Once upon a Time...in Hollywood,False
 2019,2020,92,COSTUME DESIGN,Sandy Powell and Christopher Peterson,The Irishman,False
 2019,2020,92,COSTUME DESIGN,Mayes C. Rubeo,Jojo Rabbit,False
 2019,2020,92,COSTUME DESIGN,Mark Bridges,Joker,False
 2019,2020,92,COSTUME DESIGN,Jacqueline Durran,Little Women,True
-2019,2020,92,COSTUME DESIGN,Arianne Phillips,Once Upon a Time… in Hollywood,False
+2019,2020,92,COSTUME DESIGN,Arianne Phillips,Once upon a Time...in Hollywood,False
 2019,2020,92,DIRECTING,Martin Scorsese,The Irishman,False
 2019,2020,92,DIRECTING,Todd Phillips,Joker,False
 2019,2020,92,DIRECTING,Sam Mendes,1917,False
-2019,2020,92,DIRECTING,Quentin Tarantino,Once Upon a Time… in Hollywood,False
+2019,2020,92,DIRECTING,Quentin Tarantino,Once upon a Time...in Hollywood,False
 2019,2020,92,DIRECTING,Bong Joon Ho,Parasite,True
 2019,2020,92,DOCUMENTARY (Feature),"Steven Bognar, Julia Reichert and Jeff Reichert",American Factory,True
 2019,2020,92,DOCUMENTARY (Feature),"Feras Fayyad, Kirstine Barfod and Sigrid Dyekjær",The Cave,False
@@ -10348,12 +10348,12 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2019,2020,92,BEST PICTURE,"Amy Pascal, Producer",Little Women,False
 2019,2020,92,BEST PICTURE,"Noah Baumbach and David Heyman, Producers",Marriage Story,False
 2019,2020,92,BEST PICTURE,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",1917,False
-2019,2020,92,BEST PICTURE,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once Upon a Time… in Hollywood,False
+2019,2020,92,BEST PICTURE,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once upon a Time...in Hollywood,False
 2019,2020,92,BEST PICTURE,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,True
 2019,2020,92,PRODUCTION DESIGN,Production Design: Bob Shaw; Set Decoration: Regina Graves,The Irishman,False
 2019,2020,92,PRODUCTION DESIGN,Production Design: Ra Vincent; Set Decoration: Nora Sopková,Jojo Rabbit,False
 2019,2020,92,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Lee Sandales,1917,False
-2019,2020,92,PRODUCTION DESIGN,Production Design: Barbara Ling; Set Decoration: Nancy Haigh,Once Upon a Time… in Hollywood,True
+2019,2020,92,PRODUCTION DESIGN,Production Design: Barbara Ling; Set Decoration: Nancy Haigh,Once upon a Time...in Hollywood,True
 2019,2020,92,PRODUCTION DESIGN,Production Design: Lee Ha Jun; Set Decoration: Cho Won Woo,Parasite,False
 2019,2020,92,SHORT FILM (Animated),Daria Kashcheeva,Dcera (Daughter),False
 2019,2020,92,SHORT FILM (Animated),Matthew A. Cherry and Karen Rupert Toliver,Hair Love,True
@@ -10368,13 +10368,13 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2019,2020,92,SOUND EDITING,Donald Sylvester,Ford v Ferrari,True
 2019,2020,92,SOUND EDITING,Alan Robert Murray,Joker,False
 2019,2020,92,SOUND EDITING,Oliver Tarney and Rachael Tate,1917,False
-2019,2020,92,SOUND EDITING,Wylie Stateman,Once Upon a Time… in Hollywood,False
+2019,2020,92,SOUND EDITING,Wylie Stateman,Once upon a Time...in Hollywood,False
 2019,2020,92,SOUND EDITING,Matthew Wood and David Acord,Star Wars: The Rise of Skywalker,False
 2019,2020,92,SOUND MIXING,"Gary Rydstrom, Tom Johnson and Mark Ulano",Ad Astra,False
 2019,2020,92,SOUND MIXING,"Paul Massey, David Giammarco and Steven A. Morrow",Ford v Ferrari,False
 2019,2020,92,SOUND MIXING,"Tom Ozanich, Dean Zupancic and Tod Maitland",Joker,False
 2019,2020,92,SOUND MIXING,Mark Taylor and Stuart Wilson,1917,True
-2019,2020,92,SOUND MIXING,"Michael Minkler, Christian P. Minkler and Mark Ulano",Once Upon a Time… in Hollywood,False
+2019,2020,92,SOUND MIXING,"Michael Minkler, Christian P. Minkler and Mark Ulano",Once upon a Time...in Hollywood,False
 2019,2020,92,VISUAL EFFECTS,"Dan DeLeeuw, Russell Earl, Matt Aitken and Dan Sudick",Avengers: Endgame,False
 2019,2020,92,VISUAL EFFECTS,"Pablo Helman, Leandro Estebecorena, Nelson Sepulveda-Fauser and Stephane Grabli",The Irishman,False
 2019,2020,92,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",The Lion King,False
@@ -10388,7 +10388,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 2019,2020,92,WRITING (Original Screenplay),Written by Rian Johnson,Knives Out,False
 2019,2020,92,WRITING (Original Screenplay),Written by Noah Baumbach,Marriage Story,False
 2019,2020,92,WRITING (Original Screenplay),Written by Sam Mendes & Krysty Wilson-Cairns,1917,False
-2019,2020,92,WRITING (Original Screenplay),Written by Quentin Tarantino,Once Upon a Time… in Hollywood,False
+2019,2020,92,WRITING (Original Screenplay),Written by Quentin Tarantino,Once upon a Time...in Hollywood,False
 2019,2020,92,WRITING (Original Screenplay),"Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",Parasite,True
 2019,2020,92,JEAN HERSHOLT HUMANITARIAN AWARD,Geena Davis,,True
 2019,2020,92,HONORARY AWARD, David Lynch,,True
