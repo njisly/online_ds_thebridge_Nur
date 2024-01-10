@@ -1,0 +1,592 @@
+title,rating
+The Racket,6.6
+7th Heaven,7.6
+Wings,7.5
+Alibi,5.7
+In Old Arizona,5.5
+The Broadway Melody,5.6
+The Hollywood Revue of 1929,5.8
+The Patriot,
+All Quiet on the Western Front,8.1
+The Big House,7.1
+Disraeli,6.1
+The Divorcee,6.7
+The Love Parade,7.0
+Cimarron,5.8
+East Lynne,5.8
+The Front Page,6.7
+Skippy,6.3
+Trader Horn,6.1
+Arrowsmith,6.2
+Bad Girl,6.4
+The Champ,7.3
+Five Star Final,7.3
+Grand Hotel,7.3
+One Hour with You,7.1
+Shanghai Express,7.3
+The Smiling Lieutenant,7.2
+Cavalcade,5.8
+A Farewell to Arms,6.4
+42nd Street,7.3
+I Am a Fugitive from a Chain Gang,8.2
+Lady for a Day,7.4
+Little Women,7.2
+The Private Life of Henry VIII,7.0
+She Done Him Wrong,6.3
+Smilin' Through,6.9
+State Fair,6.7
+The Barretts of Wimpole Street,6.9
+Cleopatra,6.8
+Flirtation Walk,5.6
+The Gay Divorcee,7.4
+Here Comes the Navy,6.2
+The House of Rothschild,6.5
+Imitation of Life,7.5
+It Happened One Night,8.1
+One Night of Love,5.6
+The Thin Man,7.9
+Viva Villa!,6.3
+The White Parade,6.8
+Alice Adams,6.9
+Broadway Melody of 1936,6.8
+Captain Blood,7.7
+David Copperfield,7.4
+The Informer,7.4
+Les Misérables,7.7
+The Lives of a Bengal Lancer,7.0
+A Midsummer Night's Dream,6.8
+Mutiny on the Bounty,7.6
+Naughty Marietta,6.5
+Ruggles of Red Gap,7.6
+Top Hat,7.7
+Anthony Adverse,6.3
+Dodsworth,7.8
+The Great Ziegfeld,6.6
+Libeled Lady,7.8
+Mr. Deeds Goes to Town,7.8
+Romeo and Juliet,6.5
+San Francisco,7.2
+The Story of Louis Pasteur,7.3
+A Tale of Two Cities,7.8
+Three Smart Girls,6.6
+The Awful Truth,7.7
+Captains Courageous,7.9
+Dead End,7.2
+The Good Earth,7.5
+In Old Chicago,6.7
+The Life of Emile Zola,7.2
+Lost Horizon,7.6
+One Hundred Men and a Girl,6.7
+Stage Door,7.7
+A Star Is Born,7.3
+The Adventures of Robin Hood,7.9
+Alexander's Ragtime Band,6.8
+Boys Town,7.2
+The Citadel,7.1
+Four Daughters,6.9
+,
+Jezebel,7.4
+Pygmalion,7.7
+Test Pilot,6.8
+You Can't Take It with You,7.8
+Dark Victory,7.4
+Gone with the Wind,8.2
+"Goodbye, Mr. Chips",7.9
+Love Affair,7.3
+Mr. Smith Goes to Washington,8.1
+Ninotchka,7.8
+Of Mice and Men,7.8
+Stagecoach,7.8
+The Wizard of Oz,8.1
+Wuthering Heights,7.5
+"All This, and Heaven Too",7.4
+Foreign Correspondent,7.4
+The Grapes of Wrath,8.1
+The Great Dictator,8.4
+Kitty Foyle,6.9
+The Letter,7.5
+The Long Voyage Home,6.9
+Our Town,6.5
+The Philadelphia Story,7.9
+Rebecca,8.1
+Blossoms in the Dust,6.9
+Citizen Kane,8.3
+Here Comes Mr. Jordan,7.6
+Hold Back the Dawn,7.3
+How Green Was My Valley,7.7
+The Little Foxes,7.9
+The Maltese Falcon,8.0
+One Foot in Heaven,6.7
+Sergeant York,7.7
+Suspicion,7.3
+49th Parallel,7.3
+Kings Row,7.5
+The Magnificent Ambersons,7.6
+Mrs. Miniver,7.6
+The Pied Piper,7.0
+The Pride of the Yankees,7.6
+Random Harvest,7.9
+The Talk of the Town,7.5
+Wake Island,6.6
+Yankee Doodle Dandy,7.6
+Casablanca,8.5
+For Whom the Bell Tolls,6.8
+Heaven Can Wait,7.4
+The Human Comedy,7.0
+In Which We Serve,7.2
+Madame Curie,7.2
+The More the Merrier,7.6
+The Ox-Bow Incident,8.0
+The Song of Bernadette,7.6
+Watch on the Rhine,7.1
+Double Indemnity,8.3
+Gaslight,7.8
+Going My Way,7.0
+Since You Went Away,7.5
+Wilson,6.4
+Anchors Aweigh,7.0
+The Bells of St. Mary's,7.2
+The Lost Weekend,7.9
+Mildred Pierce,7.9
+Spellbound,7.5
+The Best Years of Our Lives,8.1
+,
+It's a Wonderful Life,8.6
+The Razor's Edge,7.3
+The Yearling,7.2
+The Bishop's Wife,7.6
+Crossfire,7.3
+Gentleman's Agreement,7.2
+Great Expectations,7.8
+Miracle on 34th Street,7.9
+Hamlet,7.6
+Johnny Belinda,7.7
+The Red Shoes,8.1
+The Snake Pit,7.6
+The Treasure of the Sierra Madre,8.2
+All the King's Men,7.4
+Battleground,7.4
+The Heiress,8.1
+A Letter to Three Wives,7.7
+Twelve O'Clock High,7.7
+All About Eve,8.2
+Born Yesterday,7.5
+Father of the Bride,7.1
+King Solomon's Mines,6.7
+,
+An American in Paris,7.2
+Decision Before Dawn,7.2
+A Place in the Sun,7.7
+Quo Vadis,7.1
+A Streetcar Named Desire,7.9
+The Greatest Show on Earth,6.6
+High Noon,8.0
+Ivanhoe,6.7
+Moulin Rouge,7.0
+The Quiet Man,7.7
+From Here to Eternity,7.6
+Julius Caesar,7.2
+The Robe,6.7
+Roman Holiday,8.0
+Shane,7.6
+The Caine Mutiny,7.7
+The Country Girl,7.2
+On the Waterfront,8.1
+Seven Brides for Seven Brothers,7.3
+Three Coins in the Fountain,6.2
+Love Is a Many-Splendored Thing,6.4
+Marty,7.7
+Mister Roberts,7.6
+Picnic,7.0
+The Rose Tattoo,6.9
+,
+Friendly Persuasion,7.3
+Giant,7.6
+The King and I,7.4
+The Ten Commandments,7.9
+The Bridge on the River Kwai,8.1
+Peyton Place,7.2
+Sayonara,7.0
+12 Angry Men,9.0
+Witness for the Prosecution,8.4
+Auntie Mame,7.9
+Cat on a Hot Tin Roof,7.9
+The Defiant Ones,7.6
+Gigi,6.6
+Separate Tables,7.4
+Anatomy of a Murder,8.0
+Ben-Hur,8.1
+The Diary of Anne Frank,7.4
+The Nun's Story,7.5
+Room at the Top,7.5
+The Alamo,6.8
+The Apartment,8.3
+Elmer Gantry,7.7
+Sons and Lovers,7.1
+The Sundowners,7.1
+Fanny,6.8
+The Guns of Navarone,7.5
+The Hustler,8.0
+Judgment at Nuremberg,8.3
+West Side Story,7.6
+Lawrence of Arabia,8.3
+The Longest Day,7.7
+The Music Man,7.7
+Mutiny on the Bounty,7.2
+To Kill a Mockingbird,8.3
+America America,7.7
+Cleopatra,7.0
+How the West Was Won,7.0
+Lilies of the Field,7.5
+Tom Jones,6.4
+Becket,7.8
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4
+Mary Poppins,7.8
+My Fair Lady,7.7
+Zorba the Greek,7.6
+Darling,7.0
+Doctor Zhivago,7.9
+Ship of Fools,7.1
+The Sound of Music,8.1
+A Thousand Clowns,7.3
+Alfie,7.0
+A Man for All Seasons,7.7
+,
+The Sand Pebbles,7.5
+Who's Afraid of Virginia Woolf?,8.0
+Bonnie and Clyde,7.7
+Doctor Dolittle,6.1
+The Graduate,8.0
+Guess Who's Coming to Dinner,7.8
+In the Heat of the Night,7.9
+Funny Girl,7.3
+The Lion in Winter,7.9
+Oliver!,7.4
+"Rachel, Rachel",7.1
+Romeo and Juliet,7.6
+Anne of the Thousand Days,7.4
+Butch Cassidy and the Sundance Kid,8.0
+"Hello, Dolly!",7.0
+Midnight Cowboy,7.8
+Z,8.2
+Airport,6.6
+Five Easy Pieces,7.4
+Love Story,6.9
+M*A*S*H,7.4
+Patton,7.9
+A Clockwork Orange,8.3
+Fiddler on the Roof,8.0
+The French Connection,7.7
+The Last Picture Show,8.0
+Nicholas and Alexandra,7.2
+Cabaret,7.8
+Deliverance,7.7
+The Emigrants,8.0
+The Godfather,9.2
+Sounder,7.5
+American Graffiti,7.4
+,
+The Exorcist,8.1
+The Sting,8.3
+A Touch of Class,6.5
+Chinatown,8.2
+The Conversation,7.8
+The Godfather Part II,9.0
+Lenny,7.5
+The Towering Inferno,7.0
+Barry Lyndon,8.1
+Dog Day Afternoon,8.0
+Jaws,8.1
+Nashville,7.6
+One Flew Over the Cuckoo's Nest,8.7
+All the President's Men,7.9
+Bound for Glory,7.2
+Network,8.1
+Rocky,8.1
+Taxi Driver,8.2
+Annie Hall,8.0
+The Goodbye Girl,7.4
+Julia,7.1
+,
+The Turning Point,6.8
+Coming Home,7.3
+The Deer Hunter,8.1
+Heaven Can Wait,6.9
+Midnight Express,7.5
+An Unmarried Woman,7.2
+All That Jazz,7.8
+Apocalypse Now,8.4
+Breaking Away,7.7
+Kramer vs. Kramer,7.8
+Norma Rae,7.3
+Coal Miner's Daughter,7.5
+The Elephant Man,8.2
+Ordinary People,7.7
+Raging Bull,8.1
+Tess,7.3
+Atlantic City,7.3
+Chariots of Fire,7.1
+On Golden Pond,7.6
+Raiders of the Lost Ark,8.4
+Reds,7.3
+E.T. the Extra-Terrestrial,7.9
+Gandhi,8.0
+Missing,7.7
+Tootsie,7.4
+The Verdict,7.7
+The Big Chill,7.1
+The Dresser,7.5
+The Right Stuff,7.8
+Tender Mercies,7.3
+Terms of Endearment,7.4
+Amadeus,8.4
+The Killing Fields,7.8
+A Passage to India,7.3
+Places in the Heart,7.4
+A Soldier's Story,7.2
+The Color Purple,7.7
+Kiss of the Spider Woman,7.3
+Out of Africa,7.1
+Prizzi's Honor,6.7
+Witness,7.4
+Children of a Lesser God,7.2
+Hannah and Her Sisters,7.8
+The Mission,7.4
+Platoon,8.1
+A Room with a View,7.2
+Broadcast News,7.3
+Fatal Attraction,6.9
+Hope and Glory,7.3
+The Last Emperor,7.7
+Moonstruck,7.1
+The Accidental Tourist,6.7
+Dangerous Liaisons,7.6
+Mississippi Burning,7.8
+Rain Man,8.0
+Working Girl,6.8
+Born on the Fourth of July,7.2
+Dead Poets Society,8.1
+Driving Miss Daisy,7.3
+Field of Dreams,7.5
+,
+Awakenings,7.8
+Dances with Wolves,8.0
+Ghost,7.1
+The Godfather Part III,7.6
+Goodfellas,8.7
+Beauty and the Beast,8.0
+Bugsy,6.8
+JFK,8.0
+The Prince of Tides,6.8
+The Silence of the Lambs,8.6
+The Crying Game,7.2
+A Few Good Men,7.7
+Howards End,7.4
+Scent of a Woman,8.0
+Unforgiven,8.2
+The Fugitive,7.8
+In the Name of the Father,8.1
+The Piano,7.5
+The Remains of the Day,7.8
+Schindler's List,9.0
+Forrest Gump,8.8
+Four Weddings and a Funeral,7.1
+Pulp Fiction,8.9
+Quiz Show,7.5
+The Shawshank Redemption,9.3
+Apollo 13,7.7
+Babe,6.9
+Braveheart,8.3
+The Postman,7.8
+Sense and Sensibility,7.7
+The English Patient,7.4
+Fargo,8.1
+Jerry Maguire,7.3
+Secrets & Lies,8.0
+Shine,7.6
+As Good as It Gets,7.7
+The Full Monty,7.2
+Good Will Hunting,8.3
+L.A. Confidential,8.2
+Titanic,7.9
+Elizabeth,7.4
+Life Is Beautiful,8.6
+Saving Private Ryan,8.6
+Shakespeare in Love,7.1
+The Thin Red Line,7.6
+American Beauty,8.3
+The Cider House Rules,7.4
+The Green Mile,8.6
+The Insider,7.8
+The Sixth Sense,8.2
+Chocolat,7.3
+"Crouching Tiger, Hidden Dragon",7.9
+Erin Brockovich,7.4
+Gladiator,8.5
+Traffic,7.6
+A Beautiful Mind,8.2
+Gosford Park,7.2
+In the Bedroom,7.4
+The Lord of the Rings: The Fellowship of the Ring,8.9
+Moulin Rouge!,7.6
+Chicago,7.2
+Gangs of New York,7.5
+The Hours,7.5
+The Lord of the Rings: The Two Towers,8.8
+The Pianist,8.5
+The Lord of the Rings: The Return of the King,9.0
+Lost in Translation,7.7
+Master and Commander: The Far Side of the World,7.5
+Mystic River,7.9
+Seabiscuit,7.3
+The Aviator,7.5
+Finding Neverland,7.7
+Million Dollar Baby,8.1
+Ray,7.7
+Sideways,7.5
+Brokeback Mountain,7.7
+Capote,7.3
+Crash,7.7
+"Good Night, and Good Luck.",7.4
+Munich,7.5
+Babel,7.5
+The Departed,8.5
+Letters from Iwo Jima,7.8
+Little Miss Sunshine,7.8
+The Queen,7.3
+Atonement,7.8
+Juno,7.5
+Michael Clayton,7.2
+No Country for Old Men,8.2
+There Will Be Blood,8.2
+The Curious Case of Benjamin Button,7.8
+Frost/Nixon,7.7
+Milk,7.5
+The Reader,7.6
+Slumdog Millionaire,8.0
+Avatar,7.9
+The Blind Side,7.6
+District 9,7.9
+An Education,7.3
+The Hurt Locker,7.5
+Inglourious Basterds,8.4
+Precious,7.3
+A Serious Man,7.0
+Up,8.3
+Up in the Air,7.4
+Black Swan,8.0
+The Fighter,7.8
+Inception,8.8
+The Kids Are All Right,7.0
+The King's Speech,8.0
+127 Hours,7.5
+The Social Network,7.8
+Toy Story 3,8.3
+True Grit,7.6
+Winter's Bone,7.1
+The Artist,7.9
+The Descendants,7.3
+Extremely Loud & Incredibly Close,6.9
+The Help,8.1
+Hugo,7.5
+Midnight in Paris,7.6
+Moneyball,7.6
+The Tree of Life,6.8
+War Horse,7.2
+Amour,7.9
+Argo,7.7
+Beasts of the Southern Wild,7.2
+Django Unchained,8.5
+Les Misérables,7.5
+Life of Pi,7.9
+Lincoln,7.3
+Silver Linings Playbook,7.7
+Zero Dark Thirty,7.4
+American Hustle,7.2
+Captain Phillips,7.8
+Dallas Buyers Club,7.9
+Gravity,7.7
+Her,8.0
+Nebraska,7.7
+Philomena,7.6
+12 Years a Slave,8.1
+The Wolf of Wall Street,8.2
+American Sniper,7.3
+Birdman or (The Unexpected Virtue of Ignorance),7.7
+Boyhood,7.9
+The Grand Budapest Hotel,8.1
+The Imitation Game,8.0
+Selma,7.5
+The Theory of Everything,7.7
+Whiplash,8.5
+The Big Short,7.8
+Bridge of Spies,7.6
+Brooklyn,7.5
+Mad Max: Fury Road,8.1
+The Martian,8.0
+The Revenant,8.0
+Room,8.1
+Spotlight,8.1
+Arrival,7.9
+Fences,7.2
+Hacksaw Ridge,8.1
+Hell or High Water,7.6
+Hidden Figures,7.8
+La La Land,8.0
+Lion,8.0
+Manchester by the Sea,7.8
+Moonlight,7.4
+Call Me by Your Name,7.8
+Darkest Hour,7.4
+Dunkirk,7.8
+Get Out,7.8
+Lady Bird,7.4
+Phantom Thread,7.4
+The Post,7.2
+The Shape of Water,7.3
+"Three Billboards Outside Ebbing, Missouri",8.1
+Black Panther,7.3
+BlacKkKlansman,7.5
+Bohemian Rhapsody,7.9
+The Favourite,7.5
+Green Book,8.2
+Roma,7.7
+A Star Is Born,7.6
+Vice,7.2
+Ford v Ferrari,8.1
+The Irishman,7.8
+Jojo Rabbit,7.9
+Joker,8.4
+Little Women,7.8
+Marriage Story,7.9
+1917,8.2
+,
+Parasite,8.5
+The Father,8.2
+Judas and the Black Messiah,7.4
+Mank,6.8
+Minari,7.4
+Nomadland,7.3
+Promising Young Woman,7.5
+Sound of Metal,7.7
+The Trial of the Chicago 7,7.7
+Belfast,7.2
+CODA,8.0
+Don't Look Up,7.2
+Drive My Car,7.5
+Dune,8.0
+King Richard,7.5
+Licorice Pizza,7.1
+Nightmare Alley,7.0
+The Power of the Dog,6.8
+West Side Story,7.1
+All Quiet on the Western Front,7.8
+Avatar: The Way of Water,7.6
+The Banshees of Inisherin,7.7
+Elvis,7.3
+Everything Everywhere All at Once,7.8
+The Fabelmans,7.5
+Tár,7.4
+Top Gun: Maverick,8.3
+Triangle of Sadness,7.3
+Women Talking,6.9
