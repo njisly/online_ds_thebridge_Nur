@@ -1,0 +1,592 @@
+,year_film,year_ceremony,ceremony,film,winner,original_language,original_title,release_date,vote_average,genre,rating,duration,era
+0,1927,1928,1,The Racket,False,en,The Racket,1928-11-01,6.4,"['Crime', 'Drama']",6.6,84.0,Golden Era
+1,1927,1928,1,7th Heaven,False,en,7th Heaven,1927-09-10,7.317,"['Drama', 'Romance']",7.6,110.0,Golden Era
+2,1927,1928,1,Wings,True,en,Wings,1927-08-12,7.198,"['Drama', 'Action', 'War', 'Romance']",7.5,144.0,Golden Era
+3,1928,1929,2,Alibi,False,en,Alibi,1929-04-20,5.656,"['Action', 'Crime', 'Thriller']",5.7,91.0,Golden Era
+4,1928,1929,2,In Old Arizona,False,en,In Old Arizona,1928-12-25,5.208,"['Action', 'Western']",5.5,95.0,Golden Era
+5,1928,1929,2,The Broadway Melody,True,en,The Broadway Melody,1929-02-08,5.194,"['Music', 'Romance', 'Drama']",5.6,100.0,Golden Era
+6,1928,1929,2,The Hollywood Revue of 1929,False,en,The Hollywood Revue of 1929,1929-11-23,5.583,"['Comedy', 'Music']",5.8,130.0,Golden Era
+7,1928,1929,2,The Patriot,False,en,The Patriot,1928-09-01,5.0,['Drama'],5.0,113.0,Golden Era
+8,1929,1930,3,All Quiet on the Western Front,True,en,All Quiet on the Western Front,1930-04-29,7.736,"['Drama', 'War']",8.1,152.0,Golden Era
+9,1929,1930,3,The Big House,False,en,The Big House,1930-06-14,6.75,"['Crime', 'Drama']",7.1,87.0,Golden Era
+10,1929,1930,3,Disraeli,False,en,Disraeli,1929-11-01,5.438,"['Drama', 'History']",6.1,90.0,Golden Era
+11,1929,1930,3,The Divorcee,False,en,The Divorcee,1930-04-19,6.322,"['Drama', 'Romance']",6.7,84.0,Golden Era
+12,1929,1930,3,The Love Parade,False,en,The Love Parade,1930-01-18,6.464,"['Comedy', 'Romance']",7.0,107.0,Golden Era
+13,1930,1931,4,Cimarron,True,en,Cimarron,1931-01-26,5.473,"['Drama', 'Western', 'History']",5.8,123.0,Golden Era
+14,1930,1931,4,East Lynne,False,en,East Lynne,1931-03-01,5.889,['Drama'],5.8,102.0,Golden Era
+15,1930,1931,4,The Front Page,False,en,The Front Page,1931-04-04,6.5,"['Comedy', 'Crime', 'Drama', 'Romance']",6.7,101.0,Golden Era
+16,1930,1931,4,Skippy,False,en,Skippy,1931-04-25,6.176,"['Drama', 'Family', 'Comedy']",6.3,85.0,Golden Era
+17,1930,1931,4,Trader Horn,False,en,Trader Horn,1931-02-03,5.25,"['Action', 'Adventure']",6.1,122.0,Golden Era
+18,1931,1932,5,Arrowsmith,False,en,Arrowsmith,1931-12-07,6.591,['Drama'],6.2,108.0,Golden Era
+19,1931,1932,5,Bad Girl,False,en,Bad Girl,1931-08-13,5.852,"['Romance', 'Drama']",6.4,90.0,Golden Era
+20,1931,1932,5,The Champ,False,en,The Champ,1931-11-21,7.0,['Drama'],7.3,86.0,Golden Era
+21,1931,1932,5,Five Star Final,False,en,Five Star Final,1931-09-26,6.741,"['Crime', 'Drama']",7.3,89.0,Golden Era
+22,1931,1932,5,Grand Hotel,True,en,Grand Hotel,1932-05-25,6.96,"['Drama', 'Romance']",7.3,112.0,Golden Era
+23,1931,1932,5,One Hour with You,False,en,One Hour with You,1932-03-23,6.509,"['Comedy', 'Romance']",7.1,78.0,Golden Era
+24,1931,1932,5,Shanghai Express,False,en,Shanghai Express,1932-02-12,6.895,"['Adventure', 'Drama', 'Romance', 'Crime', 'History', 'War']",7.3,82.0,Golden Era
+25,1931,1932,5,The Smiling Lieutenant,False,en,The Smiling Lieutenant,1931-08-01,7.0,"['Comedy', 'Romance']",7.2,93.0,Golden Era
+26,1932,1933,6,Cavalcade,True,en,Cavalcade,1933-02-08,5.515,"['Drama', 'War']",5.8,112.0,Golden Era
+27,1932,1933,6,A Farewell to Arms,False,en,A Farewell to Arms,1932-12-08,6.254,"['Drama', 'Romance', 'War']",6.4,80.0,Golden Era
+28,1932,1933,6,42nd Street,False,en,42nd Street,1933-03-11,6.88,"['Comedy', 'Drama', 'Romance']",7.3,89.0,Golden Era
+29,1932,1933,6,I Am a Fugitive from a Chain Gang,False,en,I Am a Fugitive from a Chain Gang,1932-11-09,7.822,"['Crime', 'Drama']",8.2,92.0,Golden Era
+30,1932,1933,6,Lady for a Day,False,en,Lady for a Day,1933-09-13,7.141,"['Comedy', 'Drama']",7.4,96.0,Golden Era
+31,1932,1933,6,Little Women,False,en,Little Women,1933-11-24,6.7,"['Drama', 'Family']",7.2,115.0,Golden Era
+32,1932,1933,6,The Private Life of Henry VIII,False,en,The Private Life of Henry VIII,1933-08-17,6.299,"['History', 'Drama']",7.0,97.0,Golden Era
+33,1932,1933,6,She Done Him Wrong,False,en,She Done Him Wrong,1933-02-09,5.8,"['Comedy', 'Crime']",6.3,66.0,Golden Era
+34,1932,1933,6,Smilin' Through,False,en,Smilin' Through,1932-09-24,6.6,"['Drama', 'Romance']",6.9,98.0,Golden Era
+35,1932,1933,6,State Fair,False,en,State Fair,1933-02-10,6.2,"['Comedy', 'Drama', 'Romance']",6.7,99.0,Golden Era
+36,1934,1935,7,The Barretts of Wimpole Street,False,en,The Barretts of Wimpole Street,1934-09-21,6.188,"['Drama', 'Romance']",6.9,109.0,Golden Era
+37,1934,1935,7,Cleopatra,False,en,Cleopatra,1934-10-05,6.0,"['History', 'Drama', 'Romance']",6.8,100.0,Golden Era
+38,1934,1935,7,Flirtation Walk,False,en,Flirtation Walk,1934-12-01,5.4,"['Music', 'Romance']",5.6,97.0,Golden Era
+39,1934,1935,7,The Gay Divorcee,False,en,The Gay Divorcee,1934-10-12,6.862,"['Comedy', 'Romance']",7.4,107.0,Golden Era
+40,1934,1935,7,Here Comes the Navy,False,en,Here Comes the Navy,1934-07-21,5.813,"['War', 'Drama']",6.2,87.0,Golden Era
+41,1934,1935,7,The House of Rothschild,False,en,The House of Rothschild,1934-04-07,6.067,"['Drama', 'History']",6.5,88.0,Golden Era
+42,1934,1935,7,Imitation of Life,False,en,Imitation of Life,1934-11-23,7.006,"['Drama', 'Romance']",7.5,111.0,Golden Era
+43,1934,1935,7,It Happened One Night,True,en,It Happened One Night,1934-02-22,7.844,"['Comedy', 'Romance']",8.1,105.0,Golden Era
+44,1934,1935,7,One Night of Love,False,en,One Night of Love,1934-07-16,5.7,"['Music', 'Romance']",5.6,84.0,Golden Era
+45,1934,1935,7,The Thin Man,False,en,The Thin Man,1934-05-25,7.501,"['Comedy', 'Crime', 'Mystery']",7.9,91.0,Golden Era
+46,1934,1935,7,Viva Villa!,False,en,Viva Villa!,1934-04-27,6.316,['Western'],6.3,115.0,Golden Era
+47,1934,1935,7,The White Parade,False,en,The White Parade,1934-11-16,6.0,['Drama'],6.8,80.0,Golden Era
+48,1935,1936,8,Alice Adams,False,en,Alice Adams,1935-08-23,6.7,"['Comedy', 'Drama', 'Romance']",6.9,99.0,Golden Era
+49,1935,1936,8,Broadway Melody of 1936,False,en,Broadway Melody of 1936,1935-09-18,6.353,"['Music', 'Romance']",6.8,101.0,Golden Era
+50,1935,1936,8,Captain Blood,False,en,Captain Blood,1935-12-26,7.25,"['Adventure', 'Action', 'History', 'Romance']",7.7,119.0,Golden Era
+51,1935,1936,8,David Copperfield,False,en,"The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger",1935-01-18,6.6,"['Adventure', 'Drama', 'Romance', 'Family']",7.4,130.0,Golden Era
+52,1935,1936,8,The Informer,False,en,The Informer,1935-05-09,6.756,"['Crime', 'Drama']",7.4,91.0,Golden Era
+53,1935,1936,8,Les Misérables,False,fr,Les Misérables,1934-02-09,7.798,"['Drama', 'History']",7.7,108.0,Golden Era
+54,1935,1936,8,The Lives of a Bengal Lancer,False,en,The Lives of a Bengal Lancer,1935-01-11,6.75,"['Adventure', 'Drama', 'War']",7.0,109.0,Golden Era
+55,1935,1936,8,A Midsummer Night's Dream,False,en,A Midsummer Night's Dream,1935-10-09,6.686,"['Fantasy', 'Romance', 'Comedy']",6.8,133.0,Golden Era
+56,1935,1936,8,Mutiny on the Bounty,True,en,Mutiny on the Bounty,1935-11-22,7.3,"['Adventure', 'Drama', 'History']",7.6,132.0,Golden Era
+57,1935,1936,8,Naughty Marietta,False,en,Naughty Marietta,1935-03-29,4.214,"['Music', 'Romance', 'Drama']",6.5,105.0,Golden Era
+58,1935,1936,8,Ruggles of Red Gap,False,en,Ruggles of Red Gap,1935-03-08,7.016,['Comedy'],7.6,90.0,Golden Era
+59,1935,1936,8,Top Hat,False,en,Top Hat,1935-08-29,7.3,"['Comedy', 'Music', 'Romance']",7.7,101.0,Golden Era
+60,1936,1937,9,Anthony Adverse,False,en,Anthony Adverse,1936-08-26,5.935,"['Drama', 'Romance', 'Adventure', 'History']",6.3,141.0,Golden Era
+61,1936,1937,9,Dodsworth,False,en,Dodsworth,1936-09-23,7.159,"['Drama', 'Romance']",7.8,101.0,Golden Era
+62,1936,1937,9,The Great Ziegfeld,True,en,The Great Ziegfeld,1936-04-08,6.221,"['Drama', 'Music', 'Romance']",6.6,176.0,Golden Era
+63,1936,1937,9,Libeled Lady,False,en,Libeled Lady,1936-10-09,7.313,"['Comedy', 'Romance']",7.8,98.0,Golden Era
+64,1936,1937,9,Mr. Deeds Goes to Town,False,en,Mr. Deeds Goes to Town,1936-04-09,7.486,"['Comedy', 'Drama', 'Romance']",7.8,115.0,Golden Era
+65,1936,1937,9,Romeo and Juliet,False,en,Romeo and Juliet,1936-09-03,5.979,"['Drama', 'Romance']",6.5,125.0,Golden Era
+66,1936,1937,9,San Francisco,False,en,San Francisco,1936-06-26,6.719,"['Drama', 'Music', 'Romance']",7.2,115.0,Golden Era
+67,1936,1937,9,The Story of Louis Pasteur,False,en,The Story of Louis Pasteur,1936-02-22,6.789,"['Drama', 'History']",7.3,86.0,Golden Era
+68,1936,1937,9,A Tale of Two Cities,False,en,A Tale of Two Cities,1935-12-25,6.712,"['History', 'Romance', 'Drama']",7.8,128.0,Golden Era
+69,1936,1937,9,Three Smart Girls,False,en,Three Smart Girls,1936-12-20,6.4,"['Comedy', 'Romance', 'Music']",6.6,84.0,Golden Era
+70,1937,1938,10,The Awful Truth,False,en,The Awful Truth,1937-10-20,7.262,"['Comedy', 'Romance']",7.7,90.0,Golden Era
+71,1937,1938,10,Captains Courageous,False,en,Captains Courageous,1937-06-25,7.4,"['Adventure', 'Drama', 'Family']",7.9,117.0,Golden Era
+72,1937,1938,10,Dead End,False,en,Dead End,1937-08-27,6.941,"['Crime', 'Drama']",7.2,93.0,Golden Era
+73,1937,1938,10,The Good Earth,False,en,The Good Earth,1937-06-02,6.205,"['Drama', 'History', 'Romance']",7.5,138.0,Golden Era
+74,1937,1938,10,In Old Chicago,False,en,In Old Chicago,1938-04-15,6.441,"['Action', 'Drama']",6.7,95.0,Golden Era
+75,1937,1938,10,The Life of Emile Zola,True,en,The Life of Emile Zola,1937-09-09,6.581,"['Drama', 'History']",7.2,116.0,Golden Era
+76,1937,1938,10,Lost Horizon,False,en,Lost Horizon,1937-03-03,7.068,"['Adventure', 'Fantasy', 'Drama', 'Romance']",7.6,132.0,Golden Era
+77,1937,1938,10,One Hundred Men and a Girl,False,en,One Hundred Men and a Girl,1937-09-05,6.3,"['Comedy', 'Drama', 'Music']",6.7,84.0,Golden Era
+78,1937,1938,10,Stage Door,False,en,Stage Door,1937-10-07,6.9,"['Comedy', 'Drama']",7.7,92.0,Golden Era
+79,1937,1938,10,A Star Is Born,False,en,A Star Is Born,1937-04-27,7.157,"['Drama', 'Romance']",7.3,111.0,Golden Era
+80,1938,1939,11,The Adventures of Robin Hood,False,en,The Adventures of Robin Hood,1938-05-13,7.445,"['Adventure', 'Romance', 'History']",7.9,102.0,Golden Era
+81,1938,1939,11,Alexander's Ragtime Band,False,en,Alexander's Ragtime Band,1938-05-24,6.604,"['Drama', 'Music', 'Romance']",6.8,106.0,Golden Era
+82,1938,1939,11,Boys Town,False,en,Boys Town,1938-09-08,6.704,['Drama'],7.2,96.0,Golden Era
+83,1938,1939,11,The Citadel,False,en,The Citadel,1938-10-29,6.3,"['Drama', 'Romance']",7.1,110.0,Golden Era
+84,1938,1939,11,Four Daughters,False,en,Four Daughters,1938-08-09,6.5,"['Drama', 'Music', 'Romance']",6.9,90.0,Golden Era
+85,1938,1939,11,Grand Illusion,False,fr,La Grande Illusion,1937-06-04,7.858,"['Drama', 'History', 'War']",8.1,113.0,Golden Era
+86,1938,1939,11,Jezebel,False,en,Jezebel,1938-03-26,7.066,"['Drama', 'Romance']",7.4,104.0,Golden Era
+87,1938,1939,11,Pygmalion,False,en,Pygmalion,1939-03-03,6.976,"['Comedy', 'Romance', 'Drama']",7.7,96.0,Golden Era
+88,1938,1939,11,Test Pilot,False,en,Test Pilot,1938-04-16,6.555,"['Drama', 'Romance']",6.8,119.0,Golden Era
+89,1938,1939,11,You Can't Take It with You,True,en,You Can't Take It with You,1938-09-01,7.468,"['Comedy', 'Romance']",7.8,126.0,Golden Era
+90,1939,1940,12,Dark Victory,False,en,Dark Victory,1939-04-20,6.932,"['Drama', 'Romance']",7.4,104.0,Golden Era
+91,1939,1940,12,Gone with the Wind,True,en,Gone with the Wind,1939-12-15,7.962,"['Drama', 'War', 'Romance']",8.2,238.0,Golden Era
+92,1939,1940,12,"Goodbye, Mr. Chips",False,en,"Goodbye, Mr. Chips",1939-07-28,7.415,"['Drama', 'Romance']",7.9,114.0,Golden Era
+93,1939,1940,12,Love Affair,False,en,Love Affair,1939-04-07,7.071,"['Drama', 'Romance']",7.3,88.0,Golden Era
+94,1939,1940,12,Mr. Smith Goes to Washington,False,en,Mr. Smith Goes to Washington,1939-10-19,7.885,"['Comedy', 'Drama']",8.1,129.0,Golden Era
+95,1939,1940,12,Ninotchka,False,en,Ninotchka,1939-11-23,7.499,"['Comedy', 'Romance']",7.8,110.0,Golden Era
+96,1939,1940,12,Of Mice and Men,False,en,Of Mice and Men,1939-12-24,7.264,['Drama'],7.8,106.0,Golden Era
+97,1939,1940,12,Stagecoach,False,en,Stagecoach,1939-03-03,7.651,"['Western', 'Adventure']",7.8,96.0,Golden Era
+98,1939,1940,12,The Wizard of Oz,False,en,The Wizard of Oz,1939-08-15,7.577,"['Adventure', 'Fantasy', 'Family']",8.1,102.0,Golden Era
+99,1939,1940,12,Wuthering Heights,False,en,Wuthering Heights,1939-04-07,7.2,"['Drama', 'Romance']",7.5,104.0,Golden Era
+100,1940,1941,13,"All This, and Heaven Too",False,en,"All This, and Heaven Too",1940-07-05,7.311,"['Drama', 'Romance']",7.4,141.0,Golden Era
+101,1940,1941,13,Foreign Correspondent,False,en,Foreign Correspondent,1940-08-16,6.965,"['Thriller', 'Mystery', 'Action']",7.4,120.0,Golden Era
+102,1940,1941,13,The Grapes of Wrath,False,en,The Grapes of Wrath,1940-03-15,7.823,['Drama'],8.1,129.0,Golden Era
+103,1940,1941,13,The Great Dictator,False,en,The Great Dictator,1940-10-15,8.335,"['Comedy', 'War']",8.4,125.0,Golden Era
+104,1940,1941,13,Kitty Foyle,False,en,Kitty Foyle,1940-12-27,6.632,"['Drama', 'Romance']",6.9,108.0,Golden Era
+105,1940,1941,13,The Letter,False,en,The Letter,1940-11-21,7.285,"['Crime', 'Drama']",7.5,95.0,Golden Era
+106,1940,1941,13,The Long Voyage Home,False,en,The Long Voyage Home,1940-11-16,6.486,"['Drama', 'War']",6.9,105.0,Golden Era
+107,1940,1941,13,Our Town,False,en,Our Town,1940-05-24,5.8,"['Drama', 'Romance']",6.5,90.0,Golden Era
+108,1940,1941,13,The Philadelphia Story,False,en,The Philadelphia Story,1940-12-05,7.6,"['Comedy', 'Romance']",7.9,112.0,Golden Era
+109,1940,1941,13,Rebecca,True,en,Rebecca,1940-03-23,7.9,"['Mystery', 'Romance', 'Thriller', 'Drama']",8.1,130.0,Golden Era
+110,1941,1942,14,Blossoms in the Dust,False,en,Blossoms in the Dust,1941-08-15,6.5,"['Drama', 'Romance']",6.9,99.0,Golden Era
+111,1941,1942,14,Citizen Kane,False,en,Citizen Kane,1941-04-17,8.009,"['Mystery', 'Drama']",8.3,119.0,Golden Era
+112,1941,1942,14,Here Comes Mr. Jordan,False,en,Here Comes Mr. Jordan,1941-08-07,7.006,"['Comedy', 'Fantasy', 'Romance']",7.6,94.0,Golden Era
+113,1941,1942,14,Hold Back the Dawn,False,en,Hold Back the Dawn,1941-09-26,6.539,"['Drama', 'Romance']",7.3,116.0,Golden Era
+114,1941,1942,14,How Green Was My Valley,True,en,How Green Was My Valley,1941-10-28,7.236,['Drama'],7.7,118.0,Golden Era
+115,1941,1942,14,The Little Foxes,False,en,The Little Foxes,1941-08-29,7.471,"['Drama', 'Romance', 'History']",7.9,116.0,Golden Era
+116,1941,1942,14,The Maltese Falcon,False,en,The Maltese Falcon,1941-10-18,7.719,"['Mystery', 'Crime', 'Thriller']",8.0,100.0,Golden Era
+117,1941,1942,14,One Foot in Heaven,False,en,One Foot in Heaven,1941-11-01,6.559,"['Drama', 'Romance']",6.7,108.0,Golden Era
+118,1941,1942,14,Sergeant York,False,en,Sergeant York,1941-09-27,7.202,"['History', 'War', 'Drama']",7.7,134.0,Golden Era
+119,1941,1942,14,Suspicion,False,en,Suspicion,1941-11-14,7.105,"['Mystery', 'Romance', 'Thriller']",7.3,99.0,Golden Era
+120,1942,1943,15,49th Parallel,False,en,49th Parallel,1941-11-24,6.912,"['Thriller', 'War', 'Drama']",7.3,123.0,Golden Era
+121,1942,1943,15,Kings Row,False,en,Kings Row,1942-02-02,7.103,"['Romance', 'Drama', 'Mystery']",7.5,127.0,Golden Era
+122,1942,1943,15,The Magnificent Ambersons,False,en,The Magnificent Ambersons,1942-07-10,7.3,"['Drama', 'Romance', 'History']",7.6,88.0,Golden Era
+123,1942,1943,15,Mrs. Miniver,True,en,Mrs. Miniver,1942-07-03,7.054,"['Drama', 'Romance', 'War']",7.6,134.0,Golden Era
+124,1942,1943,15,The Pied Piper,False,en,The Pied Piper,1942-08-21,6.8,"['Drama', 'War']",7.0,87.0,Golden Era
+125,1942,1943,15,The Pride of the Yankees,False,en,The Pride of the Yankees,1942-07-14,7.335,"['Drama', 'Family']",7.6,128.0,Golden Era
+126,1942,1943,15,Random Harvest,False,en,Random Harvest,1942-12-17,7.236,"['Romance', 'Drama']",7.9,126.0,Golden Era
+127,1942,1943,15,The Talk of the Town,False,en,The Talk of the Town,1942-08-20,7.213,"['Comedy', 'Drama', 'Romance']",7.5,118.0,Golden Era
+128,1942,1943,15,Wake Island,False,en,Wake Island,1942-08-11,5.7,"['Action', 'Drama', 'War']",6.6,88.0,Golden Era
+129,1942,1943,15,Yankee Doodle Dandy,False,en,Yankee Doodle Dandy,1942-05-29,7.041,"['Drama', 'Music']",7.6,126.0,Golden Era
+130,1943,1944,16,Casablanca,True,en,Casablanca,1943-01-15,8.169,"['Drama', 'Romance']",8.5,102.0,Golden Era
+131,1943,1944,16,For Whom the Bell Tolls,False,en,For Whom the Bell Tolls,1943-07-12,6.552,"['War', 'Romance', 'History', 'Drama', 'Adventure']",6.8,170.0,Golden Era
+132,1943,1944,16,Heaven Can Wait,False,en,Heaven Can Wait,1943-08-05,6.872,"['Fantasy', 'Drama', 'Comedy', 'Romance']",7.4,112.0,Golden Era
+133,1943,1944,16,The Human Comedy,False,en,The Human Comedy,1943-03-02,6.375,"['Comedy', 'Drama', 'Family']",7.0,117.0,Golden Era
+134,1943,1944,16,In Which We Serve,False,en,In Which We Serve,1942-09-17,6.838,"['Drama', 'War']",7.2,115.0,Golden Era
+135,1943,1944,16,Madame Curie,False,en,Madame Curie,1943-12-16,7.243,"['Drama', 'Romance', 'History']",7.2,124.0,Golden Era
+136,1943,1944,16,The More the Merrier,False,en,The More the Merrier,1943-05-13,6.875,"['Comedy', 'Romance', 'War']",7.6,104.0,Golden Era
+137,1943,1944,16,The Ox-Bow Incident,False,en,The Ox-Bow Incident,1943-03-11,7.7,"['Western', 'Drama']",8.0,75.0,Golden Era
+138,1943,1944,16,The Song of Bernadette,False,en,The Song of Bernadette,1943-12-21,6.995,['Drama'],7.6,156.0,Golden Era
+139,1943,1944,16,Watch on the Rhine,False,en,Watch on the Rhine,1943-08-27,6.794,"['Drama', 'Thriller']",7.1,114.0,Golden Era
+140,1944,1945,17,Double Indemnity,False,en,Double Indemnity,1944-07-06,8.117,"['Crime', 'Thriller']",8.3,107.0,Golden Era
+141,1944,1945,17,Gaslight,False,en,Gaslight,1944-05-04,7.5,"['Thriller', 'Drama', 'Mystery', 'Crime']",7.8,114.0,Golden Era
+142,1944,1945,17,Going My Way,True,en,Going My Way,1944-05-15,6.76,"['Comedy', 'Drama', 'Music']",7.0,126.0,Golden Era
+143,1944,1945,17,Since You Went Away,False,en,Since You Went Away,1944-06-30,6.419,"['Drama', 'Romance', 'War']",7.5,177.0,Golden Era
+144,1944,1945,17,Wilson,False,en,Wilson,1944-08-01,5.7,"['Drama', 'History', 'Music', 'Romance', 'Comedy']",6.4,154.0,Golden Era
+145,1945,1946,18,Anchors Aweigh,False,en,Anchors Aweigh,1945-08-13,6.759,"['Comedy', 'Fantasy', 'Music', 'Romance', 'War']",7.0,140.0,Golden Era
+146,1945,1946,18,The Bells of St. Mary's,False,en,The Bells of St. Mary's,1945-12-27,6.872,"['Comedy', 'Drama']",7.2,126.0,Golden Era
+147,1945,1946,18,The Lost Weekend,True,en,The Lost Weekend,1945-11-29,7.643,['Drama'],7.9,101.0,Golden Era
+148,1945,1946,18,Mildred Pierce,False,en,Mildred Pierce,1945-10-20,7.604,"['Crime', 'Drama']",7.9,111.0,Golden Era
+149,1945,1946,18,Spellbound,False,en,Spellbound,1945-11-08,7.423,"['Thriller', 'Mystery', 'Romance', 'Drama']",7.5,111.0,Golden Era
+150,1946,1947,19,The Best Years of Our Lives,True,en,The Best Years of Our Lives,1946-12-25,7.8,"['Drama', 'Romance', 'War']",8.1,170.0,Golden Era
+151,1946,1947,19,Henry V,False,en,The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France,1944-11-24,6.604,"['Drama', 'History', 'War']",7.0,137.0,Golden Era
+152,1946,1947,19,It's a Wonderful Life,False,en,It's a Wonderful Life,1946-12-20,8.266,"['Drama', 'Family', 'Fantasy']",8.6,130.0,Golden Era
+153,1946,1947,19,The Razor's Edge,False,en,The Razor's Edge,1946-11-19,6.779,"['Drama', 'Romance', 'Adventure']",7.3,145.0,Golden Era
+154,1946,1947,19,The Yearling,False,en,The Yearling,1946-12-18,6.5,"['Drama', 'Family', 'Western']",7.2,128.0,Golden Era
+155,1947,1948,20,The Bishop's Wife,False,en,The Bishop's Wife,1947-12-25,7.1,"['Comedy', 'Drama', 'Fantasy', 'Romance']",7.6,109.0,Golden Era
+156,1947,1948,20,Crossfire,False,en,Crossfire,1947-08-15,6.543,"['Crime', 'Drama', 'Mystery', 'Thriller']",7.3,86.0,Golden Era
+157,1947,1948,20,Gentleman's Agreement,True,en,Gentleman's Agreement,1947-11-11,6.968,"['Drama', 'Romance']",7.2,118.0,Golden Era
+158,1947,1948,20,Great Expectations,False,en,Great Expectations,1946-12-26,7.23,"['Romance', 'Drama', 'History']",7.8,118.0,Golden Era
+159,1947,1948,20,Miracle on 34th Street,False,en,Miracle on 34th Street,1947-06-04,7.35,"['Comedy', 'Drama', 'Family']",7.9,96.0,Golden Era
+160,1948,1949,21,Hamlet,True,en,Hamlet,1948-12-10,7.441,['Drama'],7.6,154.0,Golden Era
+161,1948,1949,21,Johnny Belinda,False,en,Johnny Belinda,1948-09-14,6.895,['Drama'],7.7,102.0,Golden Era
+162,1948,1949,21,The Red Shoes,False,en,The Red Shoes,1948-09-06,7.966,"['Drama', 'Romance']",8.1,135.0,Golden Era
+163,1948,1949,21,The Snake Pit,False,en,The Snake Pit,1948-11-04,7.148,"['Drama', 'Mystery']",7.6,108.0,Golden Era
+164,1948,1949,21,The Treasure of the Sierra Madre,False,en,The Treasure of the Sierra Madre,1948-01-15,8.0,"['Adventure', 'Drama', 'Western']",8.2,126.0,Golden Era
+165,1949,1950,22,All the King's Men,True,en,All the King's Men,1949-11-16,6.946,['Drama'],7.4,110.0,Golden Era
+166,1949,1950,22,Battleground,False,en,Battleground,1949-11-09,6.673,"['Action', 'Adventure', 'Drama', 'War']",7.4,118.0,Golden Era
+167,1949,1950,22,The Heiress,False,en,The Heiress,1949-10-06,7.696,"['Drama', 'Romance', 'History']",8.1,115.0,Golden Era
+168,1949,1950,22,A Letter to Three Wives,False,en,A Letter to Three Wives,1949-01-20,7.188,"['Drama', 'Romance', 'Mystery']",7.7,103.0,Golden Era
+169,1949,1950,22,Twelve O'Clock High,False,en,Twelve O'Clock High,1949-12-21,7.095,"['War', 'Action', 'Drama']",7.7,132.0,Golden Era
+170,1950,1951,23,All about Eve,True,en,All About Eve,1950-11-09,8.116,['Drama'],8.2,138.0,Golden Era
+171,1950,1951,23,Born Yesterday,False,en,Born Yesterday,1950-12-25,7.164,"['Comedy', 'Drama', 'Romance']",7.5,103.0,Golden Era
+172,1950,1951,23,Father of the Bride,False,en,Father of the Bride,1950-05-18,6.963,"['Comedy', 'Drama', 'Family', 'Romance']",7.1,92.0,Golden Era
+173,1950,1951,23,King Solomon's Mines,False,en,King Solomon's Mines,1950-11-09,6.534,"['Adventure', 'Action', 'Romance']",6.7,103.0,Golden Era
+174,1950,1951,23,Sunset Boulevard,False,en,Sunset Boulevard,1950-08-17,8.322,['Drama'],8.4,110.0,Golden Era
+175,1951,1952,24,An American in Paris,True,en,An American in Paris,1951-09-26,7.019,"['Comedy', 'Music', 'Romance']",7.2,114.0,Golden Era
+176,1951,1952,24,Decision before Dawn,False,en,Decision Before Dawn,1951-12-21,6.7,"['War', 'Action', 'Thriller']",7.2,119.0,Golden Era
+177,1951,1952,24,A Place in the Sun,False,en,A Place in the Sun,1951-06-12,7.321,"['Drama', 'Romance', 'Crime']",7.7,122.0,Golden Era
+178,1951,1952,24,Quo Vadis,False,en,Quo Vadis,1951-11-08,7.073,"['Drama', 'History', 'Romance']",7.1,171.0,Golden Era
+179,1951,1952,24,A Streetcar Named Desire,False,en,A Streetcar Named Desire,1951-09-19,7.642,['Drama'],7.9,122.0,Golden Era
+180,1952,1953,25,The Greatest Show on Earth,True,en,The Greatest Show on Earth,1952-02-16,6.273,"['Drama', 'Family', 'Romance']",6.6,152.0,Golden Era
+181,1952,1953,25,High Noon,False,en,High Noon,1952-06-09,7.695,"['Western', 'Drama']",8.0,85.0,Golden Era
+182,1952,1953,25,Ivanhoe,False,en,Ivanhoe,1952-07-31,6.794,"['Adventure', 'Romance', 'History']",6.7,106.0,Golden Era
+183,1952,1953,25,Moulin Rouge,False,en,Moulin Rouge,1952-12-23,6.753,"['Drama', 'Music']",7.0,119.0,Golden Era
+184,1952,1953,25,The Quiet Man,False,en,The Quiet Man,1952-07-21,7.311,"['Romance', 'Comedy', 'Drama']",7.7,129.0,Golden Era
+185,1953,1954,26,From Here to Eternity,True,en,From Here to Eternity,1953-08-28,7.298,"['War', 'Romance', 'Drama']",7.6,118.0,Golden Era
+186,1953,1954,26,Julius Caesar,False,en,Julius Caesar,1953-06-04,7.061,"['Drama', 'History']",7.2,120.0,Golden Era
+187,1953,1954,26,The Robe,False,en,The Robe,1953-09-16,6.779,"['Drama', 'History']",6.7,135.0,Golden Era
+188,1953,1954,26,Roman Holiday,False,en,Roman Holiday,1953-08-26,7.884,"['Romance', 'Comedy', 'Drama']",8.0,118.0,Golden Era
+189,1953,1954,26,Shane,False,en,Shane,1953-04-23,7.421,"['Drama', 'Western']",7.6,118.0,Golden Era
+190,1954,1955,27,The Caine Mutiny,False,en,The Caine Mutiny,1954-06-23,7.163,"['Drama', 'War']",7.7,124.0,Golden Era
+191,1954,1955,27,The Country Girl,False,en,The Country Girl,1954-12-15,6.887,['Drama'],7.2,104.0,Golden Era
+192,1954,1955,27,On the Waterfront,True,en,On the Waterfront,1954-06-22,7.941,"['Crime', 'Drama', 'Romance']",8.1,108.0,Golden Era
+193,1954,1955,27,Seven Brides for Seven Brothers,False,en,Seven Brides for Seven Brothers,1954-07-22,7.215,"['Comedy', 'Drama', 'Western']",7.3,102.0,Golden Era
+194,1954,1955,27,Three Coins in the Fountain,False,en,Three Coins in the Fountain,1954-05-01,5.963,"['Drama', 'Romance']",6.2,102.0,Golden Era
+195,1955,1956,28,Love Is a Many-Splendored Thing,False,en,Love Is a Many-Splendored Thing,1955-08-18,6.019,"['Drama', 'Romance']",6.4,102.0,The Change
+196,1955,1956,28,Marty,True,en,Marty,1955-04-11,7.473,"['Drama', 'Romance']",7.7,90.0,The Change
+197,1955,1956,28,Mister Roberts,False,en,Mister Roberts,1955-07-10,7.058,"['Comedy', 'Drama', 'War']",7.6,123.0,The Change
+198,1955,1956,28,Picnic,False,en,Picnic,1955-11-18,6.4,"['Drama', 'Romance']",7.0,115.0,The Change
+199,1955,1956,28,The Rose Tattoo,False,en,The Rose Tattoo,1955-12-12,7.0,"['Drama', 'Romance']",6.9,117.0,The Change
+200,1956,1957,29,Around the World in Eighty Days,True,en,Around the World in Eighty Days,1956-10-17,6.664,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",6.7,167.0,The Change
+201,1956,1957,29,Friendly Persuasion,False,en,Friendly Persuasion,1956-11-25,6.6,"['Drama', 'War']",7.3,137.0,The Change
+202,1956,1957,29,Giant,False,en,Giant,1956-11-08,7.621,"['Drama', 'Western']",7.6,201.0,The Change
+203,1956,1957,29,The King and I,False,en,The King and I,1956-06-29,7.078,"['Drama', 'Romance', 'Adventure', 'Music']",7.4,133.0,The Change
+204,1956,1957,29,The Ten Commandments,False,en,The Ten Commandments,1956-10-05,7.751,"['Drama', 'History']",7.9,220.0,The Change
+205,1957,1958,30,The Bridge on the River Kwai,True,en,The Bridge on the River Kwai,1957-10-11,7.835,"['Drama', 'History', 'War']",8.1,161.0,The Change
+206,1957,1958,30,Peyton Place,False,en,Peyton Place,1957-12-13,6.689,"['Drama', 'Romance']",7.2,157.0,The Change
+207,1957,1958,30,Sayonara,False,en,Sayonara,1957-12-25,6.57,"['Drama', 'Romance']",7.0,147.0,The Change
+208,1957,1958,30,12 Angry Men,False,en,12 Angry Men,1957-04-10,8.545,['Drama'],9.0,96.0,The Change
+209,1957,1958,30,Witness for the Prosecution,False,en,Witness for the Prosecution,1957-12-17,8.215,"['Drama', 'Mystery', 'Crime']",8.4,116.0,The Change
+210,1958,1959,31,Auntie Mame,False,en,Auntie Mame,1958-12-04,7.016,"['Comedy', 'Drama']",7.9,143.0,The Change
+211,1958,1959,31,Cat on a Hot Tin Roof,False,en,Cat on a Hot Tin Roof,1958-08-29,7.662,['Drama'],7.9,108.0,The Change
+212,1958,1959,31,The Defiant Ones,False,en,The Defiant Ones,1958-08-14,7.135,"['Crime', 'Drama']",7.6,96.0,The Change
+213,1958,1959,31,Gigi,True,en,Gigi,1958-05-15,6.224,"['Comedy', 'Romance']",6.6,115.0,The Change
+214,1958,1959,31,Separate Tables,False,en,Separate Tables,1958-12-18,6.827,"['Drama', 'Romance']",7.4,100.0,The Change
+215,1959,1960,32,Anatomy of a Murder,False,en,Anatomy of a Murder,1959-07-01,7.841,"['Crime', 'Drama', 'Mystery']",8.0,161.0,The Change
+216,1959,1960,32,Ben-Hur,True,en,Ben-Hur,1959-11-18,7.878,"['History', 'Drama', 'Adventure', 'Action']",8.1,212.0,The Change
+217,1959,1960,32,The Diary of Anne Frank,False,en,The Diary of Anne Frank,1959-03-18,7.212,"['Drama', 'History']",7.4,180.0,The Change
+218,1959,1960,32,The Nun's Story,False,en,The Nun's Story,1959-06-18,7.154,['Drama'],7.5,149.0,The Change
+219,1959,1960,32,Room at the Top,False,en,Room at the Top,1959-01-22,6.884,"['Drama', 'Romance']",7.5,117.0,The Change
+220,1960,1961,33,The Alamo,False,en,The Alamo,1960-10-23,7.18,['Western'],6.8,162.0,The Change
+221,1960,1961,33,The Apartment,True,en,The Apartment,1960-06-21,8.217,"['Comedy', 'Drama', 'Romance']",8.3,125.0,The Change
+222,1960,1961,33,Elmer Gantry,False,en,Elmer Gantry,1960-07-07,7.283,['Drama'],7.7,146.0,The Change
+223,1960,1961,33,Sons and Lovers,False,en,Sons and Lovers,1960-08-29,6.545,['Drama'],7.1,103.0,The Change
+224,1960,1961,33,The Sundowners,False,en,The Sundowners,1960-12-08,6.6,['Adventure'],7.1,133.0,The Change
+225,1961,1962,34,Fanny,False,en,Fanny,1961-06-28,6.682,"['Drama', 'Romance']",6.8,134.0,The Change
+226,1961,1962,34,The Guns of Navarone,False,en,The Guns of Navarone,1961-04-27,7.313,"['War', 'Action', 'Adventure']",7.5,158.0,The Change
+227,1961,1962,34,The Hustler,False,en,The Hustler,1961-09-25,7.694,"['Drama', 'Romance']",8.0,134.0,The Change
+228,1961,1962,34,Judgment at Nuremberg,False,en,Judgment at Nuremberg,1961-12-18,8.041,"['Drama', 'History', 'War']",8.3,179.0,The Change
+229,1961,1962,34,West Side Story,True,en,West Side Story,1961-12-13,7.258,"['Crime', 'Drama', 'Romance']",7.6,153.0,The Change
+230,1962,1963,35,Lawrence of Arabia,True,en,Lawrence of Arabia,1962-12-11,7.988,"['Adventure', 'Drama', 'History', 'War']",8.3,218.0,The Change
+231,1962,1963,35,The Longest Day,False,en,The Longest Day,1962-09-25,7.595,"['War', 'Action', 'Drama']",7.7,178.0,The Change
+232,1962,1963,35,The Music Man,False,en,The Music Man,1962-06-19,7.113,"['Comedy', 'Family', 'Music', 'Romance']",7.7,151.0,The Change
+233,1962,1963,35,Mutiny on the Bounty,False,en,Mutiny on the Bounty,1962-11-08,7.016,"['Adventure', 'Drama', 'History']",7.2,178.0,The Change
+234,1962,1963,35,To Kill a Mockingbird,False,en,To Kill a Mockingbird,1962-12-20,7.996,['Drama'],8.3,129.0,The Change
+235,1963,1964,36,America America,False,en,America America,1963-12-15,6.885,"['Drama', 'History']",7.7,174.0,The Change
+236,1963,1964,36,Cleopatra,False,en,Cleopatra,1963-06-12,7.055,"['Drama', 'History', 'Romance']",7.0,192.0,The Change
+237,1963,1964,36,How the West Was Won,False,en,How the West Was Won,1962-11-02,7.041,['Western'],7.0,164.0,The Change
+238,1963,1964,36,Lilies of the Field,False,en,Lilies of the Field,1963-06-04,7.188,"['Comedy', 'Drama']",7.5,94.0,The Change
+239,1963,1964,36,Tom Jones,True,en,Tom Jones,1963-08-24,6.005,"['Adventure', 'Comedy', 'Romance']",6.4,129.0,The Change
+240,1964,1965,37,Becket,False,en,Becket,1964-03-11,7.199,"['Drama', 'History']",7.8,148.0,The Change
+241,1964,1965,37,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False,en,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29,8.127,"['Comedy', 'War']",8.4,95.0,The Change
+242,1964,1965,37,Mary Poppins,False,en,Mary Poppins,1964-12-17,7.573,"['Comedy', 'Family', 'Fantasy']",7.8,139.0,The Change
+243,1964,1965,37,My Fair Lady,True,en,My Fair Lady,1964-10-21,7.528,"['Music', 'Comedy', 'Romance', 'Drama']",7.7,170.0,The Change
+244,1964,1965,37,Zorba the Greek,False,el,Αλέξης Ζορμπάς,1964-12-14,7.498,['Drama'],7.6,142.0,The Change
+245,1965,1966,38,Darling,False,en,Darling,1965-08-03,6.721,"['Drama', 'Romance']",7.0,128.0,The Change
+246,1965,1966,38,Doctor Zhivago,False,en,Doctor Zhivago,1965-12-22,7.533,"['Drama', 'Romance', 'War']",7.9,197.0,The Change
+247,1965,1966,38,Ship of Fools,False,en,Ship of Fools,1965-07-29,6.524,"['Drama', 'Romance']",7.1,149.0,The Change
+248,1965,1966,38,The Sound of Music,True,en,The Sound of Music,1965-03-29,7.712,"['Drama', 'Family', 'Music', 'Romance']",8.1,172.0,The Change
+249,1965,1966,38,A Thousand Clowns,False,en,A Thousand Clowns,1965-12-13,6.92,"['Comedy', 'Drama', 'Romance']",7.3,118.0,The Change
+250,1966,1967,39,Alfie,False,en,Alfie,1966-03-29,6.451,"['Comedy', 'Drama', 'Romance']",7.0,114.0,The Change
+251,1966,1967,39,A Man for All Seasons,True,en,A Man for All Seasons,1966-12-13,7.337,"['Drama', 'History']",7.7,120.0,The Change
+252,1966,1967,39,The Russians Are Coming! The Russians Are Coming!,False,en,The Russians Are Coming! The Russians Are Coming!,1966-05-25,6.3,"['Comedy', 'War']",7.0,126.0,The Change
+253,1966,1967,39,The Sand Pebbles,False,en,The Sand Pebbles,1966-12-20,7.196,"['Adventure', 'War', 'Drama']",7.5,182.0,The Change
+254,1966,1967,39,Who's Afraid of Virginia Woolf?,False,en,Who's Afraid of Virginia Woolf?,1966-06-22,7.735,['Drama'],8.0,131.0,The Change
+255,1967,1968,40,Bonnie and Clyde,False,en,Bonnie and Clyde,1967-08-14,7.482,"['Crime', 'Drama']",7.7,111.0,The Change
+256,1967,1968,40,Doctor Dolittle,False,en,Doctor Dolittle,1967-12-05,6.121,"['Comedy', 'Family', 'Fantasy']",6.1,152.0,The Change
+257,1967,1968,40,The Graduate,False,en,The Graduate,1967-12-21,7.649,"['Comedy', 'Drama', 'Romance']",8.0,106.0,The Change
+258,1967,1968,40,Guess Who's Coming to Dinner,False,en,Guess Who's Coming to Dinner,1967-12-11,7.568,"['Drama', 'Comedy', 'Romance']",7.8,108.0,The Change
+259,1967,1968,40,In the Heat of the Night,True,en,In the Heat of the Night,1967-08-02,7.65,"['Crime', 'Drama', 'Mystery', 'Thriller']",7.9,110.0,The Change
+260,1968,1969,41,Funny Girl,False,en,Funny Girl,1968-09-19,7.19,"['Comedy', 'Drama', 'Romance']",7.3,151.0,The Change
+261,1968,1969,41,The Lion in Winter,False,en,The Lion in Winter,1968-10-30,7.414,"['Drama', 'History']",7.9,134.0,The Change
+262,1968,1969,41,Oliver!,True,en,Oliver!,1968-09-26,6.964,"['Drama', 'Family', 'Music']",7.4,153.0,The Change
+263,1968,1969,41,"Rachel, Rachel",False,en,"Rachel, Rachel",1968-08-26,6.577,"['Drama', 'Romance']",7.1,101.0,The Change
+264,1968,1969,41,Romeo and Juliet,False,en,Romeo and Juliet,1968-04-02,7.351,"['Drama', 'Romance']",7.6,138.0,The Change
+265,1969,1970,42,Anne of the Thousand Days,False,en,Anne of the Thousand Days,1969-12-18,7.014,"['Drama', 'History', 'Romance']",7.4,145.0,The Change
+266,1969,1970,42,Butch Cassidy and the Sundance Kid,False,en,Butch Cassidy and the Sundance Kid,1969-01-15,7.603,['Western'],8.0,110.0,The Change
+267,1969,1970,42,"Hello, Dolly!",False,en,"Hello, Dolly!",1969-12-12,7.0,"['Comedy', 'Romance', 'Music']",7.0,146.0,The Change
+268,1969,1970,42,Midnight Cowboy,True,en,Midnight Cowboy,1969-05-25,7.516,['Drama'],7.8,113.0,The Change
+269,1969,1970,42,Z,False,fr,Z,1969-02-26,7.887,"['Thriller', 'Crime', 'Drama']",8.2,127.0,The Change
+270,1970,1971,43,Airport,False,en,Airport,1970-05-29,6.395,"['Action', 'Drama', 'Thriller']",6.6,137.0,The Change
+271,1970,1971,43,Five Easy Pieces,False,en,Five Easy Pieces,1970-09-12,7.156,['Drama'],7.4,98.0,The Change
+272,1970,1971,43,Love Story,False,en,Love Story,1970-12-16,6.785,"['Romance', 'Drama']",6.9,100.0,The Change
+273,1970,1971,43,M*A*S*H,False,en,M*A*S*H,1970-02-18,6.97,"['Comedy', 'Drama', 'War']",7.4,116.0,The Change
+274,1970,1971,43,Patton,True,en,Patton,1970-01-25,7.511,"['War', 'Drama', 'History']",7.9,172.0,The Change
+275,1971,1972,44,A Clockwork Orange,False,en,A Clockwork Orange,1971-12-19,8.2,"['Science Fiction', 'Crime']",8.3,136.0,The Change
+276,1971,1972,44,Fiddler on the Roof,False,en,Fiddler on the Roof,1971-11-03,7.694,"['Drama', 'Romance']",8.0,181.0,The Change
+277,1971,1972,44,The French Connection,True,en,The French Connection,1971-10-09,7.537,"['Action', 'Crime', 'Thriller']",7.7,104.0,The Change
+278,1971,1972,44,The Last Picture Show,False,en,The Last Picture Show,1971-10-03,7.619,['Drama'],8.0,118.0,The Change
+279,1971,1972,44,Nicholas and Alexandra,False,en,Nicholas and Alexandra,1971-11-29,7.0,"['Drama', 'War', 'History']",7.2,183.0,The Change
+280,1972,1973,45,Cabaret,False,en,Cabaret,1972-02-13,7.378,"['Music', 'Drama', 'Romance']",7.8,124.0,The Change
+281,1972,1973,45,Deliverance,False,en,Deliverance,1972-08-18,7.313,"['Drama', 'Adventure', 'Thriller']",7.7,109.0,The Change
+282,1972,1973,45,The Emigrants,False,sv,Utvandrarna,1971-03-08,7.5,"['Drama', 'History']",8.0,191.0,The Change
+283,1972,1973,45,The Godfather,True,en,The Godfather,1972-03-14,8.708,"['Drama', 'Crime']",9.2,175.0,The Change
+284,1972,1973,45,Sounder,False,en,Sounder,1972-09-24,7.381,['Drama'],7.5,105.0,The Change
+285,1973,1974,46,American Graffiti,False,en,American Graffiti,1973-08-11,7.031,"['Comedy', 'Drama']",7.4,110.0,The Change
+286,1973,1974,46,Cries and Whispers,False,sv,Viskningar och rop,1972-12-21,7.939,['Drama'],8.0,91.0,The Change
+287,1973,1974,46,The Exorcist,False,en,The Exorcist,1973-12-26,7.721,['Horror'],8.1,122.0,The Change
+288,1973,1974,46,The Sting,True,en,The Sting,1973-12-25,8.018,"['Comedy', 'Crime', 'Drama']",8.3,129.0,The Change
+289,1973,1974,46,A Touch of Class,False,en,A Touch of Class,1973-05-25,6.255,"['Comedy', 'Romance']",6.5,106.0,The Change
+290,1974,1975,47,Chinatown,False,en,Chinatown,1974-06-20,7.915,"['Crime', 'Drama', 'Mystery', 'Thriller']",8.2,130.0,The Change
+291,1974,1975,47,The Conversation,False,en,The Conversation,1974-04-07,7.524,"['Crime', 'Drama', 'Mystery']",7.8,113.0,The Change
+292,1974,1975,47,The Godfather Part II,True,en,The Godfather Part II,1974-12-20,8.59,"['Drama', 'Crime']",9.0,202.0,The Change
+293,1974,1975,47,Lenny,False,en,Lenny,1974-11-10,7.3,['Drama'],7.5,111.0,The Change
+294,1974,1975,47,The Towering Inferno,False,en,The Towering Inferno,1974-12-14,7.023,"['Action', 'Drama', 'Thriller']",7.0,165.0,The Change
+295,1975,1976,48,Barry Lyndon,False,en,Barry Lyndon,1975-12-18,8.003,"['Drama', 'Romance', 'War']",8.1,185.0,The Change
+296,1975,1976,48,Dog Day Afternoon,False,en,Dog Day Afternoon,1975-09-21,7.836,"['Crime', 'Drama', 'Thriller']",8.0,125.0,The Change
+297,1975,1976,48,Jaws,False,en,Jaws,1975-06-20,7.66,"['Horror', 'Thriller', 'Adventure']",8.1,124.0,The Change
+298,1975,1976,48,Nashville,False,en,Nashville,1975-06-11,7.242,"['Drama', 'Music', 'Comedy']",7.6,160.0,The Change
+299,1975,1976,48,One Flew over the Cuckoo's Nest,True,en,One Flew Over the Cuckoo's Nest,1975-11-19,8.422,['Drama'],8.7,133.0,The Change
+300,1976,1977,49,All the President's Men,False,en,All the President's Men,1976-04-09,7.668,"['Drama', 'History', 'Mystery', 'Thriller']",7.9,138.0,The Change
+301,1976,1977,49,Bound for Glory,False,en,Bound for Glory,1976-12-05,6.8,"['Music', 'Drama']",7.2,147.0,The Change
+302,1976,1977,49,Network,False,en,Network,1976-11-14,7.821,['Drama'],8.1,121.0,The Change
+303,1976,1977,49,Rocky,True,en,Rocky,1976-11-21,7.79,['Drama'],8.1,120.0,The Change
+304,1976,1977,49,Taxi Driver,False,en,Taxi Driver,1976-02-09,8.155,"['Crime', 'Drama']",8.2,114.0,The Change
+305,1977,1978,50,Annie Hall,True,en,Annie Hall,1977-04-19,7.756,"['Comedy', 'Drama', 'Romance']",8.0,93.0,Modern Era
+306,1977,1978,50,The Goodbye Girl,False,en,The Goodbye Girl,1977-11-27,6.891,"['Comedy', 'Drama', 'Romance']",7.4,111.0,Modern Era
+307,1977,1978,50,Julia,False,en,Julia,1977-10-01,6.601,['Drama'],7.1,117.0,Modern Era
+308,1977,1978,50,Star Wars,False,en,Star Wars,1977-05-25,8.205,"['Adventure', 'Action', 'Science Fiction']",8.6,121.0,Modern Era
+309,1977,1978,50,The Turning Point,False,en,The Turning Point,1977-11-14,6.5,"['Drama', 'Romance']",6.8,119.0,Modern Era
+310,1978,1979,51,Coming Home,False,en,Coming Home,1978-02-15,7.006,"['Drama', 'Romance', 'War']",7.3,127.0,Modern Era
+311,1978,1979,51,The Deer Hunter,True,en,The Deer Hunter,1978-12-08,8.002,"['Drama', 'War']",8.1,183.0,Modern Era
+312,1978,1979,51,Heaven Can Wait,False,en,Heaven Can Wait,1978-06-28,6.562,"['Fantasy', 'Comedy', 'Romance']",6.9,101.0,Modern Era
+313,1978,1979,51,Midnight Express,False,en,Midnight Express,1978-08-31,7.517,"['Drama', 'Crime']",7.5,121.0,Modern Era
+314,1978,1979,51,An Unmarried Woman,False,en,An Unmarried Woman,1978-05-24,6.6,"['Drama', 'Romance', 'Comedy']",7.2,124.0,Modern Era
+315,1979,1980,52,All That Jazz,False,en,All That Jazz,1979-12-16,7.459,['Drama'],7.8,123.0,Modern Era
+316,1979,1980,52,Apocalypse Now,False,en,Apocalypse Now,1979-08-15,8.281,"['Drama', 'War']",8.4,147.0,Modern Era
+317,1979,1980,52,Breaking Away,False,en,Breaking Away,1979-05-24,7.086,"['Drama', 'Comedy']",7.7,101.0,Modern Era
+318,1979,1980,52,Kramer vs. Kramer,True,en,Kramer vs. Kramer,1979-12-07,7.558,['Drama'],7.8,105.0,Modern Era
+319,1979,1980,52,Norma Rae,False,en,Norma Rae,1979-03-02,7.191,['Drama'],7.3,114.0,Modern Era
+320,1980,1981,53,Coal Miner's Daughter,False,en,Coal Miner's Daughter,1980-03-07,7.256,"['Music', 'Drama']",7.5,124.0,Modern Era
+321,1980,1981,53,The Elephant Man,False,en,The Elephant Man,1980-10-09,8.048,"['Drama', 'History']",8.2,124.0,Modern Era
+322,1980,1981,53,Ordinary People,True,en,Ordinary People,1980-09-19,7.441,['Drama'],7.7,124.0,Modern Era
+323,1980,1981,53,Raging Bull,False,en,Raging Bull,1980-11-14,7.944,['Drama'],8.1,129.0,Modern Era
+324,1980,1981,53,Tess,False,en,Tess,1979-10-06,7.016,"['Drama', 'Romance']",7.3,186.0,Modern Era
+325,1981,1982,54,Atlantic City,False,en,Atlantic City,1980-09-03,6.838,"['Crime', 'Drama', 'Romance']",7.3,104.0,Modern Era
+326,1981,1982,54,Chariots of Fire,True,en,Chariots of Fire,1981-05-15,6.794,"['Drama', 'History']",7.1,125.0,Modern Era
+327,1981,1982,54,On Golden Pond,False,en,On Golden Pond,1981-12-01,7.272,"['Drama', 'Romance']",7.6,109.0,Modern Era
+328,1981,1982,54,Raiders of the Lost Ark,False,en,Raiders of the Lost Ark,1981-06-12,7.927,"['Adventure', 'Action']",8.4,115.0,Modern Era
+329,1981,1982,54,Reds,False,en,Reds,1981-12-25,6.902,"['Drama', 'History', 'Romance']",7.3,195.0,Modern Era
+330,1982,1983,55,E.T. The Extra-Terrestrial,False,en,E.T. the Extra-Terrestrial,1982-06-11,7.515,"['Science Fiction', 'Adventure', 'Family', 'Fantasy']",7.9,115.0,Modern Era
+331,1982,1983,55,Gandhi,True,en,Gandhi,1982-11-30,7.545,"['Drama', 'History']",8.0,191.0,Modern Era
+332,1982,1983,55,Missing,False,en,Missing,1982-02-12,7.25,"['Drama', 'Mystery', 'Thriller']",7.7,122.0,Modern Era
+333,1982,1983,55,Tootsie,False,en,Tootsie,1982-12-17,7.214,"['Comedy', 'Romance']",7.4,116.0,Modern Era
+334,1982,1983,55,The Verdict,False,en,The Verdict,1982-12-08,7.47,['Drama'],7.7,129.0,Modern Era
+335,1983,1984,56,The Big Chill,False,en,The Big Chill,1983-09-30,6.874,"['Comedy', 'Drama']",7.1,105.0,Modern Era
+336,1983,1984,56,The Dresser,False,en,The Dresser,1983-12-06,6.7,['Drama'],7.5,118.0,Modern Era
+337,1983,1984,56,The Right Stuff,False,en,The Right Stuff,1983-10-20,7.433,"['Drama', 'History', 'Adventure']",7.8,193.0,Modern Era
+338,1983,1984,56,Tender Mercies,False,en,Tender Mercies,1983-04-02,6.58,"['Drama', 'Music', 'Romance']",7.3,92.0,Modern Era
+339,1983,1984,56,Terms of Endearment,True,en,Terms of Endearment,1983-11-20,7.103,"['Drama', 'Comedy']",7.4,132.0,Modern Era
+340,1984,1985,57,Amadeus,True,en,Amadeus,1984-09-19,8.036,"['History', 'Music', 'Drama']",8.4,160.0,Modern Era
+341,1984,1985,57,The Killing Fields,False,en,The Killing Fields,1984-11-23,7.504,"['Drama', 'History', 'War']",7.8,141.0,Modern Era
+342,1984,1985,57,A Passage to India,False,en,A Passage to India,1984-12-14,6.801,"['Drama', 'Adventure', 'History']",7.3,164.0,Modern Era
+343,1984,1985,57,Places in the Heart,False,en,Places in the Heart,1984-09-11,7.152,['Drama'],7.4,111.0,Modern Era
+344,1984,1985,57,A Soldier's Story,False,en,A Soldier's Story,1984-09-14,6.729,"['Drama', 'Mystery', 'War', 'Crime']",7.2,101.0,Modern Era
+345,1985,1986,58,The Color Purple,False,en,The Color Purple,1985-12-18,7.747,"['Drama', 'History']",7.7,154.0,Modern Era
+346,1985,1986,58,Kiss of the Spider Woman,False,en,Kiss of the Spider Woman,1985-07-26,7.038,['Drama'],7.3,120.0,Modern Era
+347,1985,1986,58,Out of Africa,True,en,Out of Africa,1985-12-20,7.167,"['History', 'Romance', 'Drama']",7.1,161.0,Modern Era
+348,1985,1986,58,Prizzi's Honor,False,en,Prizzi's Honor,1985-06-14,6.346,"['Romance', 'Comedy', 'Crime']",6.7,130.0,Modern Era
+349,1985,1986,58,Witness,False,en,Witness,1985-02-08,7.082,"['Crime', 'Drama', 'Romance', 'Thriller']",7.4,112.0,Modern Era
+350,1986,1987,59,Children of a Lesser God,False,en,Children of a Lesser God,1986-09-13,6.93,"['Drama', 'Romance']",7.2,119.0,Modern Era
+351,1986,1987,59,Hannah and Her Sisters,False,en,Hannah and Her Sisters,1986-02-07,7.503,"['Comedy', 'Drama']",7.8,107.0,Modern Era
+352,1986,1987,59,The Mission,False,en,The Mission,1986-09-24,7.393,"['Adventure', 'Drama', 'Action', 'History']",7.4,125.0,Modern Era
+353,1986,1987,59,Platoon,True,en,Platoon,1986-12-19,7.746,"['Drama', 'War', 'Action']",8.1,120.0,Modern Era
+354,1986,1987,59,A Room with a View,False,en,A Room with a View,1986-03-07,7.004,"['Drama', 'Romance']",7.2,117.0,Modern Era
+355,1987,1988,60,Broadcast News,False,en,Broadcast News,1987-12-16,6.712,"['Comedy', 'Romance']",7.3,133.0,Modern Era
+356,1987,1988,60,Fatal Attraction,False,en,Fatal Attraction,1987-09-18,6.849,"['Drama', 'Thriller']",6.9,119.0,Modern Era
+357,1987,1988,60,Hope and Glory,False,en,Hope and Glory,1987-09-03,6.778,"['Drama', 'War', 'Family']",7.3,113.0,Modern Era
+358,1987,1988,60,The Last Emperor,True,en,The Last Emperor,1987-10-04,7.629,"['Drama', 'History']",7.7,163.0,Modern Era
+359,1987,1988,60,Moonstruck,False,en,Moonstruck,1987-12-16,6.863,"['Comedy', 'Drama', 'Romance']",7.1,102.0,Modern Era
+360,1988,1989,61,The Accidental Tourist,False,en,The Accidental Tourist,1988-12-23,6.207,"['Comedy', 'Drama', 'Romance']",6.7,121.0,Modern Era
+361,1988,1989,61,Dangerous Liaisons,False,en,Dangerous Liaisons,1988-12-21,7.2,"['Drama', 'Romance']",7.6,119.0,Modern Era
+362,1988,1989,61,Mississippi Burning,False,en,Mississippi Burning,1988-12-08,7.665,"['Drama', 'Crime']",7.8,128.0,Modern Era
+363,1988,1989,61,Rain Man,True,en,Rain Man,1988-12-12,7.76,['Drama'],8.0,133.0,Modern Era
+364,1988,1989,61,Working Girl,False,en,Working Girl,1988-12-20,6.6,"['Comedy', 'Romance', 'Drama']",6.8,113.0,Modern Era
+365,1989,1990,62,Born on the Fourth of July,False,en,Born on the Fourth of July,1989-12-20,7.003,"['Drama', 'War']",7.2,145.0,Modern Era
+366,1989,1990,62,Dead Poets Society,False,en,Dead Poets Society,1989-06-02,8.313,['Drama'],8.1,128.0,Modern Era
+367,1989,1990,62,Driving Miss Daisy,True,en,Driving Miss Daisy,1989-12-13,7.228,['Drama'],7.3,99.0,Modern Era
+368,1989,1990,62,Field of Dreams,False,en,Field of Dreams,1989-04-21,7.106,"['Drama', 'Fantasy']",7.5,107.0,Modern Era
+369,1989,1990,62,My Left Foot: The Story of Christy Brown,False,en,My Left Foot: The Story of Christy Brown,1989-04-07,7.521,['Drama'],7.8,103.0,Modern Era
+370,1990,1991,63,Awakenings,False,en,Awakenings,1990-12-04,7.756,['Drama'],7.8,121.0,Modern Era
+371,1990,1991,63,Dances With Wolves,True,en,Dances with Wolves,1990-03-30,7.847,"['Adventure', 'Drama', 'Western']",8.0,181.0,Modern Era
+372,1990,1991,63,Ghost,False,en,Ghost,1990-07-13,7.209,"['Fantasy', 'Drama', 'Thriller', 'Mystery', 'Romance']",7.1,127.0,Modern Era
+373,1990,1991,63,The Godfather Part III,False,en,The Godfather Part III,1990-12-25,7.425,"['Crime', 'Drama', 'Thriller']",7.6,162.0,Modern Era
+374,1990,1991,63,GoodFellas,False,en,GoodFellas,1990-09-12,8.466,"['Drama', 'Crime']",8.7,145.0,Modern Era
+375,1991,1992,64,Beauty and the Beast,False,en,Beauty and the Beast,1991-10-22,7.7,"['Romance', 'Family', 'Animation', 'Fantasy']",8.0,84.0,Modern Era
+376,1991,1992,64,Bugsy,False,en,Bugsy,1991-12-10,6.374,"['Crime', 'Drama', 'Mystery']",6.8,136.0,Modern Era
+377,1991,1992,64,JFK,False,en,JFK,1991-12-20,7.601,"['Drama', 'Thriller', 'History']",8.0,189.0,Modern Era
+378,1991,1992,64,The Prince of Tides,False,en,The Prince of Tides,1991-12-25,6.604,"['Drama', 'Romance']",6.8,132.0,Modern Era
+379,1991,1992,64,The Silence of the Lambs,True,en,The Silence of the Lambs,1991-02-14,8.345,"['Crime', 'Drama', 'Thriller']",8.6,118.0,Modern Era
+380,1992,1993,65,The Crying Game,False,en,The Crying Game,1992-09-02,6.853,"['Crime', 'Drama', 'Thriller']",7.2,112.0,Modern Era
+381,1992,1993,65,A Few Good Men,False,en,A Few Good Men,1992-12-11,7.528,['Drama'],7.7,138.0,Modern Era
+382,1992,1993,65,Howards End,False,en,Howards End,1992-03-13,7.053,"['Drama', 'Romance']",7.4,142.0,Modern Era
+383,1992,1993,65,Scent of a Woman,False,en,Scent of a Woman,1992-12-23,7.8,"['Drama', 'Romance']",8.0,156.0,Modern Era
+384,1992,1993,65,Unforgiven,True,en,Unforgiven,1992-08-07,7.913,['Western'],8.2,130.0,Modern Era
+385,1993,1994,66,The Fugitive,False,en,The Fugitive,1993-08-06,7.467,"['Action', 'Thriller', 'Drama']",7.8,130.0,Modern Era
+386,1993,1994,66,In the Name of the Father,False,en,In the Name of the Father,1993-12-12,7.902,['Drama'],8.1,133.0,Modern Era
+387,1993,1994,66,The Piano,False,en,The Piano,1993-05-19,7.375,"['Drama', 'Romance']",7.5,121.0,Modern Era
+388,1993,1994,66,The Remains of the Day,False,en,The Remains of the Day,1993-11-05,7.362,"['Drama', 'Romance']",7.8,134.0,Modern Era
+389,1993,1994,66,Schindler's List,True,en,Schindler's List,1993-12-15,8.572,"['Drama', 'History', 'War']",9.0,195.0,Modern Era
+390,1994,1995,67,Forrest Gump,True,en,Forrest Gump,1994-06-23,8.477,"['Comedy', 'Drama', 'Romance']",8.8,142.0,Modern Era
+391,1994,1995,67,Four Weddings and a Funeral,False,en,Four Weddings and a Funeral,1994-03-09,6.761,"['Comedy', 'Drama', 'Romance']",7.1,117.0,Modern Era
+392,1994,1995,67,Pulp Fiction,False,en,Pulp Fiction,1994-09-10,8.489,"['Thriller', 'Crime']",8.9,154.0,Modern Era
+393,1994,1995,67,Quiz Show,False,en,Quiz Show,1994-08-25,7.266,"['History', 'Drama', 'Mystery']",7.5,133.0,Modern Era
+394,1994,1995,67,The Shawshank Redemption,False,en,The Shawshank Redemption,1994-09-23,8.71,"['Drama', 'Crime']",9.3,142.0,Modern Era
+395,1995,1996,68,Apollo 13,False,en,Apollo 13,1995-06-30,7.449,"['Drama', 'History']",7.7,140.0,Modern Era
+396,1995,1996,68,Babe,False,en,Babe,1995-07-18,6.191,"['Fantasy', 'Drama', 'Comedy', 'Family']",6.9,91.0,Modern Era
+397,1995,1996,68,Braveheart,True,en,Braveheart,1995-05-24,7.936,"['Action', 'Drama', 'History', 'War']",8.3,178.0,Modern Era
+398,1995,1996,68,The Postman,False,it,Il postino,1994-04-07,7.935,"['Comedy', 'Drama', 'Romance']",7.8,108.0,Modern Era
+399,1995,1996,68,Sense and Sensibility,False,en,Sense and Sensibility,1995-12-13,7.437,"['Drama', 'Romance']",7.7,136.0,Modern Era
+400,1996,1997,69,The English Patient,True,en,The English Patient,1996-11-14,7.174,"['Drama', 'Romance', 'War']",7.4,162.0,Modern Era
+401,1996,1997,69,Fargo,False,en,Fargo,1996-03-08,7.865,"['Crime', 'Drama', 'Thriller']",8.1,98.0,Modern Era
+402,1996,1997,69,Jerry Maguire,False,en,Jerry Maguire,1996-12-13,6.951,"['Comedy', 'Drama', 'Romance']",7.3,139.0,Modern Era
+403,1996,1997,69,Secrets & Lies,False,en,Secrets & Lies,1996-05-24,7.558,['Drama'],8.0,136.0,Modern Era
+404,1996,1997,69,Shine,False,en,Shine,1996-08-15,7.363,['Drama'],7.6,105.0,Modern Era
+405,1997,1998,70,As Good as It Gets,False,en,As Good as It Gets,1997-12-19,7.4,"['Drama', 'Comedy', 'Romance']",7.7,139.0,Modern Era
+406,1997,1998,70,The Full Monty,False,en,The Full Monty,1997-08-13,6.986,['Comedy'],7.2,91.0,Modern Era
+407,1997,1998,70,Good Will Hunting,False,en,Good Will Hunting,1997-12-05,8.153,['Drama'],8.3,126.0,Modern Era
+408,1997,1998,70,L.A. Confidential,False,en,L.A. Confidential,1997-09-19,7.788,"['Crime', 'Mystery', 'Thriller']",8.2,138.0,Modern Era
+409,1997,1998,70,Titanic,True,en,Titanic,1997-11-18,7.902,"['Drama', 'Romance']",7.9,194.0,Modern Era
+410,1998,1999,71,Elizabeth,False,en,Elizabeth,1998-09-13,7.174,"['Drama', 'History']",7.4,124.0,Modern Era
+411,1998,1999,71,Life Is Beautiful,False,it,La vita è bella,1997-12-20,8.456,"['Comedy', 'Drama']",8.6,116.0,Modern Era
+412,1998,1999,71,Saving Private Ryan,False,en,Saving Private Ryan,1998-07-24,8.212,"['Drama', 'History', 'War']",8.6,169.0,Modern Era
+413,1998,1999,71,Shakespeare in Love,True,en,Shakespeare in Love,1998-12-11,6.9,"['Romance', 'History', 'Comedy']",7.1,123.0,Modern Era
+414,1998,1999,71,The Thin Red Line,False,en,The Thin Red Line,1998-12-23,7.444,"['Drama', 'History', 'War']",7.6,170.0,Modern Era
+415,1999,2000,72,American Beauty,True,en,American Beauty,1999-09-15,8.019,['Drama'],8.3,122.0,Modern Era
+416,1999,2000,72,The Cider House Rules,False,en,The Cider House Rules,1999-12-17,7.02,['Drama'],7.4,126.0,Modern Era
+417,1999,2000,72,The Green Mile,False,en,The Green Mile,1999-12-10,8.51,"['Fantasy', 'Drama', 'Crime']",8.6,189.0,Modern Era
+418,1999,2000,72,The Insider,False,en,The Insider,1999-10-28,7.463,"['Drama', 'Thriller']",7.8,157.0,Modern Era
+419,1999,2000,72,The Sixth Sense,False,en,The Sixth Sense,1999-08-06,7.947,"['Mystery', 'Thriller', 'Drama']",8.2,107.0,Modern Era
+420,2000,2001,73,Chocolat,False,en,Chocolat,2000-12-22,6.966,"['Comedy', 'Drama', 'Romance']",7.3,121.0,New Millennium
+421,2000,2001,73,"Crouching Tiger, Hidden Dragon",False,zh,卧虎藏龍,2000-07-06,7.415,"['Adventure', 'Drama', 'Action', 'Romance']",7.9,120.0,New Millennium
+422,2000,2001,73,Erin Brockovich,False,en,Erin Brockovich,2000-03-17,7.427,['Drama'],7.4,131.0,New Millennium
+423,2000,2001,73,Gladiator,True,en,Gladiator,2000-05-04,8.213,"['Action', 'Drama', 'Adventure']",8.5,155.0,New Millennium
+424,2000,2001,73,Traffic,False,en,Traffic,2000-12-27,7.0,"['Thriller', 'Drama', 'Crime']",7.6,147.0,New Millennium
+425,2001,2002,74,A Beautiful Mind,True,en,A Beautiful Mind,2001-12-14,7.855,"['Drama', 'Romance']",8.2,135.0,New Millennium
+426,2001,2002,74,Gosford Park,False,en,Gosford Park,2001-11-07,6.843,"['Drama', 'Mystery', 'Thriller']",7.2,137.0,New Millennium
+427,2001,2002,74,In the Bedroom,False,en,In the Bedroom,2001-11-23,6.919,"['Drama', 'Thriller']",7.4,131.0,New Millennium
+428,2001,2002,74,The Lord of the Rings: The Fellowship of the Ring,False,en,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,8.407,"['Adventure', 'Fantasy', 'Action']",8.9,178.0,New Millennium
+429,2001,2002,74,Moulin Rouge!,False,en,Moulin Rouge!,2001-05-24,7.574,"['Drama', 'Romance', 'Music']",7.6,127.0,New Millennium
+430,2002,2003,75,Chicago,True,en,Chicago,2002-12-10,7.1,"['Comedy', 'Crime', 'Drama']",7.2,113.0,New Millennium
+431,2002,2003,75,Gangs of New York,False,en,Gangs of New York,2002-12-14,7.319,"['Drama', 'History', 'Crime']",7.5,167.0,New Millennium
+432,2002,2003,75,The Hours,False,en,The Hours,2002-12-27,7.289,['Drama'],7.5,110.0,New Millennium
+433,2002,2003,75,The Lord of the Rings: The Two Towers,False,en,The Lord of the Rings: The Two Towers,2002-12-18,8.389,"['Adventure', 'Fantasy', 'Action']",8.8,179.0,New Millennium
+434,2002,2003,75,The Pianist,False,en,The Pianist,2002-09-17,8.384,"['Drama', 'War']",8.5,150.0,New Millennium
+435,2003,2004,76,The Lord of the Rings: The Return of the King,True,en,The Lord of the Rings: The Return of the King,2003-12-01,8.476,"['Adventure', 'Fantasy', 'Action']",9.0,201.0,New Millennium
+436,2003,2004,76,Lost in Translation,False,en,Lost in Translation,2003-09-18,7.391,"['Drama', 'Romance']",7.7,102.0,New Millennium
+437,2003,2004,76,Master and Commander: The Far Side of the World,False,en,Master and Commander: The Far Side of the World,2003-11-14,7.138,"['Adventure', 'Drama', 'War']",7.5,138.0,New Millennium
+438,2003,2004,76,Mystic River,False,en,Mystic River,2003-03-03,7.745,"['Thriller', 'Crime', 'Drama', 'Mystery']",7.9,138.0,New Millennium
+439,2003,2004,76,Seabiscuit,False,en,Seabiscuit,2003-07-22,7.012,"['Drama', 'History']",7.3,140.0,New Millennium
+440,2004,2005,77,The Aviator,False,en,The Aviator,2004-12-17,7.227,['Drama'],7.5,170.0,New Millennium
+441,2004,2005,77,Finding Neverland,False,en,Finding Neverland,2004-10-17,7.321,"['Drama', 'Documentary']",7.7,106.0,New Millennium
+442,2004,2005,77,Million Dollar Baby,True,en,Million Dollar Baby,2004-12-15,7.951,['Drama'],8.1,132.0,New Millennium
+443,2004,2005,77,Ray,False,en,Ray,2004-10-29,7.437,"['Drama', 'Music']",7.7,152.0,New Millennium
+444,2004,2005,77,Sideways,False,en,Sideways,2004-10-22,7.094,"['Comedy', 'Drama', 'Romance']",7.5,127.0,New Millennium
+445,2005,2006,78,Brokeback Mountain,False,en,Brokeback Mountain,2005-09-10,7.798,"['Drama', 'Romance']",7.7,134.0,New Millennium
+446,2005,2006,78,Capote,False,en,Capote,2005-09-30,6.991,"['Crime', 'Drama']",7.3,114.0,New Millennium
+447,2005,2006,78,Crash,True,en,Crash,2005-05-06,7.227,['Drama'],7.7,112.0,New Millennium
+448,2005,2006,78,"Good Night, and Good Luck.",False,en,"Good Night, and Good Luck.",2005-09-16,7.085,"['Drama', 'History']",7.4,93.0,New Millennium
+449,2005,2006,78,Munich,False,en,Munich,2005-12-23,7.145,"['Drama', 'Action', 'History', 'Thriller']",7.5,164.0,New Millennium
+450,2006,2007,79,Babel,False,en,Babel,2006-10-26,7.182,['Drama'],7.5,143.0,New Millennium
+451,2006,2007,79,The Departed,True,en,The Departed,2006-10-04,8.166,"['Drama', 'Thriller', 'Crime']",8.5,151.0,New Millennium
+452,2006,2007,79,Letters from Iwo Jima,False,en,Letters from Iwo Jima,2006-12-19,7.462,"['Action', 'Drama', 'War']",7.8,141.0,New Millennium
+453,2006,2007,79,Little Miss Sunshine,False,en,Little Miss Sunshine,2006-07-26,7.681,"['Comedy', 'Drama']",7.8,101.0,New Millennium
+454,2006,2007,79,The Queen,False,en,The Queen,2006-09-15,6.958,"['Drama', 'History']",7.3,103.0,New Millennium
+455,2007,2008,80,Atonement,False,en,Atonement,2007-09-07,7.651,"['Drama', 'Romance']",7.8,123.0,New Millennium
+456,2007,2008,80,Juno,False,en,Juno,2007-12-05,7.049,"['Comedy', 'Drama', 'Romance']",7.5,96.0,New Millennium
+457,2007,2008,80,Michael Clayton,False,en,Michael Clayton,2007-09-28,6.773,"['Drama', 'Thriller', 'Mystery', 'Crime']",7.2,119.0,New Millennium
+458,2007,2008,80,No Country for Old Men,True,en,No Country for Old Men,2007-06-13,7.936,"['Crime', 'Drama', 'Thriller']",8.2,122.0,New Millennium
+459,2007,2008,80,There Will Be Blood,False,en,There Will Be Blood,2007-12-26,8.083,['Drama'],8.2,158.0,New Millennium
+460,2008,2009,81,The Curious Case of Benjamin Button,False,en,The Curious Case of Benjamin Button,2008-12-25,7.582,"['Drama', 'Fantasy', 'Romance']",7.8,166.0,New Millennium
+461,2008,2009,81,Frost/Nixon,False,en,Frost/Nixon,2008-10-15,7.307,"['Drama', 'History']",7.7,122.0,New Millennium
+462,2008,2009,81,Milk,False,en,Milk,2008-11-05,7.25,"['History', 'Drama']",7.5,128.0,New Millennium
+463,2008,2009,81,The Reader,False,en,The Reader,2008-12-10,7.441,"['Drama', 'Romance']",7.6,124.0,New Millennium
+464,2008,2009,81,Slumdog Millionaire,True,en,Slumdog Millionaire,2008-11-12,7.731,"['Drama', 'Romance']",8.0,120.0,New Millennium
+465,2009,2010,82,Avatar,False,en,Avatar,2009-12-15,7.575,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",7.9,162.0,New Millennium
+466,2009,2010,82,The Blind Side,False,en,The Blind Side,2009-11-20,7.693,['Drama'],7.6,129.0,New Millennium
+467,2009,2010,82,District 9,False,en,District 9,2009-08-05,7.429,['Science Fiction'],7.9,112.0,New Millennium
+468,2009,2010,82,An Education,False,en,An Education,2009-10-29,6.937,"['Drama', 'Romance']",7.3,100.0,New Millennium
+469,2009,2010,82,The Hurt Locker,True,en,The Hurt Locker,2008-10-10,7.257,"['Drama', 'Thriller', 'War']",7.5,131.0,New Millennium
+470,2009,2010,82,Inglourious Basterds,False,en,Inglourious Basterds,2009-08-02,8.216,"['Drama', 'Thriller', 'War']",8.4,153.0,New Millennium
+471,2009,2010,82,Precious,False,en,Precious,2009-11-06,7.334,['Drama'],7.3,110.0,New Millennium
+472,2009,2010,82,A Serious Man,False,en,A Serious Man,2009-09-30,6.746,"['Comedy', 'Drama']",7.0,106.0,New Millennium
+473,2009,2010,82,Up,False,en,Up,2009-05-28,7.954,"['Animation', 'Comedy', 'Family', 'Adventure']",8.3,96.0,New Millennium
+474,2009,2010,82,Up in the Air,False,en,Up in the Air,2009-09-05,6.86,"['Drama', 'Romance']",7.4,109.0,New Millennium
+475,2010,2011,83,Black Swan,False,en,Black Swan,2010-12-03,7.677,"['Drama', 'Thriller', 'Horror']",8.0,108.0,New Millennium
+476,2010,2011,83,The Fighter,False,en,The Fighter,2010-12-10,7.382,['Drama'],7.8,116.0,New Millennium
+477,2010,2011,83,Inception,False,en,Inception,2010-07-15,8.367,"['Action', 'Science Fiction', 'Adventure']",8.8,148.0,New Millennium
+478,2010,2011,83,The Kids Are All Right,False,en,The Kids Are All Right,2010-07-09,6.591,"['Comedy', 'Drama']",7.0,106.0,New Millennium
+479,2010,2011,83,The King's Speech,True,en,The King's Speech,2010-11-26,7.741,"['Drama', 'History']",8.0,118.0,New Millennium
+480,2010,2011,83,127 Hours,False,en,127 Hours,2010-11-12,7.075,"['Adventure', 'Drama', 'Thriller']",7.5,94.0,New Millennium
+481,2010,2011,83,The Social Network,False,en,The Social Network,2010-10-01,7.363,['Drama'],7.8,120.0,New Millennium
+482,2010,2011,83,Toy Story 3,False,en,Toy Story 3,2010-06-16,7.793,"['Animation', 'Family', 'Comedy']",8.3,103.0,New Millennium
+483,2010,2011,83,True Grit,False,en,True Grit,2010-12-22,7.305,"['Drama', 'Adventure', 'Western']",7.6,110.0,New Millennium
+484,2010,2011,83,Winter's Bone,False,en,Winter's Bone,2010-06-11,6.811,"['Drama', 'Mystery']",7.1,100.0,New Millennium
+485,2011,2012,84,The Artist,True,fr,The Artist,2011-10-12,7.458,"['Drama', 'Comedy', 'Romance']",7.9,100.0,New Millennium
+486,2011,2012,84,The Descendants,False,en,The Descendants,2011-09-09,6.833,"['Comedy', 'Drama']",7.3,115.0,New Millennium
+487,2011,2012,84,Extremely Loud & Incredibly Close,False,en,Extremely Loud & Incredibly Close,2011-12-25,6.976,['Drama'],6.9,129.0,New Millennium
+488,2011,2012,84,The Help,False,en,The Help,2011-08-09,8.205,['Drama'],8.1,146.0,New Millennium
+489,2011,2012,84,Hugo,False,en,Hugo,2011-11-22,7.176,"['Adventure', 'Drama', 'Family']",7.5,126.0,New Millennium
+490,2011,2012,84,Midnight in Paris,False,en,Midnight in Paris,2011-05-11,7.536,"['Fantasy', 'Comedy', 'Romance']",7.6,94.0,New Millennium
+491,2011,2012,84,Moneyball,False,en,Moneyball,2011-09-23,7.269,['Drama'],7.6,133.0,New Millennium
+492,2011,2012,84,The Tree of Life,False,en,The Tree of Life,2011-05-17,6.735,"['Drama', 'Fantasy']",6.8,139.0,New Millennium
+493,2011,2012,84,War Horse,False,en,War Horse,2011-12-25,7.306,"['War', 'History', 'Drama', 'Adventure']",7.2,146.0,New Millennium
+494,2012,2013,85,Amour,False,fr,Amour,2012-09-20,7.763,"['Drama', 'Romance']",7.9,127.0,New Millennium
+495,2012,2013,85,Argo,True,en,Argo,2012-10-11,7.278,"['Drama', 'Thriller']",7.7,120.0,New Millennium
+496,2012,2013,85,Beasts of the Southern Wild,False,en,Beasts of the Southern Wild,2012-06-29,6.816,"['Drama', 'Fantasy']",7.2,93.0,New Millennium
+497,2012,2013,85,Django Unchained,False,en,Django Unchained,2012-12-25,8.174,"['Drama', 'Western']",8.5,165.0,New Millennium
+498,2012,2013,85,Les Misérables,False,en,Les Misérables,2012-12-18,7.339,"['History', 'Drama']",7.5,158.0,New Millennium
+499,2012,2013,85,Life of Pi,False,en,Life of Pi,2012-11-20,7.397,"['Adventure', 'Drama']",7.9,127.0,New Millennium
+500,2012,2013,85,Lincoln,False,en,Lincoln,2012-11-09,6.863,"['History', 'Drama']",7.3,150.0,New Millennium
+501,2012,2013,85,Silver Linings Playbook,False,en,Silver Linings Playbook,2012-11-16,7.134,"['Drama', 'Comedy', 'Romance']",7.7,122.0,New Millennium
+502,2012,2013,85,Zero Dark Thirty,False,en,Zero Dark Thirty,2012-12-19,6.985,"['Thriller', 'Drama']",7.4,157.0,New Millennium
+503,2013,2014,86,American Hustle,False,en,American Hustle,2013-12-03,6.853,"['Drama', 'Crime']",7.2,138.0,New Millennium
+504,2013,2014,86,Captain Phillips,False,en,Captain Phillips,2013-10-10,7.55,"['Action', 'Drama', 'Thriller']",7.8,134.0,New Millennium
+505,2013,2014,86,Dallas Buyers Club,False,en,Dallas Buyers Club,2013-11-01,7.932,"['Drama', 'History']",7.9,117.0,New Millennium
+506,2013,2014,86,Gravity,False,en,Gravity,2013-10-03,7.162,"['Science Fiction', 'Thriller', 'Drama']",7.7,91.0,New Millennium
+507,2013,2014,86,Her,False,en,Her,2013-12-18,7.86,"['Romance', 'Science Fiction', 'Drama']",8.0,126.0,New Millennium
+508,2013,2014,86,Nebraska,False,en,Nebraska,2013-09-21,7.431,"['Drama', 'Adventure']",7.7,115.0,New Millennium
+509,2013,2014,86,Philomena,False,en,Philomena,2013-11-01,7.362,['Drama'],7.6,98.0,New Millennium
+510,2013,2014,86,12 Years a Slave,True,en,12 Years a Slave,2013-10-18,7.946,"['Drama', 'History']",8.1,134.0,New Millennium
+511,2013,2014,86,The Wolf of Wall Street,False,en,The Wolf of Wall Street,2013-12-25,8.035,"['Crime', 'Drama', 'Comedy']",8.2,180.0,New Millennium
+512,2014,2015,87,American Sniper,False,en,American Sniper,2014-12-25,7.429,"['War', 'Action']",7.3,133.0,New Millennium
+513,2014,2015,87,Birdman or (The Unexpected Virtue of Ignorance),True,en,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,7.467,"['Drama', 'Comedy']",7.7,119.0,New Millennium
+514,2014,2015,87,Boyhood,False,en,Boyhood,2014-06-05,7.5,['Drama'],7.9,165.0,New Millennium
+515,2014,2015,87,The Grand Budapest Hotel,False,en,The Grand Budapest Hotel,2014-02-26,8.051,"['Comedy', 'Drama']",8.1,99.0,New Millennium
+516,2014,2015,87,The Imitation Game,False,en,The Imitation Game,2014-11-14,8.008,"['History', 'Drama', 'Thriller', 'War']",8.0,114.0,New Millennium
+517,2014,2015,87,Selma,False,en,Selma,2014-12-25,7.4,"['History', 'Drama']",7.5,128.0,New Millennium
+518,2014,2015,87,The Theory of Everything,False,en,The Theory of Everything,2014-11-26,7.859,"['Drama', 'Romance']",7.7,123.0,New Millennium
+519,2014,2015,87,Whiplash,False,en,Whiplash,2014-10-10,8.383,"['Drama', 'Music']",8.5,106.0,New Millennium
+520,2015,2016,88,The Big Short,False,en,The Big Short,2015-12-11,7.348,"['Comedy', 'Drama']",7.8,130.0,New Millennium
+521,2015,2016,88,Bridge of Spies,False,en,Bridge of Spies,2015-10-15,7.228,"['Thriller', 'Drama']",7.6,142.0,New Millennium
+522,2015,2016,88,Brooklyn,False,en,Brooklyn,2015-10-20,7.311,"['Romance', 'Drama']",7.5,117.0,New Millennium
+523,2015,2016,88,Mad Max: Fury Road,False,en,Mad Max: Fury Road,2015-05-13,7.586,"['Action', 'Adventure', 'Science Fiction']",8.1,120.0,New Millennium
+524,2015,2016,88,The Martian,False,en,The Martian,2015-09-30,7.683,"['Drama', 'Adventure', 'Science Fiction']",8.0,144.0,New Millennium
+525,2015,2016,88,The Revenant,False,en,The Revenant,2015-12-25,7.529,"['Western', 'Drama', 'Adventure']",8.0,156.0,New Millennium
+526,2015,2016,88,Room,False,en,Room,2015-10-16,8.03,"['Drama', 'Thriller']",8.1,118.0,New Millennium
+527,2015,2016,88,Spotlight,True,en,Spotlight,2015-11-06,7.816,"['Drama', 'History']",8.1,129.0,New Millennium
+528,2016,2017,89,Arrival,False,en,Arrival,2016-11-10,7.593,"['Drama', 'Science Fiction', 'Mystery']",7.9,116.0,New Millennium
+529,2016,2017,89,Fences,False,en,Fences,2016-12-16,6.875,['Drama'],7.2,139.0,New Millennium
+530,2016,2017,89,Hacksaw Ridge,False,en,Hacksaw Ridge,2016-10-07,8.191,"['Drama', 'History', 'War']",8.1,139.0,New Millennium
+531,2016,2017,89,Hell or High Water,False,en,Hell or High Water,2016-08-11,7.299,"['Western', 'Crime', 'Drama']",7.6,102.0,New Millennium
+532,2016,2017,89,Hidden Figures,False,en,Hidden Figures,2016-12-10,8.057,"['Drama', 'History']",7.8,127.0,New Millennium
+533,2016,2017,89,La La Land,False,en,La La Land,2016-11-29,7.901,"['Comedy', 'Drama', 'Romance', 'Music']",8.0,128.0,New Millennium
+534,2016,2017,89,Lion,False,en,Lion,2016-11-24,8.08,['Drama'],8.0,118.0,New Millennium
+535,2016,2017,89,Manchester by the Sea,False,en,Manchester by the Sea,2016-11-18,7.545,['Drama'],7.8,137.0,New Millennium
+536,2016,2017,89,Moonlight,True,en,Moonlight,2016-10-21,7.391,['Drama'],7.4,111.0,New Millennium
+537,2017,2018,90,Call Me by Your Name,False,en,Call Me by Your Name,2017-09-01,8.16,"['Romance', 'Drama']",7.8,132.0,New Millennium
+538,2017,2018,90,Darkest Hour,False,en,Darkest Hour,2017-11-22,7.353,"['Drama', 'History']",7.4,125.0,New Millennium
+539,2017,2018,90,Dunkirk,False,en,Dunkirk,2017-07-19,7.454,"['War', 'Action', 'Drama']",7.8,106.0,New Millennium
+540,2017,2018,90,Get Out,False,en,Get Out,2017-02-24,7.617,"['Mystery', 'Thriller', 'Horror']",7.8,104.0,New Millennium
+541,2017,2018,90,Lady Bird,False,en,Lady Bird,2017-09-01,7.271,"['Drama', 'Comedy']",7.4,94.0,New Millennium
+542,2017,2018,90,Phantom Thread,False,en,Phantom Thread,2017-12-25,7.304,"['Drama', 'Romance']",7.4,130.0,New Millennium
+543,2017,2018,90,The Post,False,en,The Post,2017-12-22,6.998,"['Drama', 'History']",7.2,116.0,New Millennium
+544,2017,2018,90,The Shape of Water,True,en,The Shape of Water,2017-12-01,7.247,"['Drama', 'Fantasy', 'Romance']",7.3,123.0,New Millennium
+545,2017,2018,90,"Three Billboards outside Ebbing, Missouri",False,en,"Three Billboards Outside Ebbing, Missouri",2017-12-01,8.08,"['Crime', 'Drama']",8.1,115.0,New Millennium
+546,2018,2019,91,Black Panther,False,en,Black Panther,2018-02-13,7.387,"['Action', 'Adventure', 'Science Fiction']",7.3,134.0,New Millennium
+547,2018,2019,91,BlacKkKlansman,False,en,BlacKkKlansman,2018-08-09,7.517,"['Comedy', 'Crime', 'Drama', 'History']",7.5,135.0,New Millennium
+548,2018,2019,91,Bohemian Rhapsody,False,en,Bohemian Rhapsody,2018-10-24,8.0,"['Music', 'Drama']",7.9,134.0,New Millennium
+549,2018,2019,91,The Favourite,False,en,The Favourite,2018-11-23,7.5,"['Drama', 'Comedy', 'Thriller']",7.5,119.0,New Millennium
+550,2018,2019,91,Green Book,True,en,Green Book,2018-11-16,8.243,"['Drama', 'History']",8.2,130.0,New Millennium
+551,2018,2019,91,Roma,False,es,Roma,2018-08-25,7.667,['Drama'],7.7,135.0,New Millennium
+552,2018,2019,91,A Star Is Born,False,en,A Star Is Born,2018-10-03,7.5,"['Music', 'Drama', 'Romance']",7.6,136.0,New Millennium
+553,2018,2019,91,Vice,False,en,Vice,2018-12-25,7.044,"['Comedy', 'Drama']",7.2,132.0,New Millennium
+554,2019,2020,92,Ford v Ferrari,False,en,Ford v Ferrari,2019-11-13,8.011,"['Drama', 'Action', 'History']",8.1,152.0,New Millennium
+555,2019,2020,92,The Irishman,False,en,The Irishman,2019-11-01,7.614,"['Crime', 'Drama', 'History']",7.8,209.0,New Millennium
+556,2019,2020,92,Jojo Rabbit,False,en,Jojo Rabbit,2019-10-18,8.033,"['Comedy', 'War', 'Drama']",7.9,108.0,New Millennium
+557,2019,2020,92,Joker,False,en,Joker,2019-10-01,8.166,"['Crime', 'Thriller', 'Drama']",8.4,122.0,New Millennium
+558,2019,2020,92,Little Women,False,en,Little Women,2019-12-25,7.895,"['Drama', 'Romance']",7.8,135.0,New Millennium
+559,2019,2020,92,Marriage Story,False,en,Marriage Story,2019-09-28,7.747,['Drama'],7.9,137.0,New Millennium
+560,2019,2020,92,1917,False,en,1917,2019-12-25,7.992,"['War', 'Action', 'Drama']",8.2,119.0,New Millennium
+561,2019,2020,92,Once Upon a Time… in Hollywood,False,en,Once Upon a Time… in Hollywood,2019-07-24,7.439,"['Comedy', 'Drama', 'Thriller']",7.6,161.0,New Millennium
+562,2019,2020,92,Parasite,True,ko,기생충,2019-05-30,8.511,"['Comedy', 'Thriller', 'Drama']",8.5,132.0,New Millennium
+563,2020,2021,93,The Father,False,en,The Father,2020-12-23,8.146,['Drama'],8.2,97.0,New Millennium
+564,2020,2021,93,Judas and the Black Messiah,False,en,Judas and the Black Messiah,2021-02-12,7.347,"['Drama', 'History']",7.4,126.0,New Millennium
+565,2020,2021,93,Mank,False,en,Mank,2020-11-13,6.728,"['Drama', 'History']",6.8,131.0,New Millennium
+566,2020,2021,93,Minari,False,en,Minari,2021-02-12,7.359,['Drama'],7.4,115.0,New Millennium
+567,2020,2021,93,Nomadland,True,en,Nomadland,2021-01-29,7.225,['Drama'],7.3,107.0,New Millennium
+568,2020,2021,93,Promising Young Woman,False,en,Promising Young Woman,2020-12-13,7.45,"['Thriller', 'Crime', 'Drama']",7.5,113.0,New Millennium
+569,2020,2021,93,Sound of Metal,False,en,Sound of Metal,2020-11-20,7.743,"['Drama', 'Music']",7.7,120.0,New Millennium
+570,2020,2021,93,The Trial of the Chicago 7,False,en,The Trial of the Chicago 7,2020-09-25,7.721,"['Drama', 'History']",7.7,129.0,New Millennium
+571,2021,2022,94,Belfast,False,en,Belfast,2021-11-12,7.112,"['Drama', 'History']",7.2,98.0,New Millennium
+572,2021,2022,94,CODA,True,en,CODA,2021-08-11,7.953,"['Drama', 'Music', 'Romance']",8.0,111.0,New Millennium
+573,2021,2022,94,Don't Look Up,False,en,Don't Look Up,2021-12-07,7.125,"['Comedy', 'Science Fiction', 'Drama']",7.2,138.0,New Millennium
+574,2021,2022,94,Drive My Car,False,ja,ドライブ・マイ・カー,2021-08-18,7.405,['Drama'],7.5,179.0,New Millennium
+575,2021,2022,94,Dune,False,en,Dune,2021-09-15,7.783,"['Science Fiction', 'Adventure']",8.0,155.0,New Millennium
+576,2021,2022,94,King Richard,False,en,King Richard,2021-11-18,7.699,"['Drama', 'History']",7.5,144.0,New Millennium
+577,2021,2022,94,Licorice Pizza,False,en,Licorice Pizza,2021-11-26,6.998,"['Drama', 'Comedy', 'Romance']",7.1,133.0,New Millennium
+578,2021,2022,94,Nightmare Alley,False,en,Nightmare Alley,2021-12-02,6.998,"['Crime', 'Thriller', 'Drama']",7.0,150.0,New Millennium
+579,2021,2022,94,The Power of the Dog,False,en,The Power of the Dog,2021-10-25,6.782,"['Drama', 'Western']",6.8,126.0,New Millennium
+580,2021,2022,94,West Side Story,False,en,West Side Story,2021-12-08,7.024,"['Drama', 'Romance', 'Crime']",7.1,156.0,New Millennium
+581,2022,2023,95,All Quiet on the Western Front,False,de,Im Westen nichts Neues,2022-10-07,7.737,"['Drama', 'War']",7.8,148.0,New Millennium
+582,2022,2023,95,Avatar: The Way of Water,False,en,Avatar: The Way of Water,2022-12-14,7.643,"['Science Fiction', 'Adventure', 'Action']",7.6,192.0,New Millennium
+583,2022,2023,95,The Banshees of Inisherin,False,en,The Banshees of Inisherin,2022-10-20,7.457,"['Drama', 'Comedy']",7.7,114.0,New Millennium
+584,2022,2023,95,Elvis,False,en,Elvis,2022-06-22,7.572,"['Drama', 'Music']",7.3,159.0,New Millennium
+585,2022,2023,95,Everything Everywhere All at Once,True,en,Everything Everywhere All at Once,2022-03-24,7.811,"['Action', 'Adventure', 'Science Fiction']",7.8,139.0,New Millennium
+586,2022,2023,95,The Fabelmans,False,en,The Fabelmans,2022-11-11,7.692,"['Drama', 'Comedy']",7.5,151.0,New Millennium
+587,2022,2023,95,Tár,False,en,TÁR,2022-09-23,7.143,"['Drama', 'Music']",7.4,158.0,New Millennium
+588,2022,2023,95,Top Gun: Maverick,False,en,Top Gun: Maverick,2022-05-24,8.237,"['Action', 'Drama']",8.3,130.0,New Millennium
+589,2022,2023,95,Triangle of Sadness,False,en,Triangle of Sadness,2022-09-18,7.116,"['Comedy', 'Drama']",7.3,147.0,New Millennium
+590,2022,2023,95,Women Talking,False,en,Women Talking,2022-12-23,6.908,"['Drama', 'Crime']",6.9,104.0,New Millennium
